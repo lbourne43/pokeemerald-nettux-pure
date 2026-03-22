@@ -2210,4 +2210,82 @@ extern const u8 gText_NettuxCantHealHere[];
 
 extern const u8 gText_MenuPC[];
 
+extern const u8 gText_NettuxBattleMart[];
+extern const u8 gText_NettuxTrainingMart[];
+extern const u8 gText_NettuxTMMart[];
+extern const u8 gText_NettuxEvolveMart[];
+extern const u8 gText_NettuxHyperTrain[];
+extern const u8 gText_NettuxTeraTrain[];
+
+extern const u8 gText_NettuxHyperHP[];
+extern const u8 gText_NettuxHyperAtk[];
+extern const u8 gText_NettuxHyperDef[];
+extern const u8 gText_NettuxHyperSpA[];
+extern const u8 gText_NettuxHyperSpD[];
+extern const u8 gText_NettuxHyperSpe[];
+
+extern const u8 gText_NettuxTeraNormal[];
+extern const u8 gText_NettuxTeraFire[];
+extern const u8 gText_NettuxTeraWater[];
+extern const u8 gText_NettuxTeraElectric[];
+extern const u8 gText_NettuxTeraGrass[];
+extern const u8 gText_NettuxTeraIce[];
+extern const u8 gText_NettuxTeraFighting[];
+extern const u8 gText_NettuxTeraPoison[];
+extern const u8 gText_NettuxTeraGround[];
+extern const u8 gText_NettuxTeraFlying[];
+extern const u8 gText_NettuxTeraPsychic[];
+extern const u8 gText_NettuxTeraBug[];
+extern const u8 gText_NettuxTeraRock[];
+extern const u8 gText_NettuxTeraGhost[];
+extern const u8 gText_NettuxTeraDragon[];
+extern const u8 gText_NettuxTeraDark[];
+extern const u8 gText_NettuxTeraSteel[];
+extern const u8 gText_NettuxTeraFairy[];
+extern const u8 gText_NettuxTeraStellar[];
+
+extern const u8 gText_NettuxDifficultyNormal[];
+extern const u8 gText_NettuxDifficultyMedium[];
+extern const u8 gText_NettuxDifficultyHard[];
+extern const u8 gText_NettuxDifficultyDoubles[];
+
+extern const u8 gText_Pokenav_Access_PC[];
+extern const u8 gText_Pokenav_Cannot_Access_PC[];
+
+extern const u8 gText_NettuxStatusBurn[];
+extern const u8 gText_NettuxStatusFreeze[];
+extern const u8 gText_NettuxStatusParalysis[];
+extern const u8 gText_NettuxStatusSleep[];
+extern const u8 gText_NettuxStatusPoison[];
+extern const u8 gText_NettuxStatusToxic[];
+
+extern const u8 gText_NettuxHeal[];
+extern const u8 gText_NettuxStatus[];
+
+extern const u8 gText_NettuxAdamant[];
+extern const u8 gText_NettuxBashful[];
+extern const u8 gText_NettuxBold[];
+extern const u8 gText_NettuxBrave[];
+extern const u8 gText_NettuxCalm[];
+extern const u8 gText_NettuxCareful[];
+extern const u8 gText_NettuxDocile[];
+extern const u8 gText_NettuxGentle[];
+extern const u8 gText_NettuxHardy[];
+extern const u8 gText_NettuxHasty[];
+extern const u8 gText_NettuxImpish[];
+extern const u8 gText_NettuxJolly[];
+extern const u8 gText_NettuxLax[];
+extern const u8 gText_NettuxLonely[];
+extern const u8 gText_NettuxMild[];
+extern const u8 gText_NettuxModest[];
+extern const u8 gText_NettuxNaive[];
+extern const u8 gText_NettuxNaughty[];
+extern const u8 gText_NettuxQuiet[];
+extern const u8 gText_NettuxQuirky[];
+extern const u8 gText_NettuxRash[];
+extern const u8 gText_NettuxRelaxed[];
+extern const u8 gText_NettuxSassy[];
+extern const u8 gText_NettuxSerious[];
+extern const u8 gText_NettuxTimid[];
+
 #endif // GUARD_STRINGS_H

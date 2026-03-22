@@ -23732,6 +23732,12 @@ gBattleAnimMove_Flash::
 	waitforvisualfinish
 	end
 
+gBattleAnimMove_Blackout::
+        playsewithpan SE_M_LEER, SOUND_PAN_ATTACKER
+        createvisualtask AnimTask_Flash, 2
+        waitforvisualfinish
+        end
+
 gBattleAnimMove_Splash::
 	createvisualtask AnimTask_Splash, 2, ANIM_ATTACKER, 3
 	delay 8

@@ -1221,4 +1221,81 @@ const u8 gText_CleanseTagTurnOff[] = _("Turned off Cleanse Tag.{PAUSE_UNTIL_PRES
 const u8 gText_NettuxHealed[] = _("Healed.{PAUSE_UNTIL_PRESS}");
 const u8 gText_NettuxCantHealHere[] = _("Can't heal here.{PAUSE_UNTIL_PRESS}");
 
+const u8 gText_NettuxBattleMart[] = _("Battle Mart");
+const u8 gText_NettuxTrainingMart[] = _("Training Mart");                                                               const u8 gText_NettuxTMMart[] = _("TM Mart");
+const u8 gText_NettuxEvolveMart[] = _("Evolvution Mart");
+const u8 gText_NettuxHyperTrain[] = _("Hyper Train");
+const u8 gText_NettuxTeraTrain[] = _("Tera Train");
+
+const u8 gText_NettuxHyperHP[] = _("HP");
+const u8 gText_NettuxHyperAtk[] = _("Attack");
+const u8 gText_NettuxHyperDef[] = _("Defense");
+const u8 gText_NettuxHyperSpA[] = _("Sp Atk");
+const u8 gText_NettuxHyperSpD[] = _("Sp Def");
+const u8 gText_NettuxHyperSpe[] = _("Speed");
+
+const u8 gText_NettuxDifficultyNormal[] = _("Normal");
+const u8 gText_NettuxDifficultyMedium[] = _("Medium");
+const u8 gText_NettuxDifficultyHard[] = _("Hard");
+const u8 gText_NettuxDifficultyDoubles[] = _("Doubles");
+
+const u8 gText_NettuxTeraNormal[] = _("Normal");
+const u8 gText_NettuxTeraFire[] = _("Fire");
+const u8 gText_NettuxTeraWater[] = _("Water");
+const u8 gText_NettuxTeraElectric[] = _("Electric");
+const u8 gText_NettuxTeraGrass[] = _("Grass");
+const u8 gText_NettuxTeraIce[] = _("Ice");
+const u8 gText_NettuxTeraFighting[] = _("Fighting");
+const u8 gText_NettuxTeraPoison[] = _("Poison");
+const u8 gText_NettuxTeraGround[] = _("Ground");
+const u8 gText_NettuxTeraFlying[] = _("Flying");
+const u8 gText_NettuxTeraPsychic[] = _("Psychic");
+const u8 gText_NettuxTeraBug[] = _("Bug");
+const u8 gText_NettuxTeraRock[] = _("Rock");
+const u8 gText_NettuxTeraGhost[] = _("Ghost");
+const u8 gText_NettuxTeraDragon[] = _("Dragon");
+const u8 gText_NettuxTeraDark[] = _("Dark");
+const u8 gText_NettuxTeraSteel[] = _("Steel");
+const u8 gText_NettuxTeraFairy[] = _("Fairy");
+const u8 gText_NettuxTeraStellar[] = _("Stellar");
+
+const u8 gText_Pokenav_Access_PC[] = _("Access your PC.");
+const u8 gText_Pokenav_Cannot_Access_PC[] = _("Can't access PC. Go outside.");
+
+const u8 gText_NettuxStatusBurn[] = _("Burn");
+const u8 gText_NettuxStatusFreeze[] = _("Freeze");
+const u8 gText_NettuxStatusParalysis[] = _("Paralysis");
+const u8 gText_NettuxStatusSleep[] = _("Sleep");
+const u8 gText_NettuxStatusPoison[] = _("Poison");
+const u8 gText_NettuxStatusToxic[] = _("Toxic");
+
+const u8 gText_NettuxHeal[] = _("Heal");
+const u8 gText_NettuxStatus[] = _("Status");
+
 const u8 gText_MenuPC[] = _("PC");
+
+const u8 gText_NettuxAdamant[] = _("Adamant");
+const u8 gText_NettuxBashful[] = _("Bashful");
+const u8 gText_NettuxBold[] = _("Bold");
+const u8 gText_NettuxBrave[] = _("Brave");
+const u8 gText_NettuxCalm[] = _("Calm");
+const u8 gText_NettuxCareful[] = _("Careful");
+const u8 gText_NettuxDocile[] = _("Docile");
+const u8 gText_NettuxGentle[] = _("Gentle");
+const u8 gText_NettuxHardy[] = _("Hardy");
+const u8 gText_NettuxHasty[] = _("Hasty");
+const u8 gText_NettuxImpish[] = _("Impish");
+const u8 gText_NettuxJolly[] = _("Jolly");
+const u8 gText_NettuxLax[] = _("Lax");
+const u8 gText_NettuxLonely[] = _("Lonely");
+const u8 gText_NettuxMild[] = _("Mild");
+const u8 gText_NettuxModest[] = _("Modest");
+const u8 gText_NettuxNaive[] = _("Naive");
+const u8 gText_NettuxNaughty[] = _("Naughty");
+const u8 gText_NettuxQuiet[] = _("Quiet");
+const u8 gText_NettuxQuirky[] = _("Quirky");
+const u8 gText_NettuxRash[] = _("Rash");
+const u8 gText_NettuxRelaxed[] = _("Relaxed");
+const u8 gText_NettuxSassy[] = _("Sassy");
+const u8 gText_NettuxSerious[] = _("Serious");
+const u8 gText_NettuxTimid[] = _("Timid");

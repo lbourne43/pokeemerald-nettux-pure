@@ -212,6 +212,7 @@ static const u8* const sBattleAnims_General[NUM_B_ANIMS_GENERAL] =
     [B_ANIM_SMOKEBALL_ESCAPE]       = gBattleAnimGeneral_SmokeballEscape,
     [B_ANIM_HANGED_ON]              = gBattleAnimGeneral_HangedOn,
     [B_ANIM_RAIN_CONTINUES]         = gBattleAnimGeneral_Rain,
+    [B_ANIM_BLACKOUT_CONTINUES]     = gBattleAnimMove_Blackout,
     [B_ANIM_SUN_CONTINUES]          = gBattleAnimGeneral_Sun,
     [B_ANIM_SANDSTORM_CONTINUES]    = gBattleAnimGeneral_Sandstorm,
     [B_ANIM_HAIL_CONTINUES]         = gBattleAnimGeneral_Hail,

@@ -5777,3 +5777,358 @@ bool8 CheckAddCoins(void)
     else
         return TRUE;
 }
+
+void SetNatureAdamant(void)
+{
+    u8 nature = NATURE_ADAMANT;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_HIDDEN_NATURE, &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureBashful(void)
+{
+    u8 nature = NATURE_BASHFUL;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureBold(void)
+{
+    u8 nature = NATURE_BOLD;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureBrave(void)
+{
+    u8 nature = NATURE_BRAVE;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureCalm(void)
+{
+    u8 nature = NATURE_CALM;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureCareful(void)
+{
+    u8 nature = NATURE_CAREFUL;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureGentle(void)
+{
+    u8 nature = NATURE_GENTLE;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureHardy(void)
+{
+    u8 nature = NATURE_HARDY;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureHasty(void)
+{
+    u8 nature = NATURE_HASTY;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureImpish(void)
+{
+    u8 nature = NATURE_IMPISH;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureJolly(void)
+{
+    u8 nature = NATURE_JOLLY;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureLax(void)
+{
+    u8 nature = NATURE_LAX;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureLonely(void)
+{
+    u8 nature = NATURE_LONELY;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureMild(void)
+{
+    u8 nature = NATURE_MILD;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureModest(void)
+{
+    u8 nature = NATURE_MODEST;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureNaive(void)
+{
+    u8 nature = NATURE_NAIVE;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureNaughty(void)
+{
+    u8 nature = NATURE_NAUGHTY;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureQuiet(void)
+{
+    u8 nature = NATURE_QUIET;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureQuirky(void)
+{
+    u8 nature = NATURE_QUIRKY;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureRash(void)
+{
+    u8 nature = NATURE_RASH;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureRelaxed(void)
+{
+    u8 nature = NATURE_RELAXED;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureSassy(void)
+{
+    u8 nature = NATURE_SASSY;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureSerious(void)
+{
+    u8 nature = NATURE_SERIOUS;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void SetNatureTimid(void)
+{
+    u8 nature = NATURE_TIMID;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004],MON_DATA_HIDDEN_NATURE , &nature);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void MaxHpIvs(void)
+{
+    u8 HpIv = 31;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_HP_IV, &HpIv);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+// Sets the Atk EVs of the Pokémon in gSpecialVar_0x8004 according to the current value of var 0x8001
+void MaxAtkIvs(void)
+{
+    u8 AtkIv = 31;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_ATK_IV, &AtkIv);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+// Sets the Def EVs of the Pokémon in gSpecialVar_0x8004 according to the current value of var 0x8002
+void MaxDefIvs(void)
+{
+    u8 DefIv = 31;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_DEF_IV, &DefIv);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+// Sets the Spd EVs of the Pokémon in gSpecialVar_0x8004 according to the current value of var 0x8003
+void MaxSpdIvs(void)
+{
+    u8 SpdIv = 31;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_SPEED_IV, &SpdIv);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+// Sets the SpAtk EVs of the Pokémon in gSpecialVar_0x8004 according to the current value of var 0x8005
+void MaxSpAtkIvs(void)
+{
+    u8 SpAtkIv = 31;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_SPATK_IV, &SpAtkIv);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+// Sets the SpDef EVs of the Pokémon in gSpecialVar_0x8004 according to the current value of var 0x8006
+void MaxSpDefIvs(void)
+{
+    u8 SpDefIv = 31;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_SPDEF_IV, &SpDefIv);
+    CalculateMonStats(&gPlayerParty[gSpecialVar_0x8004]);
+}
+
+void nettuxInflictBurn()
+{
+    u32 status = STATUS1_BURN;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_STATUS, &status);
+}
+
+void nettuxInflictParalysis()
+{
+    u32 status = STATUS1_PARALYSIS;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_STATUS, &status);
+}
+
+void nettuxInflictSleep()
+{
+    u32 status = STATUS1_SLEEP;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_STATUS, &status);
+}
+
+void nettuxInflictFreeze()
+{
+    u32 status = STATUS1_FREEZE;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_STATUS, &status);
+}
+
+void nettuxInflictPoison()
+{
+    u32 status = STATUS1_POISON;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_STATUS, &status);
+}
+
+void nettuxInflictToxicPoison()
+{
+    u32 status = STATUS1_TOXIC_POISON;
+    SetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_STATUS, &status);
+}
+
+void nettuxSetPermanentTrickRoom()
+{
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_TRICK_ROOM);
+    SetStartingStatus(STARTING_STATUS_TRICK_ROOM);
+}
+
+void nettuxSetPermanentTailwindOpponent()
+{
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_TAILWIND_OPPONENT);
+    SetStartingStatus(STARTING_STATUS_TAILWIND_OPPONENT);
+}
+
+void nettuxSetPermanentRain(void)
+{
+    SetSavedWeather(WEATHER_RAIN);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}
+
+void nettuxSetPermanentPrimalRain(void)
+{
+    SetSavedWeather(WEATHER_NETTUX_PRIMAL_RAIN);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}
+
+void nettuxSetPermanentThunder(void)
+{
+    SetSavedWeather(WEATHER_RAIN_THUNDERSTORM);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_TERRAIN);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}
+
+void nettuxSetPermanentSun(void)
+{
+    SetSavedWeather(WEATHER_DROUGHT);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}
+
+void nettuxSetPermanentPrimalSun(void)
+{
+    SetSavedWeather(WEATHER_NETTUX_PRIMAL_SUN);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}
+
+void nettuxSetPermanentDeltaStream(void)
+{
+    SetSavedWeather(WEATHER_NETTUX_STRONG_WINDS);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}
+
+void nettuxSetPermanentHurricane(void)
+{
+    SetSavedWeather(WEATHER_NETTUX_HURRICANE);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}
+
+void nettuxSetPermanentSand(void)
+{
+    SetSavedWeather(WEATHER_SANDSTORM);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}
+
+void nettuxSetPermanentHeatWave(void)
+{
+    SetSavedWeather(WEATHER_NETTUX_HEAT_WAVE);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}
+
+void nettuxSetPermanentMagmaStorm(void)
+{
+    SetSavedWeather(WEATHER_NETTUX_MAGMA_STORM);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}
+
+void nettuxSetPermanentAcidRain(void)
+{
+    SetSavedWeather(WEATHER_NETTUX_ACID_RAIN);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}
+
+void nettuxSetPermanentBlackout(void)
+{
+    SetSavedWeather(WEATHER_NETTUX_BLACKOUT);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}
+
+void nettuxSetPermanentSnow(void)
+{
+    SetSavedWeather(WEATHER_SNOW);
+    FlagSet(FLAG_TEMP_NETTUX_PERMA_WEATHER);
+    FlagSet(FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER);
+}

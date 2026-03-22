@@ -15,12 +15,12 @@
 #define FLAG_TEMP_2      (TEMP_FLAGS_START + 0x2)
 #define FLAG_TEMP_3      (TEMP_FLAGS_START + 0x3)
 #define FLAG_TEMP_4      (TEMP_FLAGS_START + 0x4)
-#define FLAG_TEMP_5      (TEMP_FLAGS_START + 0x5)  // Unused Flag
-#define FLAG_TEMP_6      (TEMP_FLAGS_START + 0x6)  // Unused Flag
-#define FLAG_TEMP_7      (TEMP_FLAGS_START + 0x7)  // Unused Flag
-#define FLAG_TEMP_8      (TEMP_FLAGS_START + 0x8)  // Unused Flag
-#define FLAG_TEMP_9      (TEMP_FLAGS_START + 0x9)  // Unused Flag
-#define FLAG_TEMP_A      (TEMP_FLAGS_START + 0xA)  // Unused Flag
+#define FLAG_TEMP_5      (TEMP_FLAGS_START + 0x5)
+#define FLAG_TEMP_NETTUX_PERMA_WEATHER      (TEMP_FLAGS_START + 0x6)  // Unused Flag
+#define FLAG_TEMP_NETTUX_PERMA_TERRAIN      (TEMP_FLAGS_START + 0x7)  // Unused Flag
+#define FLAG_TEMP_NETTUX_IMMUTABLE_WEATHER  (TEMP_FLAGS_START + 0x8)  // Unused Flag
+#define FLAG_TEMP_NETTUX_PERMA_TRICK_ROOM      (TEMP_FLAGS_START + 0x9)  // Unused Flag
+#define FLAG_TEMP_NETTUX_PERMA_TAILWIND_OPPONENT (TEMP_FLAGS_START + 0xA)  // Unused Flag
 #define FLAG_TEMP_B      (TEMP_FLAGS_START + 0xB)  // Unused Flag
 #define FLAG_TEMP_C      (TEMP_FLAGS_START + 0xC)  // Unused Flag
 #define FLAG_TEMP_D      (TEMP_FLAGS_START + 0xD)  // Unused Flag
@@ -56,11 +56,11 @@
 #define FLAG_NETTUX_NO_CAP      0x22 // Unused Flag
 #define FLAG_NETTUX_ALLOW_BAG   0x23 // Unused Flag
 #define FLAG_POKEMONPCMENU      0x24 // Unused Flag
-#define FLAG_UNUSED_0x025    0x25 // Unused Flag
-#define FLAG_UNUSED_0x026    0x26 // Unused Flag
-#define FLAG_UNUSED_0x027    0x27 // Unused Flag
-#define FLAG_UNUSED_0x028    0x28 // Unused Flag
-#define FLAG_UNUSED_0x029    0x29 // Unused Flag
+#define FLAG_NETTUX_EXP_SHARE    0x25 // Unused Flag
+#define FLAG_NETTUX_TERA_ORB_CHARGED    0x26 // Unused Flag
+#define FLAG_NETTUX_TERA_ORB_NO_COST    0x27 // Unused Flag
+#define FLAG_NETTUX_LEVEL_SCALE    0x28 // Unused Flag
+#define FLAG_NETTUX_PERMADEATH    0x29 // Unused Flag
 #define FLAG_UNUSED_0x02A    0x2A // Unused Flag
 #define FLAG_UNUSED_0x02B    0x2B // Unused Flag
 #define FLAG_UNUSED_0x02C    0x2C // Unused Flag

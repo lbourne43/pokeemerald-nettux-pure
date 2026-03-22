@@ -398,9 +398,14 @@ const u8 *const gBattleStringsTable[STRINGID_COUNT] =
     [STRINGID_ITHURTCONFUSION]                      = COMPOUND_STRING("It hurt itself in its confusion!"),
     [STRINGID_STARTEDTORAIN]                        = COMPOUND_STRING("It started to rain!"),
     [STRINGID_DOWNPOURSTARTED]                      = COMPOUND_STRING("A downpour started!"), // corresponds to DownpourText in pokegold and pokecrystal and is used by Rain Dance in GSC
+    [STRINGID_NETTUXBLACKOUTSTARTED]                = COMPOUND_STRING("A blackout started!"),                                                                                          //
     [STRINGID_RAINCONTINUES]                        = COMPOUND_STRING("Rain continues to fall."), //not in gen 5+
+    [STRINGID_NETTUXACIDRAINCONTINUES]              = COMPOUND_STRING("Acid rain continues to fall."), //not in gen 5+
+    [STRINGID_NETTUXBLACKOUTCONTINUES]              = COMPOUND_STRING("The blackout continues."), //not in gen 5+
     [STRINGID_DOWNPOURCONTINUES]                    = COMPOUND_STRING("The downpour continues."), // unused
     [STRINGID_RAINSTOPPED]                          = COMPOUND_STRING("The rain stopped."),
+    [STRINGID_NETTUXACIDRAINSTOPPED]                = COMPOUND_STRING("The acid rain stopped."),
+    [STRINGID_NETTUXBLACKOUTSTOPPED]                = COMPOUND_STRING("The blackout ended."),
     [STRINGID_SANDSTORMBREWED]                      = COMPOUND_STRING("A sandstorm kicked up!"),
     [STRINGID_SANDSTORMRAGES]                       = COMPOUND_STRING("The sandstorm is raging."),
     [STRINGID_SANDSTORMSUBSIDED]                    = COMPOUND_STRING("The sandstorm subsided."),
@@ -877,6 +882,11 @@ const u8 *const gBattleStringsTable[STRINGID_COUNT] =
     [STRINGID_PKMNDISGUISEWASBUSTED]                = COMPOUND_STRING("{B_SCR_NAME_WITH_PREFIX}'s disguise was busted!"),
     [STRINGID_ZENMODETRIGGERED]                     = COMPOUND_STRING("{B_SCR_ABILITY} triggered!"),
     [STRINGID_ZENMODEENDED]                         = COMPOUND_STRING("{B_SCR_ABILITY} ended!"),
+    [STRINGID_NETTUXHURRICANEISRAGING]              = COMPOUND_STRING("A hurricane is raging..."),
+    [STRINGID_NETTUXHEATWAVEISRAGING]               = COMPOUND_STRING("A heat wave is raging..."),
+    [STRINGID_NETTUXMAGMASTORMISRAGING]             = COMPOUND_STRING("A magma storm is raging..."),
+    [STRINGID_NETTUXACIDRAINFALLING]                = COMPOUND_STRING("Acid rain is falling..."),
+    [STRINGID_NETTUXBLACKOUTHAPPENING]              = COMPOUND_STRING("A blackout is happening..."),
 };
 
 const u16 gTrainerUsedItemStringIds[] =
@@ -1007,6 +1017,7 @@ const u16 gMoveWeatherChangeStringIds[] =
     [B_MSG_STARTED_HAIL]      = STRINGID_STARTEDHAIL,
     [B_MSG_STARTED_SNOW]      = STRINGID_STARTEDSNOW,
     [B_MSG_STARTED_FOG]       = STRINGID_FOGCREPTUP, // Unused, can use for custom moves that set fog
+    [B_MSG_STARTED_NETTUX_BLACKOUT] = STRINGID_NETTUXBLACKOUTSTARTED, // Unused, can use for custom moves that set fog
 };
 
 const u16 gAbilityWeatherChangeStringId[] =
@@ -1019,6 +1030,8 @@ const u16 gAbilityWeatherChangeStringId[] =
     [B_MSG_STARTED_DESOLATE_LAND]  = STRINGID_EXTREMELYHARSHSUNLIGHT,
     [B_MSG_STARTED_PRIMORDIAL_SEA] = STRINGID_HEAVYRAIN,
     [B_MSG_STARTED_STRONG_WINDS]   = STRINGID_MYSTERIOUSAIRCURRENT,
+    [B_MSG_STARTED_NETTUX_ACID_RAIN] = STRINGID_NETTUXACIDRAINFALLING,
+    [B_MSG_STARTED_NETTUX_BLACKOUT] = STRINGID_NETTUXBLACKOUTSTARTED,
 };
 
 const u16 gWeatherEndsStringIds[B_MSG_WEATHER_END_COUNT] =
@@ -1030,6 +1043,8 @@ const u16 gWeatherEndsStringIds[B_MSG_WEATHER_END_COUNT] =
     [B_MSG_WEATHER_END_SNOW]         = STRINGID_SNOWSTOPPED,
     [B_MSG_WEATHER_END_FOG]          = STRINGID_FOGLIFTED,
     [B_MSG_WEATHER_END_STRONG_WINDS] = STRINGID_STRONGWINDSDISSIPATED,
+    [B_MSG_WEATHER_END_NETTUX_ACID_RAIN] = STRINGID_NETTUXACIDRAINSTOPPED,
+    [B_MSG_WEATHER_END_NETTUX_BLACKOUT] = STRINGID_NETTUXBLACKOUTSTOPPED,
 };
 
 const u16 gWeatherTurnStringIds[] =
@@ -1042,6 +1057,8 @@ const u16 gWeatherTurnStringIds[] =
     [B_MSG_WEATHER_TURN_SNOW]         = STRINGID_SNOWCONTINUES,
     [B_MSG_WEATHER_TURN_FOG]          = STRINGID_FOGISDEEP,
     [B_MSG_WEATHER_TURN_STRONG_WINDS] = STRINGID_MYSTERIOUSAIRCURRENTBLOWSON,
+    [B_MSG_WEATHER_TURN_NETTUX_ACID_RAIN] = STRINGID_NETTUXACIDRAINCONTINUES,
+    [B_MSG_WEATHER_TURN_NETTUX_BLACKOUT] = STRINGID_NETTUXBLACKOUTCONTINUES,
 };
 
 const u16 gSandStormHailDmgStringIds[] =
@@ -1271,6 +1288,14 @@ const u16 gWeatherStartsStringIds[] =
     [WEATHER_DROUGHT]            = STRINGID_SUNLIGHTISHARSH,
     [WEATHER_DOWNPOUR]           = STRINGID_ITISRAINING,
     [WEATHER_UNDERWATER_BUBBLES] = STRINGID_ITISRAINING,
+    [WEATHER_NETTUX_HURRICANE]   = STRINGID_NETTUXHURRICANEISRAGING,
+    [WEATHER_NETTUX_HEAT_WAVE]   = STRINGID_NETTUXHEATWAVEISRAGING,
+    [WEATHER_NETTUX_MAGMA_STORM] = STRINGID_NETTUXMAGMASTORMISRAGING,
+    [WEATHER_NETTUX_ACID_RAIN]   = STRINGID_NETTUXACIDRAINFALLING,
+    [WEATHER_NETTUX_BLACKOUT]    = STRINGID_NETTUXBLACKOUTHAPPENING,
+    [WEATHER_NETTUX_PRIMAL_SUN]  = STRINGID_SUNLIGHTISHARSH,
+    [WEATHER_NETTUX_PRIMAL_RAIN] = STRINGID_DOWNPOURSTARTED,
+    [WEATHER_NETTUX_STRONG_WINDS]= STRINGID_MYSTERIOUSAIRCURRENT,
     [WEATHER_ABNORMAL]           = STRINGID_ITISRAINING
 };
 

@@ -906,8 +906,11 @@ enum __attribute__((packed)) Move
     MOVES_COUNT_GEN9,
 
     // Add any custom moves here, not further down!
+    MOVE_ACID_RAIN = 849,
+    MOVE_BLACKOUT = 850,
+    MOVES_NETTUX_LAST,
 
-    MOVES_COUNT = MOVES_COUNT_GEN9,
+    MOVES_COUNT = MOVES_NETTUX_LAST,
 
     // Z Moves
     FIRST_Z_MOVE = MOVES_COUNT,

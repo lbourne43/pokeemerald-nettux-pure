@@ -226,6 +226,36 @@ void Bubbles_Main(void);
 void Bubbles_InitAll(void);
 bool8 Bubbles_Finish(void);
 
+void nettuxAcidRain_InitVars(void);
+void nettuxAcidRain_Main(void);
+void nettuxAcidRain_InitAll(void);
+bool8 nettuxAcidRain_Finish(void);
+
+void nettuxPrimalRain_InitVars(void);
+void nettuxPrimalRain_Main(void);
+void nettuxPrimalRain_InitAll(void);
+bool8 nettuxPrimalRain_Finish(void);
+
+void nettuxHurricane_InitVars(void);
+void nettuxHurricane_Main(void);
+void nettuxHurricane_InitAll(void);
+bool8 nettuxHurricane_Finish(void);
+
+void nettuxHeatWave_InitVars(void);
+void nettuxHeatWave_Main(void);
+void nettuxHeatWave_InitAll(void);
+bool8 nettuxHeatWave_Finish(void);
+
+void nettuxMagmaStorm_InitVars(void);
+void nettuxMagmaStorm_Main(void);
+void nettuxMagmaStorm_InitAll(void);
+bool8 nettuxMagmaStorm_Finish(void);
+
+void nettuxBlackout_InitVars(void);
+void nettuxBlackout_Main(void);
+void nettuxBlackout_InitAll(void);
+bool8 nettuxBlackout_Finish(void);
+
 u8 GetSavedWeather(void);
 void SetSavedWeather(u32 weather);
 void SetSavedWeatherFromCurrMapHeader(void);

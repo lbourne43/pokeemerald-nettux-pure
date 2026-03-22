@@ -6488,6 +6488,58 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .battleAnimScript = gBattleAnimMove_Twister,
     },
 
+    [MOVE_BLACKOUT] =
+    {
+        .name = COMPOUND_STRING("Blackout"),
+        .description = COMPOUND_STRING(
+            "Causes total darkness\n"
+            "5 turns"),
+        .effect = EFFECT_WEATHER,
+        .power = 0,
+        .type = TYPE_DARK,
+        .accuracy = 0,
+        .pp = 5,
+        .target = TARGET_ALL_BATTLERS,
+        .priority = 0,
+        .category = DAMAGE_CATEGORY_STATUS,
+        .zMove = { .effect = Z_EFFECT_SPD_UP_1 },
+        .ignoresProtect = TRUE,
+        .mirrorMoveBanned = TRUE,
+        .argument = { .weatherType =  BATTLE_WEATHER_NETTUX_BLACKOUT },
+        .contestEffect = CONTEST_EFFECT_BETTER_WHEN_AUDIENCE_EXCITED,
+        .contestCategory = CONTEST_CATEGORY_TOUGH,
+        .contestComboStarterId = COMBO_STARTER_RAIN_DANCE,
+        .contestComboMoves = {0},
+        .battleAnimScript = gBattleAnimMove_Blackout,
+        .validApprenticeMove = TRUE,
+    },
+
+    [MOVE_ACID_RAIN] =
+    {
+        .name = COMPOUND_STRING("Acid Rain"),
+        .description = COMPOUND_STRING(
+            "Causes acid rain for\n"
+            "5 turns."),
+        .effect = EFFECT_WEATHER,
+        .power = 0,
+        .type = TYPE_POISON,
+        .accuracy = 0,
+        .pp = 5,
+        .target = TARGET_ALL_BATTLERS,
+        .priority = 0,
+        .category = DAMAGE_CATEGORY_STATUS,
+        .zMove = { .effect = Z_EFFECT_SPD_UP_1 },
+        .ignoresProtect = TRUE,
+        .mirrorMoveBanned = TRUE,
+        .argument = { .weatherType =  BATTLE_WEATHER_NETTUX_ACID_RAIN },
+        .contestEffect = CONTEST_EFFECT_BETTER_WHEN_AUDIENCE_EXCITED,
+        .contestCategory = CONTEST_CATEGORY_TOUGH,
+        .contestComboStarterId = COMBO_STARTER_RAIN_DANCE,
+        .contestComboMoves = {0},
+        .battleAnimScript = gBattleAnimMove_RainDance,
+        .validApprenticeMove = TRUE,
+    },
+
     [MOVE_RAIN_DANCE] =
     {
         .name = COMPOUND_STRING("Rain Dance"),

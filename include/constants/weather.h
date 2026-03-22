@@ -20,7 +20,15 @@
 #define WEATHER_ROUTE119_CYCLE          20
 #define WEATHER_ROUTE123_CYCLE          21
 #define WEATHER_FOG                     22  // Aggregate of WEATHER_FOG_HORIZONTAL and WEATHER_FOG_DIAGONAL
-#define WEATHER_COUNT                   23
+#define WEATHER_NETTUX_HURRICANE        23
+#define WEATHER_NETTUX_HEAT_WAVE        24
+#define WEATHER_NETTUX_MAGMA_STORM      25
+#define WEATHER_NETTUX_ACID_RAIN        26
+#define WEATHER_NETTUX_BLACKOUT         27
+#define WEATHER_NETTUX_PRIMAL_SUN       28
+#define WEATHER_NETTUX_PRIMAL_RAIN      29
+#define WEATHER_NETTUX_STRONG_WINDS     30
+#define WEATHER_COUNT                   31
 
 // These are used in maps' coord_weather_event entries.
 // They are not a one-to-one mapping with the engine's

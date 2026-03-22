@@ -1,4 +1,99 @@
 // multichoice lists
+
+static const struct MenuAction sMultichoiceList_NettuxMartHelper[] =
+{
+    {gText_NettuxBattleMart},
+    {gText_NettuxTrainingMart},
+    {gText_NettuxTMMart},
+    {gText_NettuxEvolveMart},
+    {gText_NettuxHyperTrain},
+    {gText_NettuxTeraTrain},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxHyperTrainer[] =
+{
+    {gText_NettuxHyperHP},
+    {gText_NettuxHyperAtk},
+    {gText_NettuxHyperDef},
+    {gText_NettuxHyperSpA},
+    {gText_NettuxHyperSpD},
+    {gText_NettuxHyperSpe},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxTeraTrainer[] =
+{
+    {gText_NettuxTeraNormal},
+    {gText_NettuxTeraFire},
+    {gText_NettuxTeraWater},
+    {gText_NettuxTeraElectric},
+    {gText_NettuxTeraGrass},
+    {gText_NettuxTeraIce},
+    {gText_NettuxTeraFighting},
+    {gText_NettuxTeraPoison},
+    {gText_NettuxTeraGround},
+    {gText_NettuxTeraFlying},
+    {gText_NettuxTeraPsychic},
+    {gText_NettuxTeraBug},
+    {gText_NettuxTeraRock},
+    {gText_NettuxTeraGhost},
+    {gText_NettuxTeraDragon},
+    {gText_NettuxTeraDark},
+    {gText_NettuxTeraSteel},
+    {gText_NettuxTeraFairy},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxReNature[] =
+{
+    {gText_NettuxAdamant},
+    {gText_NettuxBashful},
+    {gText_NettuxBold},
+    {gText_NettuxBrave},
+    {gText_NettuxCalm},
+    {gText_NettuxCareful},
+    {gText_NettuxGentle},
+    {gText_NettuxHardy},
+    {gText_NettuxHasty},
+    {gText_NettuxImpish},
+    {gText_NettuxJolly},
+    {gText_NettuxLax},
+    {gText_NettuxLonely},
+    {gText_NettuxMild},
+    {gText_NettuxModest},
+    {gText_NettuxNaive},
+    {gText_NettuxNaughty},
+    {gText_NettuxQuiet},
+    {gText_NettuxQuirky},
+    {gText_NettuxRash},
+    {gText_NettuxRelaxed},
+    {gText_NettuxSassy},
+    {gText_NettuxSerious},
+    {gText_NettuxTimid},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxStatus[] =
+{
+    {gText_NettuxStatusBurn},
+    {gText_NettuxStatusFreeze},
+    {gText_NettuxStatusSleep},
+    {gText_NettuxStatusParalysis},
+    {gText_NettuxStatusPoison},
+    {gText_NettuxStatusToxic},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxHealOrStatus[] =
+{
+    {gText_NettuxHeal},
+    {gText_NettuxStatus},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxDifficulty[] =
+{
+    {gText_NettuxDifficultyNormal},
+    {gText_NettuxDifficultyMedium},
+    {gText_NettuxDifficultyHard},
+    {gText_NettuxDifficultyDoubles},
+};
+
 static const struct MenuAction MultichoiceList_BrineyOnDewford[] =
 {
     {COMPOUND_STRING("PETALBURG")},

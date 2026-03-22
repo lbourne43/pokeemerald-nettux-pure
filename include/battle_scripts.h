@@ -645,6 +645,8 @@ extern const u8 BattleScript_EffectCaptivate[];
 extern const u8 BattleScript_EffectMorningSun[];
 extern const u8 BattleScript_EffectSynthesis[];
 extern const u8 BattleScript_EffectMoonlight[];
+extern const u8 BattleScript_EffectBlackout[];
+extern const u8 BattleScript_EffectAcidRainDance[];
 extern const u8 BattleScript_EffectWeather[];
 extern const u8 BattleScript_EffectBellyDrum[];
 extern const u8 BattleScript_EffectPsychUp[];
