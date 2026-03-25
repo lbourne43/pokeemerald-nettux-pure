@@ -88,7 +88,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Geodude
 Level: 21
@@ -105,7 +105,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 32
@@ -122,7 +122,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 31
@@ -147,7 +147,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 32
@@ -164,7 +164,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 32
@@ -181,7 +181,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 36
@@ -198,7 +198,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 36
@@ -215,7 +215,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 36
@@ -232,7 +232,7 @@ Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Skitty
 Level: 26
@@ -289,7 +289,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 9
@@ -306,7 +306,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Manectric
 Level: 29
@@ -331,7 +331,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 30
@@ -356,7 +356,7 @@ Pic: Collector
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zangoose
 Level: 30
@@ -381,7 +381,7 @@ Pic: Aqua Grunt F
 Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 36
@@ -398,7 +398,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Gyarados
 Level: 34
@@ -415,7 +415,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 11
@@ -431,7 +431,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 27
@@ -456,7 +456,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 27
@@ -481,7 +481,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 26
@@ -514,7 +514,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 15
@@ -531,7 +531,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 14
@@ -555,7 +555,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 32
@@ -572,7 +572,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 32
@@ -589,7 +589,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 32
@@ -606,7 +606,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 30
@@ -631,7 +631,7 @@ Pic: Aqua Grunt F
 Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 28
@@ -648,7 +648,7 @@ Pic: Aqua Grunt F
 Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 32
@@ -665,7 +665,7 @@ Pic: Aqua Grunt F
 Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 32
@@ -682,7 +682,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Makuhita
 Level: 30
@@ -708,7 +708,7 @@ Gender: Male
 Music: Aqua
 Items: Super Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Mightyena
 Level: 34
@@ -733,7 +733,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Hariyama
 Level: 31
@@ -750,7 +750,7 @@ Pic: Aqua Admin F
 Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Carvanha
 Level: 28
@@ -775,7 +775,7 @@ Pic: Aqua Admin F
 Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Sharpedo
 Level: 37
@@ -801,7 +801,7 @@ Gender: Male
 Music: Aqua
 Items: Super Potion / Super Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Mightyena
 Level: 41
@@ -834,7 +834,7 @@ Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Spoink
 Level: 31
@@ -851,7 +851,7 @@ Pic: Aroma Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 14
@@ -876,7 +876,7 @@ Pic: Aroma Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Roselia
 Level: 14
@@ -910,7 +910,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Medicham
 Level: 43
@@ -930,7 +930,7 @@ Pic: Aroma Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Roselia
 Level: 26
@@ -955,7 +955,7 @@ Pic: Aroma Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 26
@@ -980,7 +980,7 @@ Pic: Aroma Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 28
@@ -1013,7 +1013,7 @@ Pic: Aroma Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 31
@@ -1046,7 +1046,7 @@ Pic: Aroma Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Breloom
 Level: 34
@@ -1079,7 +1079,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandslash
 Level: 23
@@ -1096,7 +1096,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Baltoy
 Level: 27
@@ -1129,7 +1129,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandshrew
 Level: 25
@@ -1154,7 +1154,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandslash
 Level: 27
@@ -1171,7 +1171,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandslash
 Level: 30
@@ -1188,7 +1188,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandslash
 Level: 33
@@ -1205,7 +1205,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandslash
 Level: 36
@@ -1222,7 +1222,7 @@ Pic: Interviewer
 Gender: Male
 Music: Interviewer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 17
@@ -1247,7 +1247,7 @@ Pic: Interviewer
 Gender: Male
 Music: Interviewer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 27
@@ -1272,7 +1272,7 @@ Pic: Interviewer
 Gender: Male
 Music: Interviewer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Magneton
 Level: 30
@@ -1297,7 +1297,7 @@ Pic: Interviewer
 Gender: Male
 Music: Interviewer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Magneton
 Level: 33
@@ -1322,7 +1322,7 @@ Pic: Interviewer
 Gender: Male
 Music: Interviewer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Magneton
 Level: 36
@@ -1347,7 +1347,7 @@ Pic: Interviewer
 Gender: Male
 Music: Interviewer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Magneton
 Level: 39
@@ -1372,7 +1372,7 @@ Pic: Tuber F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Azurill
 Level: 12
@@ -1397,7 +1397,7 @@ Pic: Tuber F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 26
@@ -1414,7 +1414,7 @@ Pic: Tuber F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 26
@@ -1431,7 +1431,7 @@ Pic: Tuber F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 26
@@ -1456,7 +1456,7 @@ Pic: Tuber F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 29
@@ -1481,7 +1481,7 @@ Pic: Tuber F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 32
@@ -1506,7 +1506,7 @@ Pic: Tuber F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Azumarill
 Level: 35
@@ -1531,7 +1531,7 @@ Pic: Tuber M
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 13
@@ -1548,7 +1548,7 @@ Pic: Tuber M
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Azurill
 Level: 12
@@ -1573,7 +1573,7 @@ Pic: Tuber M
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 26
@@ -1590,7 +1590,7 @@ Pic: Tuber M
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone
 Level: 27
@@ -1607,7 +1607,7 @@ Pic: Tuber M
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone
 Level: 30
@@ -1624,7 +1624,7 @@ Pic: Tuber M
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone
 Level: 33
@@ -1641,7 +1641,7 @@ Pic: Tuber M
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone
 Level: 36
@@ -1659,7 +1659,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Swellow
 Level: 26
@@ -1676,7 +1676,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Spinda
 Level: 26
@@ -1693,7 +1693,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Slakoth @ Sitrus Berry
 Level: 26
@@ -1710,7 +1710,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Vigoroth
 Level: 26
@@ -1726,7 +1726,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Swellow
 Level: 28
@@ -1776,7 +1776,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Sableye
 Level: 44
@@ -1810,7 +1810,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Mawile
 Level: 46
@@ -1836,7 +1836,7 @@ Gender: Male
 Music: Cool
 Items: Super Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Electrike
 Level: 17
@@ -1870,7 +1870,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Cacturne
 Level: 43
@@ -1896,7 +1896,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Magneton
 Level: 43
@@ -1922,7 +1922,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Swellow
 Level: 42
@@ -1956,7 +1956,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Dodrio
 Level: 42
@@ -1998,7 +1998,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Kecleon
 Level: 42
@@ -2032,7 +2032,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Electrike
 Level: 26
@@ -2066,7 +2066,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Manectric
 Level: 29
@@ -2100,7 +2100,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Manectric
 Level: 32
@@ -2134,7 +2134,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Manectric
 Level: 35
@@ -2168,7 +2168,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Graveler
 Level: 33
@@ -2194,7 +2194,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Delcatty
 Level: 26
@@ -2210,7 +2210,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Wigglytuff
 Level: 26
@@ -2227,7 +2227,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Zangoose
 Level: 26
@@ -2243,7 +2243,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Mawile
 Level: 29
@@ -2277,7 +2277,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Lairon
 Level: 45
@@ -2303,7 +2303,7 @@ Gender: Female
 Music: Cool
 Items: Super Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Wingull
 Level: 17
@@ -2336,7 +2336,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Sableye
 Level: 30
@@ -2354,7 +2354,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Roselia
 Level: 45
@@ -2372,7 +2372,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Claydol
 Level: 45
@@ -2390,7 +2390,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Torkoal
 Level: 42
@@ -2424,7 +2424,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Skarmory
 Level: 43
@@ -2450,7 +2450,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Sandslash
 Level: 42
@@ -2484,7 +2484,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Wingull
 Level: 26
@@ -2518,7 +2518,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Pelipper
 Level: 29
@@ -2552,7 +2552,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Pelipper
 Level: 32
@@ -2586,7 +2586,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Pelipper
 Level: 34
@@ -2619,7 +2619,7 @@ Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Banette
 Level: 41
@@ -2644,7 +2644,7 @@ Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Duskull
 Level: 30
@@ -2669,7 +2669,7 @@ Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Duskull
 Level: 29
@@ -2694,7 +2694,7 @@ Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sableye
 Level: 32
@@ -2711,7 +2711,7 @@ Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shuppet
 Level: 32
@@ -2728,7 +2728,7 @@ Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sableye
 Level: 31
@@ -2753,7 +2753,7 @@ Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Spoink
 Level: 35
@@ -2778,7 +2778,7 @@ Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Spoink
 Level: 40
@@ -2803,7 +2803,7 @@ Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Duskull
 Level: 42
@@ -2837,7 +2837,7 @@ Gender: Female
 Music: Female
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon @ Nugget
 Level: 7
@@ -2854,7 +2854,7 @@ Gender: Female
 Music: Female
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Luvdisc @ Nugget
 Level: 39
@@ -2879,7 +2879,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Mightyena
 Level: 26
@@ -2913,7 +2913,7 @@ Gender: Female
 Music: Female
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon @ Nugget
 Level: 11
@@ -2929,7 +2929,7 @@ Gender: Female
 Music: Female
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Seaking @ Nugget
 Level: 40
@@ -2947,7 +2947,7 @@ Gender: Female
 Music: Female
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Roselia @ Nugget
 Level: 45
@@ -2965,7 +2965,7 @@ Gender: Female
 Music: Female
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone @ Nugget
 Level: 27
@@ -2983,7 +2983,7 @@ Gender: Female
 Music: Female
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone @ Nugget
 Level: 30
@@ -3001,7 +3001,7 @@ Gender: Female
 Music: Female
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone @ Nugget
 Level: 33
@@ -3019,7 +3019,7 @@ Gender: Female
 Music: Female
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone @ Nugget
 Level: 36
@@ -3036,7 +3036,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 21
@@ -3053,7 +3053,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 21
@@ -3070,7 +3070,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 21
@@ -3087,7 +3087,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kecleon
 Level: 29
@@ -3112,7 +3112,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Goldeen
 Level: 40
@@ -3129,7 +3129,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Azumarill
 Level: 40
@@ -3146,7 +3146,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Clamperl
 Level: 35
@@ -3178,7 +3178,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 39
@@ -3203,7 +3203,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kecleon
 Level: 35
@@ -3228,7 +3228,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kecleon
 Level: 38
@@ -3253,7 +3253,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kecleon
 Level: 41
@@ -3278,7 +3278,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kecleon
 Level: 44
@@ -3304,7 +3304,7 @@ Gender: Male
 Music: Rich
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon @ Nugget
 Level: 7
@@ -3320,7 +3320,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Whiscash
 Level: 33
@@ -3346,7 +3346,7 @@ Gender: Male
 Music: Rich
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Azumarill @ Nugget
 Level: 45
@@ -3364,7 +3364,7 @@ Gender: Male
 Music: Rich
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone @ Nugget
 Level: 27
@@ -3382,7 +3382,7 @@ Gender: Male
 Music: Rich
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone @ Nugget
 Level: 30
@@ -3400,7 +3400,7 @@ Gender: Male
 Music: Rich
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone @ Nugget
 Level: 33
@@ -3418,7 +3418,7 @@ Gender: Male
 Music: Rich
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone @ Nugget
 Level: 36
@@ -3435,7 +3435,7 @@ Pic: Pokemaniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Aron
 Level: 19
@@ -3452,7 +3452,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wailmer
 Level: 25
@@ -3477,7 +3477,7 @@ Pic: Pokemaniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Rhyhorn
 Level: 31
@@ -3494,7 +3494,7 @@ Pic: Magma Grunt F
 Gender: Female
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 20
@@ -3511,7 +3511,7 @@ Pic: Pokemaniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lairon
 Level: 27
@@ -3528,7 +3528,7 @@ Pic: Pokemaniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lairon
 Level: 29
@@ -3553,7 +3553,7 @@ Pic: Pokemaniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lairon
 Level: 32
@@ -3578,7 +3578,7 @@ Pic: Pokemaniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Aggron
 Level: 35
@@ -3603,7 +3603,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 26
@@ -3620,7 +3620,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 26
@@ -3637,7 +3637,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 24
@@ -3662,7 +3662,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 24
@@ -3695,7 +3695,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 26
@@ -3712,7 +3712,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacruel
 Level: 26
@@ -3729,7 +3729,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 26
@@ -3746,7 +3746,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 25
@@ -3771,7 +3771,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 33
@@ -3796,7 +3796,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 34
@@ -3813,7 +3813,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacruel
 Level: 34
@@ -3830,7 +3830,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Horsea
 Level: 34
@@ -3847,7 +3847,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Gyarados
 Level: 34
@@ -3864,7 +3864,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 31
@@ -3897,7 +3897,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Gyarados
 Level: 34
@@ -3914,7 +3914,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 34
@@ -3931,7 +3931,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 33
@@ -3956,7 +3956,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacruel
 Level: 33
@@ -3981,7 +3981,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sharpedo
 Level: 34
@@ -3998,7 +3998,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sealeo
 Level: 34
@@ -4015,7 +4015,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Spheal
 Level: 34
@@ -4032,7 +4032,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Gyarados
 Level: 34
@@ -4049,7 +4049,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 33
@@ -4082,7 +4082,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 33
@@ -4107,7 +4107,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sharpedo
 Level: 30
@@ -4124,7 +4124,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sharpedo
 Level: 33
@@ -4141,7 +4141,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 34
@@ -4166,7 +4166,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Starmie
 Level: 37
@@ -4191,7 +4191,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machop
 Level: 13
@@ -4208,7 +4208,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machop
 Level: 32
@@ -4233,7 +4233,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Hariyama
 Level: 34
@@ -4250,7 +4250,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machop
 Level: 24
@@ -4275,7 +4275,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machop
 Level: 19
@@ -4292,7 +4292,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machoke
 Level: 27
@@ -4309,7 +4309,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machop
 Level: 29
@@ -4334,7 +4334,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machop
 Level: 31
@@ -4367,7 +4367,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machop
 Level: 33
@@ -4408,7 +4408,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Makuhita
 Level: 26
@@ -4433,7 +4433,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machop
 Level: 19
@@ -4450,7 +4450,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Hariyama
 Level: 32
@@ -4467,7 +4467,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Electrike
 Level: 17
@@ -4491,7 +4491,7 @@ Pic: Aqua Grunt F
 Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 31
@@ -4516,7 +4516,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 32
@@ -4533,7 +4533,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Voltorb
 Level: 17
@@ -4558,7 +4558,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Electrike
 Level: 30
@@ -4583,7 +4583,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 15
@@ -4608,7 +4608,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 25
@@ -4641,7 +4641,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 28
@@ -4674,7 +4674,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magneton
 Level: 31
@@ -4707,7 +4707,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magneton
 Level: 34
@@ -4740,7 +4740,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 23
@@ -4757,7 +4757,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Slugma
 Level: 22
@@ -4782,7 +4782,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 23
@@ -4799,7 +4799,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Slugma
 Level: 23
@@ -4816,7 +4816,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Slugma
 Level: 23
@@ -4833,7 +4833,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Slugma
 Level: 18
@@ -4858,7 +4858,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Slugma
 Level: 26
@@ -4883,7 +4883,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Slugma
 Level: 29
@@ -4908,7 +4908,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Slugma
 Level: 32
@@ -4933,7 +4933,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magcargo
 Level: 35
@@ -4958,7 +4958,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandshrew
 Level: 23
@@ -4975,7 +4975,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Baltoy
 Level: 21
@@ -5008,7 +5008,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Nuzleaf
 Level: 18
@@ -5025,7 +5025,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandshrew
 Level: 18
@@ -5050,7 +5050,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kecleon
 Level: 24
@@ -5067,7 +5067,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 20
@@ -5092,7 +5092,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 21
@@ -5109,7 +5109,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandshrew
 Level: 18
@@ -5126,7 +5126,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 26
@@ -5151,7 +5151,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone
 Level: 29
@@ -5176,7 +5176,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandshrew
 Level: 31
@@ -5209,7 +5209,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Swellow
 Level: 34
@@ -5242,7 +5242,7 @@ Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Surskit
 Level: 26
@@ -5259,7 +5259,7 @@ Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wurmple
 Level: 24
@@ -5289,7 +5289,7 @@ Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wurmple
 Level: 27
@@ -5319,7 +5319,7 @@ Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Surskit
 Level: 27
@@ -5352,7 +5352,7 @@ Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Dustox
 Level: 16
@@ -5375,7 +5375,7 @@ Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Surskit
 Level: 31
@@ -5408,7 +5408,7 @@ Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Surskit
 Level: 34
@@ -5441,7 +5441,7 @@ Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Surskit
 Level: 36
@@ -5481,7 +5481,7 @@ Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Surskit
 Level: 38
@@ -5530,7 +5530,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Abra
 Level: 15
@@ -5544,7 +5544,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kirlia
 Level: 36
@@ -5561,7 +5561,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Ralts
 Level: 36
@@ -5578,7 +5578,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Girafarig
 Level: 36
@@ -5595,7 +5595,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Ralts
 Level: 26
@@ -5628,7 +5628,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kadabra
 Level: 41
@@ -5653,7 +5653,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Solrock
 Level: 31
@@ -5670,7 +5670,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kadabra
 Level: 33
@@ -5695,7 +5695,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kadabra
 Level: 38
@@ -5720,7 +5720,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kadabra
 Level: 41
@@ -5745,7 +5745,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Solrock
 Level: 45
@@ -5770,7 +5770,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Abra
 Level: 16
@@ -5784,7 +5784,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kirlia
 Level: 36
@@ -5801,7 +5801,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Xatu
 Level: 36
@@ -5818,7 +5818,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kadabra
 Level: 36
@@ -5835,7 +5835,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wobbuffet
 Level: 26
@@ -5868,7 +5868,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kirlia
 Level: 41
@@ -5893,7 +5893,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kadabra
 Level: 30
@@ -5918,7 +5918,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kadabra
 Level: 34
@@ -5943,7 +5943,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kadabra
 Level: 37
@@ -5968,7 +5968,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kadabra
 Level: 40
@@ -5993,7 +5993,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lunatone
 Level: 43
@@ -6018,7 +6018,7 @@ Pic: Gentleman
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Manectric
 Level: 29
@@ -6035,7 +6035,7 @@ Pic: Gentleman
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Manectric
 Level: 44
@@ -6060,7 +6060,7 @@ Pic: Gentleman
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zangoose
 Level: 45
@@ -6077,7 +6077,7 @@ Pic: Gentleman
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Manectric
 Level: 34
@@ -6094,7 +6094,7 @@ Pic: Gentleman
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone
 Level: 36
@@ -6119,7 +6119,7 @@ Pic: Gentleman
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone
 Level: 39
@@ -6143,7 +6143,7 @@ Pic: Gentleman
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Linoone
 Level: 41
@@ -6177,7 +6177,7 @@ Gender: Male
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer / Force Setup First Turn
+AI: nettux
 Mugshot: Purple
 
 Mightyena
@@ -6228,7 +6228,7 @@ Gender: Female
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 Mugshot: Green
 
 Dusclops
@@ -6279,7 +6279,7 @@ Gender: Female
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 Mugshot: Pink
 
 Sealeo
@@ -6330,7 +6330,7 @@ Gender: Male
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 Mugshot: Blue
 
 Shelgon
@@ -6381,7 +6381,7 @@ Gender: Female
 Music: Female
 Items: Potion / Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Geodude
 Level: 12
@@ -6415,7 +6415,7 @@ Gender: Male
 Music: Male
 Items: Super Potion / Super Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Machop
 Level: 16
@@ -6449,7 +6449,7 @@ Gender: Male
 Music: Male
 Items: Super Potion / Super Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Voltorb
 Level: 20
@@ -6491,7 +6491,7 @@ Gender: Female
 Music: Female
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Numel
 Level: 24
@@ -6533,7 +6533,7 @@ Gender: Male
 Music: Male
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Spinda
 Level: 27
@@ -6575,7 +6575,7 @@ Gender: Female
 Music: Female
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
-AI: Basic Trainer / Risky
+AI: nettux
 
 Swablu
 Level: 29
@@ -6625,7 +6625,7 @@ Gender: Male
 Music: Female
 Items: Hyper Potion / Hyper Potion / Hyper Potion / Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Claydol
 Level: 41
@@ -6667,7 +6667,7 @@ Gender: Male
 Music: Male
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Luvdisc
 Level: 41
@@ -6716,7 +6716,7 @@ Pic: School Kid M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Ralts
 Level: 9
@@ -6731,7 +6731,7 @@ Pic: School Kid M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Ralts
 Level: 17
@@ -6748,7 +6748,7 @@ Pic: School Kid M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 15
@@ -6779,7 +6779,7 @@ Pic: School Kid M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Ralts
 Level: 26
@@ -6804,7 +6804,7 @@ Pic: School Kid M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kirlia
 Level: 29
@@ -6829,7 +6829,7 @@ Pic: School Kid M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kirlia
 Level: 32
@@ -6854,7 +6854,7 @@ Pic: School Kid M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kirlia
 Level: 34
@@ -6887,7 +6887,7 @@ Pic: School Kid F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 9
@@ -6903,7 +6903,7 @@ Pic: School Kid F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 16
@@ -6927,7 +6927,7 @@ Pic: School Kid F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 26
@@ -6952,7 +6952,7 @@ Pic: School Kid F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 29
@@ -6977,7 +6977,7 @@ Pic: School Kid F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Breloom
 Level: 32
@@ -7002,7 +7002,7 @@ Pic: School Kid F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Breloom
 Level: 35
@@ -7027,7 +7027,7 @@ Pic: Sr And Jr
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Spinda
 Level: 30
@@ -7052,7 +7052,7 @@ Pic: Sr And Jr
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 15
@@ -7076,7 +7076,7 @@ Pic: Sr And Jr
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 28
@@ -7100,7 +7100,7 @@ Pic: Sr And Jr
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 31
@@ -7124,7 +7124,7 @@ Pic: Sr And Jr
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Linoone
 Level: 34
@@ -7148,7 +7148,7 @@ Pic: Sr And Jr
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Linoone
 Level: 36
@@ -7172,7 +7172,7 @@ Pic: Pokefan M
 Gender: Male
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Taillow @ Oran Berry
 Level: 16
@@ -7197,7 +7197,7 @@ Pic: Pokefan M
 Gender: Male
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Skitty @ Oran Berry
 Level: 15
@@ -7214,7 +7214,7 @@ Pic: Pokefan M
 Gender: Male
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Skitty @ Oran Berry
 Level: 22
@@ -7271,7 +7271,7 @@ Pic: Pokefan M
 Gender: Male
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Skitty @ Oran Berry
 Level: 29
@@ -7288,7 +7288,7 @@ Pic: Pokefan M
 Gender: Male
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Skitty @ Oran Berry
 Level: 32
@@ -7305,7 +7305,7 @@ Pic: Pokefan M
 Gender: Male
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Delcatty @ Oran Berry
 Level: 35
@@ -7322,7 +7322,7 @@ Pic: Pokefan M
 Gender: Male
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Delcatty @ Sitrus Berry
 Level: 38
@@ -7339,7 +7339,7 @@ Pic: Pokefan F
 Gender: Female
 Music: Twins
 Double Battle: No
-AI: Check Bad Move / Try To Faint
+AI: nettux
 
 Roselia @ Oran Berry
 Level: 17
@@ -7356,7 +7356,7 @@ Pic: Pokefan F
 Gender: Female
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pikachu @ Oran Berry
 Level: 30
@@ -7373,7 +7373,7 @@ Pic: Pokefan F
 Gender: Female
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Azurill @ Oran Berry
 Level: 35
@@ -7406,7 +7406,7 @@ Pic: Pokefan F
 Gender: Female
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Plusle @ Oran Berry
 Level: 14
@@ -7431,7 +7431,7 @@ Pic: Pokefan F
 Gender: Female
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Plusle @ Oran Berry
 Level: 26
@@ -7456,7 +7456,7 @@ Pic: Pokefan F
 Gender: Female
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Plusle @ Oran Berry
 Level: 29
@@ -7481,7 +7481,7 @@ Pic: Pokefan F
 Gender: Female
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Plusle @ Oran Berry
 Level: 32
@@ -7506,7 +7506,7 @@ Pic: Pokefan F
 Gender: Female
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Plusle @ Sitrus Berry
 Level: 35
@@ -7531,7 +7531,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Hariyama
 Level: 27
@@ -7548,7 +7548,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Hariyama
 Level: 33
@@ -7565,7 +7565,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Hariyama
 Level: 36
@@ -7582,7 +7582,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Hariyama
 Level: 39
@@ -7599,7 +7599,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Hariyama
 Level: 42
@@ -7616,7 +7616,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Meditite
 Level: 18
@@ -7633,7 +7633,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Meditite
 Level: 21
@@ -7658,7 +7658,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Meditite
 Level: 30
@@ -7683,7 +7683,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Medicham
 Level: 33
@@ -7708,7 +7708,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Medicham
 Level: 36
@@ -7733,7 +7733,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Medicham
 Level: 39
@@ -7758,7 +7758,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 5
@@ -7773,7 +7773,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 5
@@ -7796,7 +7796,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 10
@@ -7810,7 +7810,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 8
@@ -7833,7 +7833,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machop
 Level: 9
@@ -7849,7 +7849,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 17
@@ -7875,7 +7875,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Slaking
 Level: 43
@@ -7901,7 +7901,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Gardevoir
 Level: 43
@@ -7926,7 +7926,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Trapinch
 Level: 19
@@ -7942,7 +7942,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Aron
 Level: 19
@@ -7959,7 +7959,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Mightyena
 Level: 27
@@ -7976,7 +7976,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Swellow
 Level: 28
@@ -8001,7 +8001,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Swellow
 Level: 31
@@ -8034,7 +8034,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Swellow
 Level: 34
@@ -8067,7 +8067,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 14
@@ -8092,7 +8092,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 4
@@ -8113,7 +8113,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Aron
 Level: 15
@@ -8139,7 +8139,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 Mugshot: Yellow
 
 Wailord
@@ -8197,7 +8197,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magikarp
 Level: 5
@@ -8223,7 +8223,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magikarp
 Level: 5
@@ -8247,7 +8247,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magikarp
 Level: 16
@@ -8278,7 +8278,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magikarp
 Level: 10
@@ -8303,7 +8303,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 11
@@ -8318,7 +8318,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 11
@@ -8355,7 +8355,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Barboach
 Level: 19
@@ -8372,7 +8372,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 25
@@ -8397,7 +8397,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 16
@@ -8413,7 +8413,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wailmer
 Level: 25
@@ -8438,7 +8438,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 24
@@ -8469,7 +8469,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Gyarados
 Level: 29
@@ -8508,7 +8508,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Gyarados
 Level: 31
@@ -8549,7 +8549,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move / Try To Faint
+AI: nettux
 
 Gyarados
 Level: 33
@@ -8590,7 +8590,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magikarp
 Level: 19
@@ -8640,7 +8640,7 @@ Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Voltorb
 Level: 6
@@ -8669,7 +8669,7 @@ Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 14
@@ -8694,7 +8694,7 @@ Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 16
@@ -8711,7 +8711,7 @@ Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 30
@@ -8728,7 +8728,7 @@ Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 33
@@ -8745,7 +8745,7 @@ Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magneton
 Level: 36
@@ -8762,7 +8762,7 @@ Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magneton
 Level: 39
@@ -8779,7 +8779,7 @@ Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 16
@@ -8796,7 +8796,7 @@ Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 14
@@ -8827,7 +8827,7 @@ Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 28
@@ -8844,7 +8844,7 @@ Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 31
@@ -8861,7 +8861,7 @@ Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magneton
 Level: 34
@@ -8878,7 +8878,7 @@ Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magneton
 Level: 37
@@ -8895,7 +8895,7 @@ Pic: Running Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Doduo
 Level: 17
@@ -8912,7 +8912,7 @@ Pic: Running Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Doduo
 Level: 28
@@ -8929,7 +8929,7 @@ Pic: Running Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Doduo
 Level: 31
@@ -8946,7 +8946,7 @@ Pic: Running Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Dodrio
 Level: 34
@@ -8963,7 +8963,7 @@ Pic: Running Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Dodrio
 Level: 37
@@ -8980,7 +8980,7 @@ Pic: Running Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Doduo
 Level: 17
@@ -8997,7 +8997,7 @@ Pic: Running Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Doduo
 Level: 28
@@ -9014,7 +9014,7 @@ Pic: Running Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Doduo
 Level: 31
@@ -9031,7 +9031,7 @@ Pic: Running Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Dodrio
 Level: 34
@@ -9048,7 +9048,7 @@ Pic: Running Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Dodrio
 Level: 37
@@ -9065,7 +9065,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 33
@@ -9090,7 +9090,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 25
@@ -9115,7 +9115,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 35
@@ -9132,7 +9132,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 33
@@ -9157,7 +9157,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 26
@@ -9182,7 +9182,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 39
@@ -9199,7 +9199,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 42
@@ -9216,7 +9216,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Starmie
 Level: 45
@@ -9233,7 +9233,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Starmie
 Level: 48
@@ -9250,7 +9250,7 @@ Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 34
@@ -9267,7 +9267,7 @@ Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 26
@@ -9292,7 +9292,7 @@ Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 34
@@ -9309,7 +9309,7 @@ Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 35
@@ -9326,7 +9326,7 @@ Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 27
@@ -9351,7 +9351,7 @@ Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 39
@@ -9368,7 +9368,7 @@ Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 42
@@ -9385,7 +9385,7 @@ Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Starmie
 Level: 45
@@ -9402,7 +9402,7 @@ Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Starmie
 Level: 48
@@ -9419,7 +9419,7 @@ Pic: Dragon Tamer
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Altaria
 Level: 37
@@ -9444,7 +9444,7 @@ Pic: Dragon Tamer
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Altaria
 Level: 41
@@ -9469,7 +9469,7 @@ Pic: Dragon Tamer
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Altaria
 Level: 44
@@ -9494,7 +9494,7 @@ Pic: Dragon Tamer
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Bagon
 Level: 46
@@ -9527,7 +9527,7 @@ Pic: Dragon Tamer
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Altaria
 Level: 49
@@ -9560,7 +9560,7 @@ Pic: Dragon Tamer
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Bagon
 Level: 34
@@ -9577,7 +9577,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 26
@@ -9594,7 +9594,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 25
@@ -9619,7 +9619,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Swellow
 Level: 26
@@ -9636,7 +9636,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Doduo
 Level: 27
@@ -9669,7 +9669,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Skarmory
 Level: 30
@@ -9686,7 +9686,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tropius
 Level: 33
@@ -9711,7 +9711,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Doduo
 Level: 29
@@ -9736,7 +9736,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 28
@@ -9761,7 +9761,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Swablu
 Level: 29
@@ -9778,7 +9778,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Swellow
 Level: 36
@@ -9811,7 +9811,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Taillow
 Level: 25
@@ -9836,7 +9836,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Natu
 Level: 32
@@ -9861,7 +9861,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Natu
 Level: 35
@@ -9886,7 +9886,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Natu
 Level: 38
@@ -9911,7 +9911,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Altaria
 Level: 41
@@ -9936,7 +9936,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Natu
 Level: 33
@@ -9961,7 +9961,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tropius
 Level: 34
@@ -9978,7 +9978,7 @@ Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move / Try To Faint
+AI: nettux
 
 Ninjask
 Level: 26
@@ -9995,7 +9995,7 @@ Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move / Try To Faint
+AI: nettux
 
 Ninjask
 Level: 25
@@ -10259,7 +10259,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 13
@@ -10276,7 +10276,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 13
@@ -10293,7 +10293,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 18
@@ -10318,7 +10318,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 27
@@ -10335,7 +10335,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Breloom
 Level: 27
@@ -10352,7 +10352,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 26
@@ -10377,7 +10377,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 29
@@ -10402,7 +10402,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Medicham
 Level: 32
@@ -10427,7 +10427,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Medicham
 Level: 35
@@ -10452,7 +10452,7 @@ Pic: Parasol Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 19
@@ -10469,7 +10469,7 @@ Pic: Parasol Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Roselia
 Level: 28
@@ -10494,7 +10494,7 @@ Pic: Parasol Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Castform
 Level: 30
@@ -10511,7 +10511,7 @@ Pic: Parasol Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 29
@@ -10528,7 +10528,7 @@ Pic: Parasol Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 32
@@ -10545,7 +10545,7 @@ Pic: Parasol Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Roselia
 Level: 34
@@ -10570,7 +10570,7 @@ Pic: Parasol Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Roselia
 Level: 37
@@ -10595,7 +10595,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 25
@@ -10620,7 +10620,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 26
@@ -10637,7 +10637,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wailmer
 Level: 26
@@ -10654,7 +10654,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 25
@@ -10679,7 +10679,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Goldeen
 Level: 26
@@ -10696,7 +10696,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Horsea
 Level: 25
@@ -10721,7 +10721,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Goldeen
 Level: 26
@@ -10738,7 +10738,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Goldeen
 Level: 24
@@ -10771,7 +10771,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wailmer
 Level: 34
@@ -10788,7 +10788,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 34
@@ -10805,7 +10805,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Luvdisc
 Level: 34
@@ -10822,7 +10822,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Seaking
 Level: 34
@@ -10839,7 +10839,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 33
@@ -10864,7 +10864,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Goldeen
 Level: 34
@@ -10881,7 +10881,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Goldeen
 Level: 33
@@ -10906,7 +10906,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Luvdisc
 Level: 34
@@ -10923,7 +10923,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Seaking
 Level: 34
@@ -10940,7 +10940,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Azumarill
 Level: 34
@@ -10957,7 +10957,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Luvdisc
 Level: 33
@@ -10982,7 +10982,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Seaking
 Level: 34
@@ -10999,7 +10999,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Horsea
 Level: 33
@@ -11024,7 +11024,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lanturn
 Level: 34
@@ -11049,7 +11049,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Luvdisc
 Level: 33
@@ -11074,7 +11074,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Seaking
 Level: 35
@@ -11091,7 +11091,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wailmer
 Level: 38
@@ -11108,7 +11108,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wailmer
 Level: 41
@@ -11125,7 +11125,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 43
@@ -11150,7 +11150,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Luvdisc
 Level: 45
@@ -11183,7 +11183,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandshrew
 Level: 22
@@ -11208,7 +11208,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandshrew
 Level: 22
@@ -11233,7 +11233,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Taillow
 Level: 17
@@ -11258,7 +11258,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 18
@@ -11283,7 +11283,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Skitty
 Level: 23
@@ -11308,7 +11308,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 19
@@ -11341,7 +11341,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wobbuffet
 Level: 32
@@ -11358,7 +11358,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 17
@@ -11383,7 +11383,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 25
@@ -11416,7 +11416,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Breloom
 Level: 28
@@ -11449,7 +11449,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Breloom
 Level: 31
@@ -11482,7 +11482,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Breloom
 Level: 40
@@ -11515,7 +11515,7 @@ Pic: Twins
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Plusle
 Level: 15
@@ -11540,7 +11540,7 @@ Pic: Twins
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Plusle
 Level: 27
@@ -11565,7 +11565,7 @@ Pic: Twins
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Seedot
 Level: 6
@@ -11586,7 +11586,7 @@ Pic: Twins
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Beautifly
 Level: 26
@@ -11611,7 +11611,7 @@ Pic: Twins
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Plusle
 Level: 9
@@ -11632,7 +11632,7 @@ Pic: Twins
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Duskull
 Level: 10
@@ -11653,7 +11653,7 @@ Pic: Twins
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Plusle
 Level: 30
@@ -11678,7 +11678,7 @@ Pic: Twins
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Plusle
 Level: 33
@@ -11703,7 +11703,7 @@ Pic: Twins
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Plusle
 Level: 36
@@ -11728,7 +11728,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 12
@@ -11751,7 +11751,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 13
@@ -11768,7 +11768,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 33
@@ -11793,7 +11793,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 11
@@ -11822,7 +11822,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacruel
 Level: 44
@@ -11847,7 +11847,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machop
 Level: 43
@@ -11880,7 +11880,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Spheal
 Level: 25
@@ -11905,7 +11905,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 36
@@ -11938,7 +11938,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 39
@@ -11971,7 +11971,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 42
@@ -12004,7 +12004,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 45
@@ -12037,7 +12037,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 23
@@ -12054,7 +12054,7 @@ Pic: Pokefan F
 Gender: Female
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Feebas @ Oran Berry
 Level: 39
@@ -12080,7 +12080,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Absol
 Level: 27
@@ -12097,7 +12097,7 @@ Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Koffing
 Level: 31
@@ -12114,7 +12114,7 @@ Pic: Parasol Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Castform
 Level: 31
@@ -12131,7 +12131,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Manectric
 Level: 33
@@ -12156,7 +12156,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machoke
 Level: 33
@@ -12182,7 +12182,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Manectric
 Level: 34
@@ -12199,7 +12199,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 33
@@ -12224,7 +12224,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wailmer
 Level: 34
@@ -12241,7 +12241,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Chinchou
 Level: 33
@@ -12266,7 +12266,7 @@ Pic: Collector
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lombre
 Level: 14
@@ -12291,7 +12291,7 @@ Pic: Collector
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zangoose
 Level: 18
@@ -12316,7 +12316,7 @@ Pic: Magma Admin
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Camerupt
 Level: 36
@@ -12349,7 +12349,7 @@ Pic: Collector
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lombre
 Level: 26
@@ -12374,7 +12374,7 @@ Pic: Collector
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lombre
 Level: 29
@@ -12399,7 +12399,7 @@ Pic: Collector
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lombre
 Level: 32
@@ -12424,7 +12424,7 @@ Pic: Collector
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Ludicolo
 Level: 35
@@ -12450,7 +12450,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Altaria
 Level: 44
@@ -12499,7 +12499,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Treecko
 Level: 5
@@ -12513,7 +12513,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Slugma
 Level: 18
@@ -12546,7 +12546,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Slugma
 Level: 29
@@ -12579,7 +12579,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Torchic
 Level: 5
@@ -12593,7 +12593,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Wingull
 Level: 18
@@ -12626,7 +12626,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Pelipper
 Level: 29
@@ -12659,7 +12659,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Mudkip
 Level: 5
@@ -12673,7 +12673,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Lombre
 Level: 18
@@ -12706,7 +12706,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Lombre
 Level: 29
@@ -12739,7 +12739,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Treecko
 Level: 5
@@ -12753,7 +12753,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Wingull
 Level: 18
@@ -12786,7 +12786,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Slugma
 Level: 29
@@ -12819,7 +12819,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Torchic
 Level: 5
@@ -12833,7 +12833,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Wingull
 Level: 18
@@ -12866,7 +12866,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Pelipper
 Level: 29
@@ -12899,7 +12899,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Mudkip
 Level: 5
@@ -12913,7 +12913,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Lombre
 Level: 18
@@ -12946,7 +12946,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Lombre
 Level: 29
@@ -12979,7 +12979,7 @@ Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Whismur
 Level: 11
@@ -13034,7 +13034,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pinsir
 Level: 27
@@ -13051,7 +13051,7 @@ Pic: Cooltrainer M
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Lunatone
 Level: 43
@@ -13076,7 +13076,7 @@ Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Loudred
 Level: 22
@@ -13133,7 +13133,7 @@ Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Loudred
 Level: 25
@@ -13190,7 +13190,7 @@ Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Loudred
 Level: 28
@@ -13247,7 +13247,7 @@ Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Loudred
 Level: 31
@@ -13304,7 +13304,7 @@ Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 11
@@ -13360,7 +13360,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Sableye
 Level: 43
@@ -13385,7 +13385,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandslash
 Level: 26
@@ -13402,7 +13402,7 @@ Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 22
@@ -13459,7 +13459,7 @@ Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 25
@@ -13516,7 +13516,7 @@ Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 28
@@ -13573,7 +13573,7 @@ Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 31
@@ -13631,7 +13631,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Breloom
 Level: 27
@@ -13649,7 +13649,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Seedot
 Level: 28
@@ -13683,7 +13683,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Cacturne
 Level: 39
@@ -13701,7 +13701,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Breloom
 Level: 31
@@ -13719,7 +13719,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Breloom
 Level: 34
@@ -13737,7 +13737,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Breloom
 Level: 37
@@ -13755,7 +13755,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Kecleon
 Level: 39
@@ -13781,7 +13781,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Gloom
 Level: 26
@@ -13807,7 +13807,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Lotad
 Level: 28
@@ -13841,7 +13841,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Swablu
 Level: 38
@@ -13867,7 +13867,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Gloom
 Level: 30
@@ -13893,7 +13893,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Gloom
 Level: 33
@@ -13919,7 +13919,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Gloom
 Level: 36
@@ -13945,7 +13945,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Bellossom
 Level: 39
@@ -13970,7 +13970,7 @@ Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 21
@@ -13987,7 +13987,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Mightyena
 Level: 35
@@ -14012,7 +14012,7 @@ Pic: Aqua Grunt F
 Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wailmer
 Level: 31
@@ -14037,7 +14037,7 @@ Pic: Aqua Grunt F
 Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wailmer
 Level: 30
@@ -14062,7 +14062,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 22
@@ -14087,7 +14087,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 8
@@ -14110,7 +14110,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machop
 Level: 13
@@ -14127,7 +14127,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 13
@@ -14144,7 +14144,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Makuhita
 Level: 13
@@ -14161,7 +14161,7 @@ Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 36
@@ -14178,7 +14178,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 34
@@ -14196,7 +14196,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Manectric
 Level: 32
@@ -14218,7 +14218,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacruel
 Level: 35
@@ -14235,7 +14235,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 20
@@ -14252,7 +14252,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sharpedo
 Level: 34
@@ -14269,7 +14269,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Girafarig
 Level: 37
@@ -14286,7 +14286,7 @@ Pic: Gentleman
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Spoink
 Level: 36
@@ -14303,7 +14303,7 @@ Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kadabra
 Level: 36
@@ -14320,7 +14320,7 @@ Pic: Gentleman
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Girafarig
 Level: 36
@@ -14337,7 +14337,7 @@ Pic: Psychic M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wobbuffet
 Level: 36
@@ -14354,7 +14354,7 @@ Pic: Magma Grunt F
 Gender: Female
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 31
@@ -14379,7 +14379,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Baltoy
 Level: 32
@@ -14396,7 +14396,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 32
@@ -14413,7 +14413,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Mightyena
 Level: 32
@@ -14430,7 +14430,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Baltoy
 Level: 32
@@ -14447,7 +14447,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Natu
 Level: 36
@@ -14464,7 +14464,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lotad
 Level: 13
@@ -14489,7 +14489,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 13
@@ -14514,7 +14514,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Swellow
 Level: 33
@@ -14539,7 +14539,7 @@ Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 34
@@ -14556,7 +14556,7 @@ Pic: Aqua Grunt F
 Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 27
@@ -14581,7 +14581,7 @@ Pic: Magma Admin
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Numel
 Level: 18
@@ -14622,7 +14622,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Kecleon
 Level: 33
@@ -14647,7 +14647,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Slugma
 Level: 13
@@ -14671,7 +14671,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Wingull
 Level: 13
@@ -14697,7 +14697,7 @@ Gender: Male
 Music: Magma
 Items: Super Potion / Super Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Mightyena
 Level: 37
@@ -14731,7 +14731,7 @@ Gender: Male
 Music: Magma
 Items: Super Potion / Super Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Mightyena
 Level: 24
@@ -14764,7 +14764,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 4
@@ -14785,7 +14785,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lotad
 Level: 6
@@ -14806,7 +14806,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 9
@@ -14822,7 +14822,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Marill
 Level: 15
@@ -14854,7 +14854,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lombre
 Level: 26
@@ -14879,7 +14879,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lombre
 Level: 29
@@ -14904,7 +14904,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lombre
 Level: 32
@@ -14929,7 +14929,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Swellow
 Level: 34
@@ -14962,7 +14962,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Oddish
 Level: 16
@@ -14979,7 +14979,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Skitty
 Level: 14
@@ -15012,7 +15012,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Luvdisc
 Level: 40
@@ -15029,7 +15029,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Goldeen
 Level: 39
@@ -15054,7 +15054,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wurmple
 Level: 4
@@ -15075,7 +15075,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wurmple
 Level: 3
@@ -15108,7 +15108,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wurmple
 Level: 8
@@ -15131,7 +15131,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Nincada
 Level: 28
@@ -15156,7 +15156,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Volbeat
 Level: 25
@@ -15181,7 +15181,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Ninjask
 Level: 25
@@ -15198,7 +15198,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Nincada
 Level: 6
@@ -15221,7 +15221,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Ninjask
 Level: 27
@@ -15238,7 +15238,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Dustox
 Level: 29
@@ -15263,7 +15263,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Surskit
 Level: 31
@@ -15296,7 +15296,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Surskit
 Level: 33
@@ -15337,7 +15337,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 17
@@ -15361,7 +15361,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 16
@@ -15394,7 +15394,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 18
@@ -15419,7 +15419,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 18
@@ -15443,7 +15443,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 22
@@ -15476,7 +15476,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 8
@@ -15492,7 +15492,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 20
@@ -15517,7 +15517,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wailmer
 Level: 9
@@ -15532,7 +15532,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 10
@@ -15553,7 +15553,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 16
@@ -15586,7 +15586,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 24
@@ -15627,7 +15627,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 27
@@ -15668,7 +15668,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 30
@@ -15709,7 +15709,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Graveler
 Level: 33
@@ -15750,7 +15750,7 @@ Pic: Young Couple
 Gender: Male
 Music: Girl
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Delcatty
 Level: 31
@@ -15775,7 +15775,7 @@ Pic: Young Couple
 Gender: Male
 Music: Girl
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Luvdisc
 Level: 45
@@ -15800,7 +15800,7 @@ Pic: Young Couple
 Gender: Male
 Music: Girl
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Volbeat
 Level: 25
@@ -15825,7 +15825,7 @@ Pic: Young Couple
 Gender: Male
 Music: Girl
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Volbeat
 Level: 30
@@ -15850,7 +15850,7 @@ Pic: Young Couple
 Gender: Male
 Music: Girl
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Volbeat
 Level: 33
@@ -15875,7 +15875,7 @@ Pic: Young Couple
 Gender: Male
 Music: Girl
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Volbeat
 Level: 36
@@ -15900,7 +15900,7 @@ Pic: Young Couple
 Gender: Male
 Music: Girl
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Volbeat
 Level: 39
@@ -15925,7 +15925,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Goldeen
 Level: 13
@@ -15943,7 +15943,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Kecleon
 Level: 23
@@ -15960,7 +15960,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 17
@@ -15985,7 +15985,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 23
@@ -16002,7 +16002,7 @@ Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move / Try To Faint
+AI: nettux
 
 Koffing
 Level: 25
@@ -16027,7 +16027,7 @@ Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move / Try To Faint
+AI: nettux
 
 Koffing
 Level: 28
@@ -16052,7 +16052,7 @@ Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move / Try To Faint
+AI: nettux
 
 Nincada
 Level: 28
@@ -16077,7 +16077,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Swellow
 Level: 29
@@ -16102,7 +16102,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Swablu
 Level: 27
@@ -16135,7 +16135,7 @@ Pic: Wally
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Ralts
 Level: 16
@@ -16153,7 +16153,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Altaria
 Level: 47
@@ -16203,7 +16203,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Altaria
 Level: 50
@@ -16253,7 +16253,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Altaria
 Level: 53
@@ -16303,7 +16303,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Altaria
 Level: 56
@@ -16352,7 +16352,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Tropius
 Level: 31
@@ -16393,7 +16393,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Tropius
 Level: 31
@@ -16434,7 +16434,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Tropius
 Level: 31
@@ -16475,7 +16475,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Tropius
 Level: 31
@@ -16516,7 +16516,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Tropius
 Level: 31
@@ -16557,7 +16557,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Tropius
 Level: 31
@@ -16598,7 +16598,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wailmer
 Level: 30
@@ -16631,7 +16631,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Carvanha
 Level: 31
@@ -16656,7 +16656,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magikarp
 Level: 15
@@ -16686,7 +16686,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Gloom
 Level: 34
@@ -16712,7 +16712,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Shiftry
 Level: 34
@@ -16737,7 +16737,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machoke
 Level: 34
@@ -16754,7 +16754,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 31
@@ -16787,7 +16787,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Swellow
 Level: 32
@@ -16812,7 +16812,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Spheal
 Level: 33
@@ -16837,7 +16837,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Chinchou
 Level: 34
@@ -16854,7 +16854,7 @@ Pic: Twins
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Spinda
 Level: 19
@@ -16879,7 +16879,7 @@ Pic: Sr And Jr
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Swablu
 Level: 32
@@ -16904,7 +16904,7 @@ Pic: Sr And Jr
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Roselia
 Level: 18
@@ -16929,7 +16929,7 @@ Pic: Young Couple
 Gender: Male
 Music: Girl
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Dustox
 Level: 27
@@ -16954,7 +16954,7 @@ Pic: Old Couple
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Medicham
 Level: 39
@@ -16979,7 +16979,7 @@ Pic: Old Couple
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Medicham
 Level: 43
@@ -17004,7 +17004,7 @@ Pic: Old Couple
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Medicham
 Level: 46
@@ -17029,7 +17029,7 @@ Pic: Old Couple
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: nettux
 
 Medicham
 Level: 49
@@ -17054,7 +17054,7 @@ Pic: Old Couple
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Medicham
 Level: 52
@@ -17079,7 +17079,7 @@ Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Azumarill
 Level: 35
@@ -17104,7 +17104,7 @@ Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Chinchou
 Level: 34
@@ -17129,7 +17129,7 @@ Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Chinchou
 Level: 42
@@ -17154,7 +17154,7 @@ Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Lanturn
 Level: 45
@@ -17179,7 +17179,7 @@ Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Lanturn
 Level: 48
@@ -17204,7 +17204,7 @@ Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Lanturn
 Level: 51
@@ -17229,7 +17229,7 @@ Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
 Double Battle: Yes
-AI: Check Bad Move
+AI: nettux
 
 Goldeen
 Level: 27
@@ -17254,7 +17254,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magikarp
 Level: 29
@@ -17291,7 +17291,7 @@ Pic: Rich Boy
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon @ Nugget
 Level: 8
@@ -17314,7 +17314,7 @@ Gender: Female
 Music: Female
 Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lotad
 Level: 8
@@ -17337,7 +17337,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magikarp
 Level: 9
@@ -17351,7 +17351,7 @@ Pic: Tuber F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 13
@@ -17368,7 +17368,7 @@ Pic: Tuber M
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 12
@@ -17391,7 +17391,7 @@ Pic: Pokefan M
 Gender: Male
 Music: Twins
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Minun @ Oran Berry
 Level: 14
@@ -17416,7 +17416,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Electrike
 Level: 14
@@ -17440,7 +17440,7 @@ Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Magnemite
 Level: 15
@@ -17457,7 +17457,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Voltorb
 Level: 15
@@ -17474,7 +17474,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Makuhita
 Level: 15
@@ -17491,7 +17491,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandshrew
 Level: 19
@@ -17508,7 +17508,7 @@ Pic: Aroma Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Roselia
 Level: 18
@@ -17525,7 +17525,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 18
@@ -17542,7 +17542,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 18
@@ -17558,7 +17558,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 17
@@ -17583,7 +17583,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Skarmory
 Level: 17
@@ -17608,7 +17608,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Baltoy
 Level: 18
@@ -17633,7 +17633,7 @@ Pic: Pokemaniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Aron
 Level: 18
@@ -17658,7 +17658,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Lombre
 Level: 18
@@ -17683,7 +17683,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Barboach
 Level: 19
@@ -17700,7 +17700,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Nuzleaf
 Level: 19
@@ -17717,7 +17717,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zigzagoon
 Level: 14
@@ -17750,7 +17750,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 29
@@ -17767,7 +17767,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 29
@@ -17784,7 +17784,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 29
@@ -17801,7 +17801,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Baltoy
 Level: 28
@@ -17826,7 +17826,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Baltoy
 Level: 28
@@ -17851,7 +17851,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Mightyena
 Level: 29
@@ -17868,7 +17868,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 29
@@ -17885,7 +17885,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 29
@@ -17902,7 +17902,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 29
@@ -17919,7 +17919,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Mightyena
 Level: 29
@@ -17936,7 +17936,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Baltoy
 Level: 29
@@ -17953,7 +17953,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 29
@@ -17970,7 +17970,7 @@ Pic: Magma Grunt M
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Zubat
 Level: 29
@@ -17987,7 +17987,7 @@ Pic: Magma Grunt F
 Gender: Female
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Mightyena
 Level: 29
@@ -18004,7 +18004,7 @@ Pic: Magma Grunt F
 Gender: Female
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 29
@@ -18021,7 +18021,7 @@ Pic: Magma Grunt F
 Gender: Female
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Baltoy
 Level: 29
@@ -18038,7 +18038,7 @@ Pic: Magma Admin
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 26
@@ -18080,7 +18080,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Pelipper
 Level: 33
@@ -18105,7 +18105,7 @@ Pic: Magma Leader Maxie
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Mightyena
 Level: 42
@@ -18138,7 +18138,7 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Tentacool
 Level: 15
@@ -18154,7 +18154,7 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 15
@@ -18171,7 +18171,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandshrew
 Level: 25
@@ -18196,7 +18196,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Taillow
 Level: 25
@@ -18221,7 +18221,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 26
@@ -18238,7 +18238,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 24
@@ -18272,7 +18272,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Manectric
 Level: 24
@@ -18305,7 +18305,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Skarmory
 Level: 25
@@ -18330,7 +18330,7 @@ Pic: Picnicker
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Marill
 Level: 22
@@ -18355,7 +18355,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandshrew
 Level: 22
@@ -18380,7 +18380,7 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Taillow
 Level: 22
@@ -18405,7 +18405,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Numel
 Level: 18
@@ -18429,7 +18429,7 @@ Pic: Aroma Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 18
@@ -18454,7 +18454,7 @@ Pic: Running Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Doduo
 Level: 26
@@ -18479,7 +18479,7 @@ Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Ninjask
 Level: 26
@@ -18504,7 +18504,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Kadabra
 Level: 26
@@ -18529,7 +18529,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 26
@@ -18554,7 +18554,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 18
@@ -18579,7 +18579,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Geodude
 Level: 8
@@ -18602,7 +18602,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Shroomish
 Level: 8
@@ -18625,7 +18625,7 @@ Pic: Running Triathlete F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Doduo
 Level: 17
@@ -18642,7 +18642,7 @@ Pic: Psychic F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Ralts
 Level: 17
@@ -18659,7 +18659,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 17
@@ -18677,7 +18677,7 @@ Gender: Female
 Music: Intense
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Roselia
 Level: 33
@@ -18702,7 +18702,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Manectric
 Level: 26
@@ -18719,7 +18719,7 @@ Pic: Kindler
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Slugma
 Level: 25
@@ -18744,7 +18744,7 @@ Pic: Parasol Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Goldeen
 Level: 26
@@ -18762,7 +18762,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Manectric
 Level: 30
@@ -18778,7 +18778,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Meditite
 Level: 28
@@ -18803,7 +18803,7 @@ Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Dustox
 Level: 29
@@ -18828,7 +18828,7 @@ Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Makuhita
 Level: 25
@@ -18885,7 +18885,7 @@ Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Poochyena
 Level: 25
@@ -18943,7 +18943,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Loudred
 Level: 29
@@ -18968,7 +18968,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Lotad
 Level: 13
@@ -18993,7 +18993,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Torkoal
 Level: 13
@@ -19018,7 +19018,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Golem
 Level: 32
@@ -19060,7 +19060,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Omanyte
 Level: 37
@@ -19110,7 +19110,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Omastar
 Level: 42
@@ -19160,7 +19160,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Aerodactyl
 Level: 47
@@ -19218,7 +19218,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Machamp @ Sitrus Berry
 Level: 33
@@ -19260,7 +19260,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Machamp @ Sitrus Berry
 Level: 38
@@ -19302,7 +19302,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Hitmonchan
 Level: 40
@@ -19352,7 +19352,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Hitmonlee
 Level: 46
@@ -19410,7 +19410,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Mareep
 Level: 36
@@ -19452,7 +19452,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Pikachu
 Level: 39
@@ -19502,7 +19502,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Raichu
 Level: 44
@@ -19552,7 +19552,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Electabuzz
 Level: 50
@@ -19610,7 +19610,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Magcargo @ White Herb
 Level: 38
@@ -19652,7 +19652,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Growlithe
 Level: 41
@@ -19702,7 +19702,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Houndour
 Level: 46
@@ -19760,7 +19760,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Arcanine
 Level: 51
@@ -19818,7 +19818,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Chansey
 Level: 42
@@ -19860,7 +19860,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Slaking @ Sitrus Berry
 Level: 47
@@ -19910,7 +19910,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Slaking @ Sitrus Berry
 Level: 52
@@ -19960,7 +19960,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Slaking @ Sitrus Berry
 Level: 57
@@ -20018,7 +20018,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer / Risky
+AI: nettux
 
 Dratini @ Sitrus Berry
 Level: 40
@@ -20068,7 +20068,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer / Risky
+AI: nettux
 
 Hoothoot
 Level: 43
@@ -20126,7 +20126,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer / Risky
+AI: nettux
 
 Noctowl
 Level: 48
@@ -20184,7 +20184,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer / Risky
+AI: nettux
 
 Noctowl
 Level: 53
@@ -20242,7 +20242,7 @@ Gender: Male
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Slowpoke
 Level: 48
@@ -20292,7 +20292,7 @@ Gender: Male
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Drowzee
 Level: 53
@@ -20350,7 +20350,7 @@ Gender: Male
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Hypno
 Level: 58
@@ -20408,7 +20408,7 @@ Gender: Male
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Hypno
 Level: 63
@@ -20466,7 +20466,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Poliwag
 Level: 46
@@ -20516,7 +20516,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Poliwhirl
 Level: 50
@@ -20566,7 +20566,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Lapras
 Level: 56
@@ -20624,7 +20624,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: nettux
 
 Lapras
 Level: 61
@@ -20681,7 +20681,7 @@ Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Illumise
 Level: 17
@@ -20704,7 +20704,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Tropius
 Level: 30
@@ -20722,7 +20722,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Skarmory
 Level: 77
@@ -20779,7 +20779,7 @@ Pic: Salon Maiden Anabel
 Gender: Female
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Beldum
 Level: 5
@@ -20793,7 +20793,7 @@ Pic: Dome Ace Tucker
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Beldum
 Level: 5
@@ -20807,7 +20807,7 @@ Pic: Palace Maven Spenser
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Beldum
 Level: 5
@@ -20821,7 +20821,7 @@ Pic: Arena Tycoon Greta
 Gender: Female
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Beldum
 Level: 5
@@ -20835,7 +20835,7 @@ Pic: Factory Head Noland
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Beldum
 Level: 5
@@ -20849,7 +20849,7 @@ Pic: Pike Queen Lucy
 Gender: Female
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Beldum
 Level: 5
@@ -20863,7 +20863,7 @@ Pic: Pyramid King Brandon
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Beldum
 Level: 5
@@ -20877,7 +20877,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Sandshrew
 Level: 31
@@ -20902,7 +20902,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Nosepass
 Level: 33
@@ -20935,7 +20935,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Nosepass
 Level: 35
@@ -20968,7 +20968,7 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Nosepass
 Level: 37
@@ -21001,7 +21001,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 30
@@ -21034,7 +21034,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 32
@@ -21067,7 +21067,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 34
@@ -21100,7 +21100,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 36
@@ -21133,7 +21133,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Staryu
 Level: 37
@@ -21158,7 +21158,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wingull
 Level: 39
@@ -21191,7 +21191,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 41
@@ -21224,7 +21224,7 @@ Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Pelipper
 Level: 43
@@ -21257,7 +21257,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Machoke
 Level: 37
@@ -21282,7 +21282,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Makuhita
 Level: 39
@@ -21315,7 +21315,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Hariyama
 Level: 41
@@ -21348,7 +21348,7 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Hariyama
 Level: 43
@@ -21382,7 +21382,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Loudred
 Level: 35
@@ -21408,7 +21408,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Spinda
 Level: 37
@@ -21442,7 +21442,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Spinda
 Level: 39
@@ -21476,7 +21476,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Spinda
 Level: 41
@@ -21509,7 +21509,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Electrike
 Level: 35
@@ -21542,7 +21542,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Electrike
 Level: 37
@@ -21575,7 +21575,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Manectric
 Level: 39
@@ -21608,7 +21608,7 @@ Pic: Guitarist
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Manectric
 Level: 41
@@ -21641,7 +21641,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Geodude
 Level: 26
@@ -21666,7 +21666,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Machop
 Level: 28
@@ -21699,7 +21699,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Machop
 Level: 30
@@ -21732,7 +21732,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Basic Trainer
+AI: nettux
 
 Machoke
 Level: 33
@@ -21765,7 +21765,7 @@ Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Skitty
 Level: 31
@@ -21822,7 +21822,7 @@ Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Skitty
 Level: 33
@@ -21879,7 +21879,7 @@ Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Delcatty
 Level: 35
@@ -21936,7 +21936,7 @@ Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Delcatty
 Level: 37
@@ -21993,7 +21993,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Wailmer
 Level: 34
@@ -22018,7 +22018,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Luvdisc
 Level: 36
@@ -22051,7 +22051,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Luvdisc
 Level: 38
@@ -22084,7 +22084,7 @@ Pic: Beauty
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: nettux
 
 Luvdisc
 Level: 40

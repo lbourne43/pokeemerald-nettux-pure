@@ -11,4 +11,4 @@ fi
 echo "Building"
 make -j $(nproc)
 echo "Writing to Pokemon Emerald Nettux Pure.gba"
-cp pokeemerald.gba "Pokemon Emerald Nettux.gba"
+cp pokeemerald.gba "Pokemon Emerald Nettux Base.gba"
