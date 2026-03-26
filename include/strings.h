@@ -2288,4 +2288,97 @@ extern const u8 gText_NettuxSassy[];
 extern const u8 gText_NettuxSerious[];
 extern const u8 gText_NettuxTimid[];
 
+extern const u8 gText_NettuxTutorProtect[];
+extern const u8 gText_NettuxTutorFakeOut[];
+extern const u8 gText_NettuxTutorEncore[];
+extern const u8 gText_NettuxTutorTaunt[];
+extern const u8 gText_NettuxTutorTrickRoom[];
+extern const u8 gText_NettuxTutorTailwind[];
+
+extern const u8 gText_NettuxTutorSunnyDay[];
+extern const u8 gText_NettuxTutorRainDance[];
+extern const u8 gText_NettuxTutorSnowscape[];
+extern const u8 gText_NettuxTutorSandstorm[];
+extern const u8 gText_NettuxTutorWeatherBall[];
+
+extern const u8 gText_NettuxTutorUTurn[];
+extern const u8 gText_NettuxTutorVoltSwitch[];
+extern const u8 gText_NettuxTutorFlipTurn[];
+extern const u8 gText_NettuxTutorPartingShot[];
+extern const u8 gText_NettuxTutorBatonPass[];
+
+extern const u8 gText_NettuxTutorQuickAttack[];
+extern const u8 gText_NettuxTutorMachPunch[];
+extern const u8 gText_NettuxTutorIceShard[];
+extern const u8 gText_NettuxTutorAquaJet[];
+extern const u8 gText_NettuxTutorShadowSneak[];
+extern const u8 gText_NettuxTutorBulletPunch[];
+
+extern const u8 gText_NettuxTutorThunderPunch[];
+extern const u8 gText_NettuxTutorFirePunch[];
+extern const u8 gText_NettuxTutorIcePunch[];
+extern const u8 gText_NettuxTutorBrickBreak[];
+extern const u8 gText_NettuxTutorPoisonJab[];
+extern const u8 gText_NettuxTutorSuckerPunch[];
+
+extern const u8 gText_NettuxTutorDrainPunch[];
+
+extern const u8 gText_NettuxTutorPsychicFangs[];
+extern const u8 gText_NettuxTutorPoisonFang[];
+extern const u8 gText_NettuxTutorFireFang[];
+extern const u8 gText_NettuxTutorIceFang[];
+extern const u8 gText_NettuxTutorThunderFang[];
+extern const u8 gText_NettuxTutorCrunch[];
+
+extern const u8 gText_NettuxTutorAerialAce[];
+extern const u8 gText_NettuxTutorSwift[];
+extern const u8 gText_NettuxTutorShadowPunch[];
+extern const u8 gText_NettuxTutorSmartStrike[];
+extern const u8 gText_NettuxTutorAuraSphere[];
+extern const u8 gText_NettuxTutorShockWave[];
+extern const u8 gText_NettuxTutorMagicalLeaf[];
+extern const u8 gText_NettuxTutorFeintAttack[];
+
+extern const u8 gText_NettuxTutorThunderbolt[];
+extern const u8 gText_NettuxTutorEnergyBall[];
+extern const u8 gText_NettuxTutorFlamethrower[];
+extern const u8 gText_NettuxTutorPsychic[];
+extern const u8 gText_NettuxTutorShadowBall[];
+extern const u8 gText_NettuxTutorEarthPower[];
+extern const u8 gText_NettuxTutorIceBeam[];
+extern const u8 gText_NettuxTutorWaterPulse[];
+extern const u8 gText_NettuxTutorSludgeBomb[];
+
+extern const u8 gText_NettuxTutorRockSlide[];
+extern const u8 gText_NettuxTutorEarthquake[];
+extern const u8 gText_NettuxTutorWaterfall[];
+extern const u8 gText_NettuxTutorBodySlam[];
+extern const u8 gText_NettuxTutorLeafBlade[];
+extern const u8 gText_NettuxTutorPsychoCut[];
+
+extern const u8 gText_NettuxTutorFlareBlitz[];
+extern const u8 gText_NettuxTutorBraveBird[];
+extern const u8 gText_NettuxTutorWildCharge[];
+extern const u8 gText_NettuxTutorCloseCombat[];
+extern const u8 gText_NettuxTutorThunder[];
+extern const u8 gText_NettuxTutorBlizzard[];
+extern const u8 gText_NettuxTutorHurricane[];
+
+extern const u8 gText_NettuxTutorOverheat[];
+extern const u8 gText_NettuxTutorWaveCrash[];
+extern const u8 gText_NettuxTutorWoodHammer[];
+extern const u8 gText_NettuxTutorDoubleEdge[];
+
+extern const u8 gText_NettuxKanto[];
+extern const u8 gText_NettuxJohto[];
+extern const u8 gText_NettuxHoenn[];
+extern const u8 gText_NettuxSinnoh[];
+extern const u8 gText_NettuxUnova[];
+extern const u8 gText_NettuxKalos[];
+extern const u8 gText_NettuxAlola[];
+extern const u8 gText_NettuxGalar[];
+extern const u8 gText_NettuxPaldea[];
+
+
+
 #endif // GUARD_STRINGS_H

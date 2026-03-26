@@ -1736,3 +1736,185 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/scripts/dexnav.inc"
 	.include "data/scripts/battle_frontier.inc"
 	.include "data/scripts/apricorn_tree.inc"
+
+  	.include "data/maps/Starter_Room/scripts.inc"
+
+	.include "data/maps/NettuxPure_Wild00/scripts.inc"
+
+	.include "data/maps/NettuxPure_Base/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet2/scripts.inc"
+
+	.include "data/maps/NettuxPure_Hub/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet3/scripts.inc"
+
+	.include "data/maps/NettuxPure_Roxanne/scripts.inc"
+
+	.include "data/maps/NettuxPure_Respawn/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet4/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet5/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet4_1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet6/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet6_1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Brawly/scripts.inc"
+
+	.include "data/maps/NettuxPure_Wattson/scripts.inc"
+
+	.include "data/maps/NettuxPure_Flannery/scripts.inc"
+
+	.include "data/maps/NettuxPure_Norman/scripts.inc"
+
+	.include "data/maps/NettuxPure_Winona/scripts.inc"
+
+	.include "data/maps/NettuxPure_TateAndLiza/scripts.inc"
+
+	.include "data/maps/NettuxPure_Juan/scripts.inc"
+
+	.include "data/maps/NettuxPure_RoxanneEncounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_BrawlyEncounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_PlayerBedroom/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet7/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet8/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet9/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet9_1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet10/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet11/scripts.inc"
+
+	.include "data/maps/NettuxPure_WattsonEncounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_Aqua1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Magma1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet12/scripts.inc"
+
+	.include "data/maps/NettuxPure_Aqua1_Wild/scripts.inc"
+
+	.include "data/maps/NettuxPure_Base_Upstairs/scripts.inc"
+
+	.include "data/maps/NettuxPure_Wally1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Winstrates/scripts.inc"
+
+	.include "data/maps/NettuxPure_WildArea1/scripts.inc"
+
+	.include "data/maps/NettuxPure_AquaForest/scripts.inc"
+
+	.include "data/maps/NettuxPure_Leaf1/scripts.inc"
+
+	.include "data/maps/NettuxPure_FlanneryEncounters/scripts.inc"
+
+	.include "data/maps/NettuxPure_Aqua_Rusturf/scripts.inc"
+
+	.include "data/maps/NettuxPure_AquaMuseum/scripts.inc"
+
+	.include "data/maps/NettuxPure_AquaMuseum_Encounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_Maxie1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet13/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet14/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet15/scripts.inc"
+
+	.include "data/maps/NettuxPure_Red2/scripts.inc"
+
+	.include "data/maps/NettuxPure_Wally2/scripts.inc"
+
+	.include "data/maps/NettuxPure_Aqua2/scripts.inc"
+
+	.include "data/maps/NettuxPure_Aqua2_Encounters/scripts.inc"
+
+	.include "data/maps/NettuxPure_Shelly_Encounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_Shelly/scripts.inc"
+
+	.include "data/maps/NettuxPure_Leaf2/scripts.inc"
+
+	.include "data/maps/NettuxPure_Winona_Encounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet16/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet18/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet17/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet18_1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Aqua3/scripts.inc"
+
+	.include "data/maps/NettuxPure_Archie2/scripts.inc"
+
+	.include "data/maps/NettuxPure_Magma2/scripts.inc"
+
+	.include "data/maps/NettuxPure_Magma2_1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Maxie2/scripts.inc"
+
+	.include "data/maps/NettuxPure_Magma2_2/scripts.inc"
+
+	.include "data/maps/NettuxPure_Aqua4/scripts.inc"
+
+	.include "data/maps/NettuxPure_Aqua4_2/scripts.inc"
+
+	.include "data/maps/NettuxPure_Aqua4_1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet19/scripts.inc"
+
+	.include "data/maps/NettuxPure_Magma3/scripts.inc"
+
+	.include "data/maps/NettuxPure_Magma3_1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Maxie3/scripts.inc"
+
+	.include "data/maps/NettuxPure_NormanEncounters/scripts.inc"
+
+	.include "data/maps/NettuxPure_WildArea2/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet19_1/scripts.inc"
+
+	.include "data/maps/NettuxPure_Shelly2/scripts.inc"
+
+	.include "data/maps/NettuxPure_Archie3/scripts.inc"
+
+	.include "data/maps/NettuxPure_Wally3/scripts.inc"
+
+	.include "data/maps/NettuxPure_Gauntlet20/scripts.inc"
+
+	.include "data/maps/NettuxPure_RedAndLeaf/scripts.inc"
+
+	.include "data/maps/NettuxPure_League/scripts.inc"
+
+	.include "data/maps/NettuxPure_TateAndLiza_Encounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_Maxie3_Encounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_Shelly2_Encounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_Wally3_Encounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_Juan_Encounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_RedAndLeaf_Encounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_Archie3_Encounter/scripts.inc"
+
+	.include "data/maps/NettuxPure_GabbyAndTy/scripts.inc"

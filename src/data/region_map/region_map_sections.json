@@ -1626,6 +1626,17 @@
       "y": 4,
       "width": 1,
       "height": 1
+    },
+    {
+      "id": "MAPSEC_STARTER_ROOM"
+    },
+    {
+      "id": "MAPSEC_WILD_AREA",
+      "name": "Wild Area"
+    },
+    {
+      "id": "MAPSEC_NETTUX_PURE",
+      "name": "Main Base"
     }
   ]
 }

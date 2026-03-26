@@ -1,0 +1,35 @@
+{
+  "id": "MAP_NETTUX_PURE_AQUA2_ENCOUNTERS",
+  "name": "NettuxPure_Aqua2_Encounters",
+  "layout": "LAYOUT_NETTUX_PURE_AQUA2_ENCOUNTERS",
+  "music": "MUS_ROUTE119",
+  "region_map_section": "MAPSEC_ROUTE_119",
+  "requires_flash": false,
+  "weather": "WEATHER_RAIN",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": null,
+  "object_events": [],
+  "warp_events": [
+    {
+      "x": 5,
+      "y": 3,
+      "elevation": 0,
+      "dest_map": "MAP_NETTUX_PURE_AQUA2_ENCOUNTERS",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 14,
+      "y": 3,
+      "elevation": 0,
+      "dest_map": "MAP_NETTUX_PURE_BASE",
+      "dest_warp_id": "1"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": []
+}

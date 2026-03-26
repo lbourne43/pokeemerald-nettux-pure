@@ -2854,3 +2854,15 @@
 	getbraillestringwidth \text
 	call EventScript_BrailleCursorWaitButton
 	.endm
+
+        @ move tutor macro
+        .macro movetutor, moveid:req, movestring:req
+        msgbox \movestring, MSGBOX_YESNO
+        goto_if_eq VAR_RESULT, NO, NettuxHelper_ButIRefuse
+        setvar VAR_0x8005, \moveid
+        msgbox NettuxPure_Tutor_Text_WhichMon, MSGBOX_DEFAULT
+        call MoveTutor_EventScript_OpenPartyMenu
+        goto_if_eq VAR_RESULT, 0, NettuxHelper_ButIRefuse
+        msgbox NettuxPure_Tutor_Text_Taught, MSGBOX_DEFAULT
+        release
+	.endm

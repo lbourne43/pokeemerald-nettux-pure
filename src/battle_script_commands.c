@@ -10884,7 +10884,9 @@ static void Cmd_handleballthrow(void)
             gBattleResults.catchAttempts[ballId]++;
 
         //Master Ball check occurs before critical capture check
-        if (odds == CAPTURE_GUARANTEED)
+        //if (odds == CAPTURE_GUARANTEED)
+        // nettux always catch NETTUX ALWAYS CATCH
+        if (1)
         {
             FinalizeCapture();
             return;

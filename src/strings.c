@@ -1299,3 +1299,94 @@ const u8 gText_NettuxRelaxed[] = _("Relaxed");
 const u8 gText_NettuxSassy[] = _("Sassy");
 const u8 gText_NettuxSerious[] = _("Serious");
 const u8 gText_NettuxTimid[] = _("Timid");
+
+const u8 gText_NettuxKanto[] = _("Kanto");
+const u8 gText_NettuxJohto[] = _("Johto");
+const u8 gText_NettuxHoenn[] = _("Hoenn");
+const u8 gText_NettuxSinnoh[] = _("Sinnoh");
+const u8 gText_NettuxUnova[] = _("Unova");
+const u8 gText_NettuxKalos[] = _("Kalos");
+const u8 gText_NettuxAlola[] = _("Alola");
+const u8 gText_NettuxGalar[] = _("Galar");
+const u8 gText_NettuxPaldea[] = _("Paldea");
+
+const u8 gText_NettuxTutorProtect[] = _("Protect");
+const u8 gText_NettuxTutorFakeOut[] = _("Fake Out");
+const u8 gText_NettuxTutorEncore[] = _("Encore");
+const u8 gText_NettuxTutorTaunt[] = _("Taunt");
+const u8 gText_NettuxTutorTrickRoom[] = _("Trick Room");
+const u8 gText_NettuxTutorTailwind[] = _("Tailwind");
+
+const u8 gText_NettuxTutorSunnyDay[] = _("Sunny Day");
+const u8 gText_NettuxTutorRainDance[] = _("Rain Dance");
+const u8 gText_NettuxTutorSnowscape[] = _("Snowscape");
+const u8 gText_NettuxTutorSandstorm[] = _("Sandstorm");
+const u8 gText_NettuxTutorWeatherBall[] = _("Weather Ball");
+
+const u8 gText_NettuxTutorUTurn[] = _("U-Turn");
+const u8 gText_NettuxTutorVoltSwitch[] = _("Volt Switch");
+const u8 gText_NettuxTutorFlipTurn[] = _("Flip Turn");
+const u8 gText_NettuxTutorPartingShot[] = _("Parting Shot");
+const u8 gText_NettuxTutorBatonPass[] = _("Baton Pass");
+
+const u8 gText_NettuxTutorQuickAttack[] = _("Quick Attack");
+const u8 gText_NettuxTutorMachPunch[] = _("Mach Punch");
+const u8 gText_NettuxTutorAquaJet[] = _("Aqua Jet");
+const u8 gText_NettuxTutorShadowSneak[] = _("Shadow Sneak");
+const u8 gText_NettuxTutorIceShard[] = _("Ice Shard");
+const u8 gText_NettuxTutorBulletPunch[] = _("Bullet Punch");
+
+const u8 gText_NettuxTutorThunderPunch[] = _("Thunder Punch");
+const u8 gText_NettuxTutorFirePunch[] = _("Fire Punch");
+const u8 gText_NettuxTutorIcePunch[] = _("Ice Punch");
+const u8 gText_NettuxTutorPoisonJab[] = _("Poison Jab");
+const u8 gText_NettuxTutorDrainPunch[] = _("Drain Punch");
+const u8 gText_NettuxTutorSuckerPunch[] = _("Sucker Punch");
+
+const u8 gText_NettuxTutorPsychicFangs[] = _("Psychic Fangs");
+const u8 gText_NettuxTutorPoisonFang[] = _("Poison Fang");
+const u8 gText_NettuxTutorFireFang[] = _("Fire Fang");
+const u8 gText_NettuxTutorIceFang[] = _("Ice Fang");
+const u8 gText_NettuxTutorThunderFang[] = _("Thunder Fang");
+const u8 gText_NettuxTutorCrunch[] = _("Crunch");
+
+const u8 gText_NettuxTutorAerialAce[] = _("Aerial Ace");
+const u8 gText_NettuxTutorSwift[] = _("Swift");
+const u8 gText_NettuxTutorShadowPunch[] = _("Shadow Punch");
+const u8 gText_NettuxTutorSmartStrike[] = _("Smart Strike");
+const u8 gText_NettuxTutorAuraSphere[] = _("Aura Sphere");
+const u8 gText_NettuxTutorShockWave[] = _("Shock Wave");
+const u8 gText_NettuxTutorMagicalLeaf[] = _("Magical Leaf");
+const u8 gText_NettuxTutorFeintAttack[] = _("Feint Attack");
+
+const u8 gText_NettuxTutorThunderbolt[] = _("Thunderbolt");
+const u8 gText_NettuxTutorEnergyBall[] = _("Energy Ball");
+const u8 gText_NettuxTutorFlamethrower[] = _("Flamethrower");
+const u8 gText_NettuxTutorPsychic[] = _("Psychic");
+const u8 gText_NettuxTutorShadowBall[] = _("Shadow Ball");
+const u8 gText_NettuxTutorEarthPower[] = _("Earth Power");
+const u8 gText_NettuxTutorIceBeam[] = _("Ice Beam");
+const u8 gText_NettuxTutorWaterPulse[] = _("Water Pulse");
+
+const u8 gText_NettuxTutorRockSlide[] = _("Rock Slide");
+const u8 gText_NettuxTutorEarthquake[] = _("Earthquake");
+const u8 gText_NettuxTutorWaterfall[] = _("Waterfall");
+const u8 gText_NettuxTutorBodySlam[] = _("Body Slam");
+const u8 gText_NettuxTutorLeafBlade[] = _("Leaf Blade");
+const u8 gText_NettuxTutorPsychoCut[] = _("Psycho Cut");
+
+const u8 gText_NettuxTutorFlareBlitz[] = _("Flare Blitz");
+const u8 gText_NettuxTutorBraveBird[] = _("Brave Bird");
+const u8 gText_NettuxTutorWildCharge[] = _("Wild Charge");
+const u8 gText_NettuxTutorCloseCombat[] = _("Close Combat");
+const u8 gText_NettuxTutorThunder[] = _("Thunder");
+const u8 gText_NettuxTutorBlizzard[] = _("Blizzard");
+const u8 gText_NettuxTutorHurricane[] = _("Hurricane");
+
+
+const u8 gText_NettuxTutorOverheat[] = _("Overheat");
+const u8 gText_NettuxTutorWaveCrash[] = _("Wave Crash");
+const u8 gText_NettuxTutorWoodHammer[] = _("Wood Hammer");
+const u8 gText_NettuxTutorDoubleEdge[] = _("Double Edge");
+
+const u8 gText_NettuxTutorBrickBreak[] = _("Brick Break");

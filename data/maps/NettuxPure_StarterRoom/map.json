@@ -1,0 +1,17 @@
+{
+  "id": "MAP_STARTER_ROOM",
+  "name": "NettuxPure_StarterRoom",
+  "layout": "LAYOUT_STARTER_ROOM",
+  "music": "MUS_BIRCH_LAB",
+  "region_map_section": "MAPSEC_STARTER_ROOM",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_INDOOR",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": false,
+  "show_map_name": false,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": null,
+  "coord_events": []
+}

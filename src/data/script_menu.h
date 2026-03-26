@@ -94,6 +94,125 @@ static const struct MenuAction sMultichoiceList_NettuxDifficulty[] =
     {gText_NettuxDifficultyDoubles},
 };
 
+static const struct MenuAction sMultichoiceList_NettuxStarterRegion[] =
+{
+    {gText_NettuxKanto},
+    {gText_NettuxJohto},
+    {gText_NettuxHoenn},
+    {gText_NettuxSinnoh},
+    {gText_NettuxUnova},
+    {gText_NettuxKalos},
+    {gText_NettuxAlola},
+    {gText_NettuxGalar},
+    {gText_NettuxPaldea},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxTutorsWeather[] =
+{
+    {gText_NettuxTutorSunnyDay},
+    {gText_NettuxTutorRainDance},
+    {gText_NettuxTutorSnowscape},
+    {gText_NettuxTutorSandstorm},
+    {gText_NettuxTutorWeatherBall},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxTutorsSwitch[] =
+{
+    {gText_NettuxTutorUTurn},
+    {gText_NettuxTutorVoltSwitch},
+    {gText_NettuxTutorFlipTurn},
+    {gText_NettuxTutorPartingShot},
+    {gText_NettuxTutorBatonPass},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxTutorsPriority[] =
+{
+    {gText_NettuxTutorQuickAttack},
+    {gText_NettuxTutorMachPunch},
+    {gText_NettuxTutorIceShard},
+    {gText_NettuxTutorAquaJet},
+    {gText_NettuxTutorShadowSneak},
+    {gText_NettuxTutorBulletPunch},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxTutorsUtility[] =
+{
+    {gText_NettuxTutorProtect},
+    {gText_NettuxTutorFakeOut},
+    {gText_NettuxTutorEncore},
+    {gText_NettuxTutorTaunt},
+    {gText_NettuxTutorTrickRoom},
+    {gText_NettuxTutorTailwind},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxTutorsPunch[] =
+{
+    {gText_NettuxTutorThunderPunch},
+    {gText_NettuxTutorFirePunch},
+    {gText_NettuxTutorIcePunch},
+    {gText_NettuxTutorPoisonJab},
+    {gText_NettuxTutorDrainPunch},
+    {gText_NettuxTutorSuckerPunch},
+    {gText_NettuxTutorBrickBreak},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxTutorsBite[] =
+{
+    {gText_NettuxTutorPsychicFangs},
+    {gText_NettuxTutorThunderFang},
+    {gText_NettuxTutorFireFang},
+    {gText_NettuxTutorIceFang},
+    {gText_NettuxTutorPoisonFang},
+    {gText_NettuxTutorCrunch},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxTutorsAccuracy[] =
+{
+    {gText_NettuxTutorAerialAce},
+    {gText_NettuxTutorSwift},
+    {gText_NettuxTutorShadowPunch},
+    {gText_NettuxTutorSmartStrike},
+    {gText_NettuxTutorAuraSphere},
+    {gText_NettuxTutorShockWave},
+    {gText_NettuxTutorMagicalLeaf},
+    {gText_NettuxTutorFeintAttack},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxTutorsSpecial[] =
+{
+    {gText_NettuxTutorThunderbolt},
+    {gText_NettuxTutorEnergyBall},
+    {gText_NettuxTutorFlamethrower},
+    {gText_NettuxTutorPsychic},
+    {gText_NettuxTutorShadowBall},
+    {gText_NettuxTutorEarthPower},
+    {gText_NettuxTutorIceBeam},
+    {gText_NettuxTutorWaterPulse},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxTutorsPhysical[] =
+{
+    {gText_NettuxTutorRockSlide},
+    {gText_NettuxTutorEarthquake},
+    {gText_NettuxTutorWaterfall},
+    {gText_NettuxTutorBodySlam},
+    {gText_NettuxTutorLeafBlade},
+    {gText_NettuxTutorPsychoCut},
+};
+
+static const struct MenuAction sMultichoiceList_NettuxTutorsReckless[] =
+{
+    {gText_NettuxTutorFlareBlitz},
+    {gText_NettuxTutorBraveBird},
+    {gText_NettuxTutorWildCharge},
+    {gText_NettuxTutorCloseCombat},
+    {gText_NettuxTutorThunder},
+    {gText_NettuxTutorBlizzard},
+    {gText_NettuxTutorHurricane},
+};
+
+
+
 static const struct MenuAction MultichoiceList_BrineyOnDewford[] =
 {
     {COMPOUND_STRING("PETALBURG")},
@@ -1362,6 +1481,17 @@ static const struct MultichoiceListStruct sMultichoiceLists[] =
     [MULTICHOICE_NETTUX_RENATURE]      = MULTICHOICE(sMultichoiceList_NettuxReNature),
     [MULTICHOICE_NETTUX_STATUS]        = MULTICHOICE(sMultichoiceList_NettuxStatus),
     [MULTICHOICE_NETTUX_HEAL_OR_STATUS]= MULTICHOICE(sMultichoiceList_NettuxHealOrStatus),
+    [MULTICHOICE_NETTUX_STARTER_REGION]= MULTICHOICE(sMultichoiceList_NettuxStarterRegion),
+    [MULTICHOICE_NETTUX_TUTORS_WEATHER]= MULTICHOICE(sMultichoiceList_NettuxTutorsWeather),
+    [MULTICHOICE_NETTUX_TUTORS_SWITCH] = MULTICHOICE(sMultichoiceList_NettuxTutorsSwitch),
+    [MULTICHOICE_NETTUX_TUTORS_PRIORITY] = MULTICHOICE(sMultichoiceList_NettuxTutorsPriority),
+    [MULTICHOICE_NETTUX_TUTORS_PUNCH]  = MULTICHOICE(sMultichoiceList_NettuxTutorsPunch),
+    [MULTICHOICE_NETTUX_TUTORS_BITE]   = MULTICHOICE(sMultichoiceList_NettuxTutorsBite),
+    [MULTICHOICE_NETTUX_TUTORS_ACCURACY]= MULTICHOICE(sMultichoiceList_NettuxTutorsAccuracy),
+    [MULTICHOICE_NETTUX_TUTORS_SPECIAL]= MULTICHOICE(sMultichoiceList_NettuxTutorsSpecial),
+    [MULTICHOICE_NETTUX_TUTORS_PHYSICAL]= MULTICHOICE(sMultichoiceList_NettuxTutorsPhysical),
+    [MULTICHOICE_NETTUX_TUTORS_RECKLESS]= MULTICHOICE(sMultichoiceList_NettuxTutorsReckless),
+    [MULTICHOICE_NETTUX_TUTORS_UTILITY]= MULTICHOICE(sMultichoiceList_NettuxTutorsUtility),
 };
 
 const u8 *const gStdStrings[] =

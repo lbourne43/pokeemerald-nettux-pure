@@ -49,3 +49,10 @@ gText_ThankYouForWaiting::
 
 gText_WeHopeToSeeYouAgain2::
 	.string "We hope to see you again!$"
+
+NettuxPure_Tutor_Text_WhichMon:
+        .string "Who should learn the move?$"
+
+NettuxPure_Tutor_Text_Taught:
+        .string "All finished! Come back again!$"
+

@@ -349,6 +349,21 @@
       "y": 12,
       "respawn_map": "MAP_SIX_ISLAND_POKEMON_CENTER_1F",
       "respawn_npc": "LOCALID_SIX_ISLAND_NURSE"
+    },
+    {
+      "id": "HEAL_LOCATION_NETTUX_PURE_BASE",
+      "map": "MAP_NETTUX_PURE_BASE",
+      "x": 3,
+      "y": 4,
+      "respawn_map": "MAP_NETTUX_PURE_BASE",
+      "respawn_x": 10,
+      "respawn_y": 4
+    },
+    {
+      "id": "HEAL_LOCATION_STARTER_ROOM",
+      "map": "MAP_STARTER_ROOM",
+      "x": 5,
+      "y": 3
     }
   ]
 }
