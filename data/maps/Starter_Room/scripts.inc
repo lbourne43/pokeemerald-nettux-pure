@@ -184,9 +184,9 @@ NettuxPure_StarterRoom_InitialiseGame::
         setflag FLAG_SYS_B_DASH
 	setflag FLAG_NETTUX_HIDE_RED_1
 	setflag FLAG_NETTUX_HIDE_WALLY_1
-        giveitem ITEM_POKE_BALL
 	giveitem ITEM_INFINITE_RARE_CANDY
 	giveitem ITEM_INFINITE_EXP_CANDY
+  call Nettux_RandomWildMon
         closemessage
 	end
 

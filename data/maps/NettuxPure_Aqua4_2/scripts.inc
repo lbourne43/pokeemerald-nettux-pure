@@ -30,7 +30,7 @@ NettuxPure_Aqua4_2_SubmarineEscape::
         msgbox AquaHideout_B2F_Text_MattPostBattle, MSGBOX_DEFAULT
         setflag FLAG_NETTUX_FINISH_MATT
 	addmoney 18000
-	giveitem ITEM_POKE_BALL
+  call Nettux_RandomWildMon
 	closemessage
         release
         end

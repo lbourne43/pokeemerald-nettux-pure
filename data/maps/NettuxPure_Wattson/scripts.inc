@@ -26,7 +26,7 @@ NettuxPure_Wattson_EventScript_GiveTM::
         goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull
         setflag FLAG_RECEIVED_TM_SHOCK_WAVE
         msgbox MauvilleCity_Gym_Text_ExplainShockWave, MSGBOX_DEFAULT
-	giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
 	applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_Wattson_Movement_LeaveBattle
         waitmovement 0

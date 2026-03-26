@@ -113,7 +113,7 @@ NettuxPure_WildGuardian1::
         setflag FLAG_NETTUX_LEVEL_SCALE
         msgbox NettuxPure_WildGuardian1Greet, MSGBOX_AUTOCLOSE
         trainerbattle_no_intro TRAINER_CELIA, NettuxPure_WildGuardian1Defeat
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
 	setflag FLAG_NETTUX_FINISH_WILD_GUARD_1
 	applymovement LOCALID_WILD_GAURD1, NettuxPure_WildGuardian1_Movement_Open

@@ -8,7 +8,7 @@ NettuxPure_GabbyAndTy_Battle::
 
 NettuxPure_GabbyAndTy_Complete::
         addmoney 20000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GABBY_AND_TY
         end

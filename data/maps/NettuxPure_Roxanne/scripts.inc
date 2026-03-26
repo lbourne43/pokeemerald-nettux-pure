@@ -26,12 +26,14 @@ NettuxPure_Roxanne_EventScript_GiveRockTomb::
         goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull
         setflag FLAG_RECEIVED_TM_ROCK_TOMB
         msgbox RustboroCity_Gym_Text_ExplainRockTomb, MSGBOX_DEFAULT
-        giveitem ITEM_POKE_BALL
-	closemessage
-	applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_Roxanne_Movement_LeaveBattle
+        giveitem ITEM_HEART_SCALE
+       	closemessage
+        call Nettux_RandomWildMon
+      	closemessage
+	      applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_Roxanne_Movement_LeaveBattle
         waitmovement 0
         releaseall
-	warp MAP_NETTUX_PURE_ROXANNE_ENCOUNTER, 0
+	      warp MAP_NETTUX_PURE_BASE, 0
         end
 
 NettuxPure_Roxanne::

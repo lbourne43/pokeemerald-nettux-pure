@@ -12,7 +12,7 @@ NettuxPure_RedAndLeaf_Leaf::
         end
 
 NettuxPure_Red3_Complete::
-        giveitem ITEM_POKE_BALL
+call Nettux_RandomWildMon
         addmoney 20000
         setflag FLAG_NETTUX_FINISH_RED_AND_LEAF
         closemessage

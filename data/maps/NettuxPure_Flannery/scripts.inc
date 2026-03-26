@@ -26,7 +26,7 @@ NettuxPure_Flannery_EventScript_GiveTM::
         goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull
         setflag FLAG_RECEIVED_TM_OVERHEAT
         msgbox LavaridgeTown_Gym_1F_Text_ExplainOverheat, MSGBOX_DEFAULT
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_Flannery_Movement_LeaveBattle
         waitmovement 0

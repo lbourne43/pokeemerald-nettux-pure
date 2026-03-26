@@ -2210,12 +2210,15 @@ extern const u8 gText_NettuxCantHealHere[];
 
 extern const u8 gText_MenuPC[];
 
+extern const u8 gText_NettuxMart[];
+extern const u8 gText_NettuxRelearner[];
 extern const u8 gText_NettuxBattleMart[];
 extern const u8 gText_NettuxTrainingMart[];
 extern const u8 gText_NettuxTMMart[];
 extern const u8 gText_NettuxEvolveMart[];
 extern const u8 gText_NettuxHyperTrain[];
 extern const u8 gText_NettuxTeraTrain[];
+extern const u8 gText_NettuxReNature[];
 
 extern const u8 gText_NettuxHyperHP[];
 extern const u8 gText_NettuxHyperAtk[];
@@ -2379,6 +2382,6 @@ extern const u8 gText_NettuxAlola[];
 extern const u8 gText_NettuxGalar[];
 extern const u8 gText_NettuxPaldea[];
 
-
+extern const u8 gText_Birch_NettuxDifficulty[];
 
 #endif // GUARD_STRINGS_H

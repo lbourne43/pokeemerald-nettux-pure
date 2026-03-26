@@ -8,7 +8,7 @@ NettuxPure_Aqua3_Grunt3::
 
 NettuxPure_Aqua3_Complete::
         addmoney 18000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_AQUA_MTPYRE
         end

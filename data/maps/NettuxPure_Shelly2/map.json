@@ -40,7 +40,7 @@
       "x": 8,
       "y": 1,
       "elevation": 0,
-      "dest_map": "MAP_NETTUX_PURE_SHELLY2_ENCOUNTER",
+      "dest_map": "MAP_NETTUX_PURE_BASE",
       "dest_warp_id": "1"
     }
   ],

@@ -6,10 +6,18 @@
 
 enum DifficultyLevel GetCurrentDifficultyLevel(void)
 {
-    if (!B_VAR_DIFFICULTY)
-        return DIFFICULTY_NORMAL;
+    //if (!B_VAR_DIFFICULTY)
+    //    return DIFFICULTY_NORMAL;
 
-    return VarGet(B_VAR_DIFFICULTY);
+    if (FlagGet(FLAG_NETTUX_HARD))
+        return DIFFICULTY_HARD;
+    if (FlagGet(FLAG_NETTUX_VGC))
+        return DIFFICULTY_DOUBLES;
+    if (FlagGet(FLAG_NETTUX_MEDIUM))
+        return DIFFICULTY_MEDIUM;
+
+    return DIFFICULTY_NORMAL;
+    //return VarGet(B_VAR_DIFFICULTY);
 }
 
 void SetCurrentDifficultyLevel(enum DifficultyLevel desiredDifficulty)

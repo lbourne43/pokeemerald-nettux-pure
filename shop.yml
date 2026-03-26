@@ -1,8 +1,6 @@
 ---
 mart:
   zero:
-    balls:
-      - poke ball
     potions:
       - potion
     status:
@@ -11,26 +9,21 @@ mart:
       - ice heal
       - awakening
       - paralyze heal
-      - revive
+    others:
+      - ether
   one:
-    balls:
-      - great ball
     potions:
       - super potion
   two:
-    others:
-      - poke doll
   three:
     others:
-      - repel
+      - pp up
   four:
     potions:
       - hyper potion
   five:
-    balls:
-      - ultra ball
     others:
-      - super repel
+      - max ether
   six:
     status:
       - full heal
@@ -38,21 +31,51 @@ mart:
     potions:
       - max potion
     others:
-      - max repel
+      - max ether
+      - max elixir
   eight: 
     potions:
       - full restore
     others:
-      - max ether
+      - rotom catalog
+      - pp max
    
 battle:
   zero:
+    others:
+      - silk_scarf
+      - charcoal
+      - mystic_water
+      - magnet
+      - miracle_seed
+      - never_melt_ice
+      - black_belt
+      - poison_barb
+      - soft_sand
+      - sharp_beak
+      - twisted_spoon
+      - silver_powder
+      - dragon_fang
+      - black_glasses
+      - snowball
+      - hard_stone
+      - spell_tag
+      - metal_coat
   one:
   two:
   three:
   four:
+    others:
+      - white_herb
+      - mental_herb
+      - power_herb
+      - mirror_herb
+      - focus_sash
+      - life_orb
   five:
   six:
+    others:
+      - clear amulet
   seven:
   eight:
 
@@ -60,11 +83,72 @@ training:
   zero:
   one:
   two:
+    potions:
+      - ability capsule
+      - ability patch
   three:
+    status:
+      - fire stone
+      - water stone
+      - thunder stone
+      - leaf stone
+      - moon stone
+      - sun stone
+      - dawn stone
+      - dusk stone
+      - magmarizer
+      - electirizer
+    others:
+      - venusaurite
+      - blastoisinite
+      - beedrillite
+      - pidgeotite
+      - alakazite
+      - slowbronite
+      - gengarite
+      - kangaskhanite
+      - pinsirite
+      - gyaradosite
+      - aerodactylite
+      - ampharosite
+      - steelixite
+      - scizorite
+      - heracronite
+      - houndoominite
+      - tyranitarite
+      - sceptilite
+      - blazikenite
+      - swampertite
+      - gardevoirite
+      - sablenite
+      - mawilite
+      - aggronite
+      - medichamite
+      - manectite
+      - sharpedonite
+      - cameruptite
+      - altarianite
+      - banettite
+      - absolite
+      - glalitite
+      - salamencite
+      - metagrossite
+      - lopunnite
+      - garchompite
+      - lucarionite
+      - abomasite
+      - galladite
   four:
+    others:
+      - upgrade
+      - dubious disc
   five:
   six:
   seven:
+    others:
+      - cornerstone mask
+      - wellspring mask
+      - hearthflame mask
   eight: 
 
 tm:

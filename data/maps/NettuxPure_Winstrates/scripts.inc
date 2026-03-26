@@ -113,7 +113,7 @@ NettuxPure_Winstrates_EventScript_CloseWinstrateDoor::
 
 NettuxPure_Winstrates_Complete::
         addmoney 10000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_WINSTRATES
         end

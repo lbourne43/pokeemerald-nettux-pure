@@ -70,6 +70,6 @@ NettuxPure_Maxie2_Maxie::
         fadescreen FADE_TO_BLACK
         removeobject LOCALID_MAXIE
 	addmoney 18000
-	giveitem ITEM_POKE_BALL
+  call Nettux_RandomWildMon
         closemessage
 	end

@@ -8,7 +8,7 @@ NettuxPure_Gauntlet10_EventScript_Bryan::
 
 NettuxPure_Gauntlet10_Complete::
         addmoney 10000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_10
         end

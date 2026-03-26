@@ -28,7 +28,7 @@ NettuxPure_EventScript_Rival2_F::
 
 NettuxPure_Gauntlet5_EventScript_Complete::
         addmoney 5000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
 	closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_5
         end

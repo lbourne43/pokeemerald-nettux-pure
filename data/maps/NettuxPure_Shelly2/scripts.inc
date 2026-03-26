@@ -8,7 +8,7 @@ NettuxPure_Shelly2_Shelly::
 
 NettuxPure_Shelly2_Complete::
         addmoney 20000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_AQUA_UNDERWATER
         end

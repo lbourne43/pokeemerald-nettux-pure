@@ -18,7 +18,7 @@ NettuxPure_Wally1_EventScript_BattleWally::
         trainerbattle_no_intro TRAINER_WALLY_MAUVILLE, NettuxPure_Wally1_Text_WallyDefeat
         msgbox MauvilleCity_Text_ThankYouNotEnoughToBattle, MSGBOX_DEFAULT
         giveitem ITEM_MEGA_RING
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         addmoney 7500
         applymovement LOCALID_WALLY, NettuxPure_Wally1_Movement_WallyLeaves
         waitmovement LOCALID_WALLY

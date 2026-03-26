@@ -109,7 +109,7 @@ NettuxPure_Aqua1_EventScript_MagmaStealsMeteoriteScenePart2::
 	
 NettuxPure_Aqua1_Complete::
         addmoney 10000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_AQUA1
         end

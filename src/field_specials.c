@@ -6151,7 +6151,7 @@ void nettuxGetRandomWildMon(void)
     timeOfDay = GetTimeOfDayForEncounters(headerId, WILD_AREA_LAND);
     encounters = gWildMonHeaders[headerId].encounterTypes[timeOfDay].landMonsInfo->wildPokemon;
 
-    int index = Random() % 8;
+    int index = Random() % 12;
 
     const struct WildPokemon *mon = &encounters[index];
     DebugPrintf("%d", mon->species);

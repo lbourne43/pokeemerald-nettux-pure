@@ -8,7 +8,7 @@ NettuxPure_Gauntlet18_William::
 
 NettuxPure_Gauntlet18_Complete::
         addmoney 18000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_18
         end

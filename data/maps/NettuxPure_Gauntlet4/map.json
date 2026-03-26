@@ -92,8 +92,8 @@
       "x": 18,
       "y": 19,
       "elevation": 0,
-      "dest_map": "MAP_NETTUX_PURE_GAUNTLET4_1",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_NETTUX_PURE_BASE",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [],

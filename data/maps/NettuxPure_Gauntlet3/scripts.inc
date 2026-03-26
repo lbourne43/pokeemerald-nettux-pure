@@ -11,10 +11,19 @@ NettuxPure_Gauntlet3_EventScript_Jose::
 	end
 
 NettuxPure_Gauntlet3_EventScript_Complete::
-        addmoney 3000
-        giveitem ITEM_POKE_BALL
-	closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_3
+        addmoney 4000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_METRONOME
+        giveitem ITEM_ABSORB_BULB
+        giveitem ITEM_BIG_ROOT
+        giveitem ITEM_SHUCA_BERRY
+        giveitem ITEM_SITRUS_BERRY
+        giveitem ITEM_CUSTAP_BERRY
+        giveitem ITEM_KASIB_BERRY
+       	closemessage
+        call Nettux_RandomWildMon
         end
 
 NettuxPure_Gauntlet3_EventScript_Encounters::

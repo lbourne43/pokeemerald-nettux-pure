@@ -2,11 +2,11 @@
 
 static const struct MenuAction sMultichoiceList_NettuxMartHelper[] =
 {
-    {gText_NettuxBattleMart},
+    {gText_NettuxMart},
     {gText_NettuxTrainingMart},
-    {gText_NettuxTMMart},
-    {gText_NettuxEvolveMart},
+    {gText_NettuxRelearner},
     {gText_NettuxHyperTrain},
+    {gText_NettuxReNature},
     {gText_NettuxTeraTrain},
 };
 

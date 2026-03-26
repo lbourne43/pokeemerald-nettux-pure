@@ -7,10 +7,15 @@ NettuxPure_Leaf1_Leaf::
         end
 
 NettuxPure_Leaf1_Post::
-        addmoney 4000
-        giveitem ITEM_POKE_BALL
-        closemessage
         setflag FLAG_NETTUX_FINISH_LEAF_1
+        addmoney 4000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_MENTAL_HERB
+        giveitem ITEM_SILVER_POWDER
+        giveitem ITEM_PERSIM_BERRY
+        giveitem ITEM_CHARTI_BERRY
+       	closemessage
+        call Nettux_RandomWildMon
         end
 
 NettuxPure_Leaf1_Text_LeafIntro:

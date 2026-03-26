@@ -40,7 +40,7 @@ NettuxPure_Magma1_EventScript_Maxie::
 
 NettuxPure_Maxie1_Complete::
         addmoney 10000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_MAXIE1
         end

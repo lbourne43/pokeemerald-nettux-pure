@@ -31,7 +31,7 @@ NettuxPure_Gauntlet7_EventScript_Huey::
 
 NettuxPure_Gauntlet7_Complete::
 	addmoney 5000
-        giveitem ITEM_POKE_BALL
+  call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_7
         end

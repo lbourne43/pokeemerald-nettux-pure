@@ -46,10 +46,16 @@ NettuxPure_EventScript_ReceivedBulletSeed::
 	end
 
 NettuxPure_Gauntlet2_EventScript_Complete::
-        addmoney 2000
-        giveitem ITEM_POKE_BALL
-	closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_2
+        addmoney 3000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_WHITE_HERB
+        giveitem ITEM_SHARP_BEAK
+        giveitem ITEM_CHERI_BERRY
+        giveitem ITEM_ORAN_BERRY
+        giveitem ITEM_CHESTO_BERRY
+       	closemessage
+        call Nettux_RandomWildMon
         end
 
 NettuxPure_Gauntlet2_EventScript_Encounters::

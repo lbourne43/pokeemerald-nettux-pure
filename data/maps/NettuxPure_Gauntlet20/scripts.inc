@@ -8,7 +8,7 @@ NettuxPure_Gauntlet20_Olivia::
 
 NettuxPure_Gauntlet20_Complete::
         addmoney 20000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_20
         end

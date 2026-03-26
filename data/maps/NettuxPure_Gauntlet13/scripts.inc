@@ -3,7 +3,7 @@ NettuxPure_Gauntlet13_MapScripts::
 
 NettuxPure_Gauntlet13_Complete::
         addmoney 13000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_13
         end

@@ -7,8 +7,9 @@ NettuxPure_AquaForest_Grunt::
         end
 
 NettuxPure_AquaForest_Post::
-        addmoney 3000
-        giveitem ITEM_POKE_BALL
-        closemessage
         setflag FLAG_NETTUX_FINISH_AQUA_FOREST
+        addmoney 3000
+        giveitem ITEM_HEART_SCALE
+       	closemessage
+        call Nettux_RandomWildMon
         end

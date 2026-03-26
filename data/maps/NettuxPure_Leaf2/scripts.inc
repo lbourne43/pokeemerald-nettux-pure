@@ -8,7 +8,7 @@ NettuxPure_Leaf2_Leaf::
 
 NettuxPure_Leaf2_Post::
         addmoney 14000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_LEAF_2
         end

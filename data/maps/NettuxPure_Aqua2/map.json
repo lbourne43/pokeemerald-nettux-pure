@@ -73,8 +73,8 @@
       "x": 34,
       "y": 1,
       "elevation": 0,
-      "dest_map": "MAP_NETTUX_PURE_AQUA2_ENCOUNTERS",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_NETTUX_PURE_BASE",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [],

@@ -21,7 +21,7 @@ NettuxPure_Winona_EventScript_GiveTM::
         goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull
         setflag FLAG_RECEIVED_TM_AERIAL_ACE
         msgbox FortreeCity_Gym_Text_ExplainAerialAce, MSGBOX_DEFAULT
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_Winona_Movement_LeaveBattle
         waitmovement 0

@@ -37,7 +37,7 @@ NettuxPure_Gauntlet8_BikeCheck::
 
 NettuxPure_Gauntlet8_Complete::
         addmoney 5000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_8
         end

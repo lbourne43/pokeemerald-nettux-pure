@@ -13,7 +13,7 @@ NettuxPure_Maxie3_Tabitha::
 
 NettuxPure_Maxie3_Complete::
         addmoney 20000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_MAXIE3
         end

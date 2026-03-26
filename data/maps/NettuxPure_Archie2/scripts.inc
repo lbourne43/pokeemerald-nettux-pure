@@ -60,7 +60,7 @@ NettuxPure_Archie2_TeamAquaExitsPart2::
         giveitem ITEM_MAGMA_EMBLEM
         setflag FLAG_RECEIVED_RED_OR_BLUE_ORB
         addmoney 20000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
 	setflag FLAG_NETTUX_FINISH_ARCHIE2
         releaseall

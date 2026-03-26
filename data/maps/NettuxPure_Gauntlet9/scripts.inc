@@ -11,9 +11,9 @@ NettuxPure_Gauntlet9_EventScript_Kirk::
         msgbox MauvilleCity_Gym_Text_KirkPostBattle, MSGBOX_AUTOCLOSE
 
 NettuxPure_Gauntlet9_Complete::
-        giveitem ITEM_POKE_BALL
+call Nettux_RandomWildMon
         addmoney 7500
         setflag FLAG_NETTUX_FINISH_GAUNTLET_9
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         end

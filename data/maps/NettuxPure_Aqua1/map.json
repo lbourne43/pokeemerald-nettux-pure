@@ -157,8 +157,8 @@
       "x": 6,
       "y": 39,
       "elevation": 3,
-      "dest_map": "MAP_NETTUX_PURE_AQUA1_WILD",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_NETTUX_PURE_BASE",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [

@@ -7,7 +7,7 @@ NettuxPure_Wally2_Wally2::
         end
 
 NettuxPure_Wally2_Complete::
-        giveitem ITEM_POKE_BALL
+call Nettux_RandomWildMon
         addmoney 12000
         setflag FLAG_NETTUX_FINISH_WALLY_2
         closemessage

@@ -8,7 +8,7 @@ NettuxPure_Magma3_Grunt1::
 
 NettuxPure_Magma3_Complete::
         addmoney 20000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_MAGMA_SPACE
         end

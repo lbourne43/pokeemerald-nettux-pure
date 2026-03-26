@@ -21,7 +21,7 @@ NettuxPure_Norman_EventScript_GiveTM::
         goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull
         setflag FLAG_RECEIVED_TM_FACADE
         msgbox PetalburgCity_Gym_Text_ExplainFacade, MSGBOX_DEFAULT
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         giveitem ITEM_HM_SURF
         closemessage
         applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_Norman_Movement_LeaveBattle

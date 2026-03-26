@@ -1221,10 +1221,15 @@ const u8 gText_CleanseTagTurnOff[] = _("Turned off Cleanse Tag.{PAUSE_UNTIL_PRES
 const u8 gText_NettuxHealed[] = _("Healed.{PAUSE_UNTIL_PRESS}");
 const u8 gText_NettuxCantHealHere[] = _("Can't heal here.{PAUSE_UNTIL_PRESS}");
 
-const u8 gText_NettuxBattleMart[] = _("Battle Mart");
-const u8 gText_NettuxTrainingMart[] = _("Training Mart");                                                               const u8 gText_NettuxTMMart[] = _("TM Mart");
-const u8 gText_NettuxEvolveMart[] = _("Evolvution Mart");
+const u8 gText_NettuxMart[] = _("Medicine");
+const u8 gText_NettuxTrainingMart[] = _("Training Items");
+const u8 gText_NettuxRelearner[] = _("Move Relearner");
 const u8 gText_NettuxHyperTrain[] = _("Hyper Train");
+const u8 gText_NettuxReNature[] = _("Re-Nature");
+
+const u8 gText_NettuxEvolveMart[] = _("Evolution Items");
+const u8 gText_NettuxBattleMart[] = _("Battle Items");
+const u8 gText_NettuxTMMart[] = _("TMs");
 const u8 gText_NettuxTeraTrain[] = _("Tera Train");
 
 const u8 gText_NettuxHyperHP[] = _("HP");

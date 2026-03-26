@@ -13,7 +13,7 @@ NettuxPure_Magma2_Tabitha::
 
 NettuxPure_Magma2_Complete::
         addmoney 18000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_MAGMA_HIDEOUT
         end

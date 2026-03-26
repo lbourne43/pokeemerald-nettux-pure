@@ -26,7 +26,7 @@ NettuxPure_TateAndLiza_EventScript_GiveTM::
         goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull
         setflag FLAG_RECEIVED_TM_CALM_MIND
         msgbox MossdeepCity_Gym_Text_ExplainCalmMind, MSGBOX_DEFAULT
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_TateAndLiza_Movement_LeaveBattle
         waitmovement 0

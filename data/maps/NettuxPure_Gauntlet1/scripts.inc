@@ -31,10 +31,14 @@ NettuxPure_Gauntlet1_EventScript_Allen::
 	end
 
 NettuxPure_Gauntlet1_EventScript_Complete::
-        addmoney 1000
-        giveitem ITEM_POKE_BALL
-	closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_1
+        addmoney 1000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_SILK_SCARF
+        giveitem ITEM_ORAN_BERRY
+        giveitem ITEM_PECHA_BERRY
+       	closemessage
+        call Nettux_RandomWildMon
         end
 
 NettuxPure_Gauntlet1_EventScript_Encounters::

@@ -8,7 +8,7 @@ NettuxPure_AquaTunnel_Grunt::
 
 NettuxPure_AquaTunnel_Post::
         addmoney 4000
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_AQUA_TUNNEL
         end

@@ -8,7 +8,7 @@ NettuxPure_Red2_Red2::
 
 NettuxPure_Red2_Complete::
         giveitem ITEM_TERA_ORB
-        giveitem ITEM_POKE_BALL
+        call Nettux_RandomWildMon
         addmoney 12000
         setflag FLAG_NETTUX_FINISH_RED_2
         setflag B_FLAG_TERA_ORB_CHARGED

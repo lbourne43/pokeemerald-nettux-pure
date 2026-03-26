@@ -98,7 +98,7 @@ Mugshot: Green
 /* Location: Wild Area 0 */
 
 Eevee
-Level: 5
+Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Tackle 
 - Sand Attack
@@ -106,7 +106,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Growl
 
 Pikachu
-Level: 5
+Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Thunder Shock
 - Growl
@@ -159,7 +159,7 @@ Difficulty: Hard
 
 Zubat  
 Ability: Inner Focus  
-Level: 10  
+Level: 13  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Wing Attack  
 - Bite  
@@ -168,7 +168,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Poochyena  
 Ability: Run Away  
-Level: 10  
+Level: 13  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Bite  
 - Howl  
@@ -177,7 +177,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Carvanha  
 Ability: Rough Skin  
-Level: 10  
+Level: 13  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Bite  
 - Aqua Jet  
@@ -274,7 +274,7 @@ Mugshot: Pink
 /* Location: Leaf 1 */
 
 Marill
-Level: 15
+Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Sing
 - Rollout
@@ -282,7 +282,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Defense Curl
 
 Shinx
-Level: 15
+Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Tackle
 - Leer
@@ -290,7 +290,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
 
 Vulpix
-Level: 15
+Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Ember
 - Quick Attack
@@ -298,7 +298,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Confuse Ray
 
 Petilil
-Level: 15
+Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Absorb
 - Growth
@@ -322,7 +322,7 @@ Difficulty: Hard
 
 Venonat  
 Ability: Compound Eyes  
-Level: 16  
+Level: 18  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Confusion  
 - Poison Powder  
@@ -331,7 +331,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Butterfree  
 Ability: Compound Eyes  
-Level: 16  
+Level: 18  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Confusion  
 - Sleep Powder  
@@ -340,7 +340,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Beedrill  
 Ability: Swarm  
-Level: 16  
+Level: 18  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Pin Missile 
 - Fury Attack  
@@ -417,7 +417,7 @@ Difficulty: Hard
 
 Geodude  
 Ability: Rock Head  
-Level: 19  
+Level: 23
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
 - Rock Throw  
 - Bulldoze  
@@ -426,7 +426,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 Machop  
 Ability: Guts  
-Level: 19  
+Level: 23  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
 - Low Kick  
 - Rock Tomb  
@@ -435,7 +435,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 Aron  
 Ability: Rock Head  
-Level: 19  
+Level: 23  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
 - Headbutt  
 - Metal Claw  
@@ -459,7 +459,7 @@ Difficulty: Hard
 
 Mightyena  
 Ability: Intimidate  
-Level: 23  
+Level: 24  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Bite  
 - Crunch  
@@ -468,7 +468,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Golbat  
 Ability: Inner Focus  
-Level: 23  
+Level: 24  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Wing Attack  
 - Bite  
@@ -477,7 +477,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Sharpedo  
 Ability: Rough Skin  
-Level: 23  
+Level: 24  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Bite  
 - Aqua Jet  
@@ -600,7 +600,7 @@ Difficulty: Hard
 
 Croagunk  
 Ability: Anticipation  
-Level: 25  
+Level: 28  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Fake Out  
 - Low Kick  
@@ -609,7 +609,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Hawlucha  
 Ability: Limber  
-Level: 25  
+Level: 28  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Wing Attack  
 - Karate Chop  
@@ -618,7 +618,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Meditite  
 Ability: Pure Power  
-Level: 25  
+Level: 28  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Force Palm  
 - Confusion  
@@ -627,7 +627,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Zangoose  
 Ability: Immunity  
-Level: 25  
+Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Slash  
 - Quick Attack  
@@ -714,7 +714,7 @@ Difficulty: Hard
 
 Machoke  
 Ability: Guts  
-Level: 31  
+Level: 33 
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Low Kick  
 - Rock Tomb  
@@ -723,7 +723,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Magneton  
 Ability: Sturdy  
-Level: 31  
+Level: 33  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Spark  
 - Sonic Boom  
@@ -732,7 +732,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Pelipper  
 Ability: Keen Eye  
-Level: 31  
+Level: 33  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Wing Attack  
 - Water Pulse  
@@ -741,7 +741,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Poliwhirl  
 Ability: Water Absorb  
-Level: 31  
+Level: 33  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Water Pulse  
 - Brick Break  
@@ -766,7 +766,7 @@ Difficulty: Hard
 /* Double battle with GRUNT_MUSEUM_2 */
 
 Golbat
-Level: 33
+Level: 35
 Ability: Inner Focus
 IVs: 16 HP / 16 Atk / 16 Def / 16 SpA / 16 SpD / 16 Spe
 - Tailwind
@@ -775,7 +775,7 @@ IVs: 16 HP / 16 Atk / 16 Def / 16 SpA / 16 SpD / 16 Spe
 - Confuse Ray
 
 Haunter
-Level: 33
+Level: 35
 Ability: Levitate
 IVs: 16 HP / 16 Atk / 16 Def / 16 SpA / 16 SpD / 16 Spe
 - Hex
@@ -784,7 +784,7 @@ IVs: 16 HP / 16 Atk / 16 Def / 16 SpA / 16 SpD / 16 Spe
 - Venoshock
 
 Sharpedo
-Level: 33
+Level: 35
 Ability: Speed Boost
 IVs: 16 HP / 16 Atk / 16 Def / 16 SpA / 16 SpD / 16 Spe
 - Double Team
@@ -805,7 +805,7 @@ Difficulty: Hard
 /* Double battle with GRUNT_MUSEUM_1 */
 
 Tentacruel
-Level: 33
+Level: 35
 Ability: Liquid Ooze
 IVs: 16 HP / 16 Atk / 16 Def / 16 SpA / 16 SpD / 16 Spe
 - Toxic Spikes
@@ -814,7 +814,7 @@ IVs: 16 HP / 16 Atk / 16 Def / 16 SpA / 16 SpD / 16 Spe
 - Acid Armor
 
 Ariados
-Level: 33
+Level: 35
 Ability: Swarm
 IVs: 16 HP / 16 Atk / 16 Def / 16 SpA / 16 SpD / 16 Spe
 - Agility
@@ -823,7 +823,7 @@ IVs: 16 HP / 16 Atk / 16 Def / 16 SpA / 16 SpD / 16 Spe
 - Shadow Sneak
 
 Quagsire
-Level: 33
+Level: 35
 Ability: Water Absorb
 IVs: 16 HP / 16 Atk / 16 Def / 16 SpA / 16 SpD / 16 Spe
 - Muddy Water
@@ -848,7 +848,7 @@ Difficulty: Hard
 /* Location: Gauntlet 8 */
 
 Swellow @ Flame Orb  
-Level: 37  
+Level: 39  
 Ability: Guts  
 Nature: Jolly  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
@@ -858,7 +858,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Roost  
 
 Swampert @ Soft Sand  
-Level: 37  
+Level: 39  
 Ability: Torrent  
 Nature: Adamant  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
@@ -868,7 +868,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rock Tomb  
 
 Sceptile @ Miracle Seed  
-Level: 37  
+Level: 39  
 Ability: Overgrow  
 Nature: Jolly  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
@@ -878,7 +878,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Pursuit  
 
 Blaziken @ Charcoal  
-Level: 37  
+Level: 39  
 Ability: Blaze  
 Nature: Adamant  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
@@ -888,7 +888,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Bulk Up  
 
 Manectric @ Magnet  
-Level: 37  
+Level: 39  
 Ability: Static  
 Nature: Timid  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
@@ -909,7 +909,7 @@ Difficulty: Hard
 /* Location: Gauntlet 8 */
 
 Swellow @ Flame Orb  
-Level: 37  
+Level: 39  
 Ability: Guts  
 Nature: Jolly  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
@@ -919,7 +919,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Roost  
 
 Swampert @ Soft Sand  
-Level: 37  
+Level: 39  
 Ability: Torrent  
 Nature: Adamant  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
@@ -929,7 +929,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rock Tomb  
 
 Sceptile @ Miracle Seed  
-Level: 37  
+Level: 39  
 Ability: Overgrow  
 Nature: Jolly  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
@@ -939,7 +939,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Pursuit  
 
 Blaziken @ Charcoal  
-Level: 37 
+Level: 39 
 Ability: Blaze  
 Nature: Adamant  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
@@ -949,7 +949,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Bulk Up  
 
 Manectric @ Magnet  
-Level: 37
+Level: 39
 Ability: Static  
 Nature: Timid  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
@@ -976,7 +976,7 @@ Difficulty: Hard
 
 Exploud @ Throat Spray  
 Ability: Scrappy  
-Level: 38  
+Level: 39  
 Nature: Adamant  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
 - Boomburst  
@@ -986,7 +986,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 Ampharos @ Leftovers  
 Ability: Static  
-Level: 38  
+Level: 39  
 Nature: Modest  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
 - Thunderbolt  
@@ -996,7 +996,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 Toxtricity-Amped @ Choice Specs  
 Ability: Punk Rock  
-Level: 38  
+Level: 39  
 Nature: Modest  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
 - Overdrive  
@@ -1006,7 +1006,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 Noivern @ Heavy-Duty Boots  
 Ability: Infiltrator  
-Level: 38  
+Level: 39  
 Nature: Timid  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
 - Air Slash  

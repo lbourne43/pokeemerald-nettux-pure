@@ -60,7 +60,7 @@ NettuxPure_Base_SetupNextLevelWarp::
         goto_if_set FLAG_NETTUX_FINISH_MAGMA1, NettuxPure_Base_Maxie1
         goto_if_set FLAG_NETTUX_FINISH_AQUA1, NettuxPure_Base_Magma1
         goto_if_set FLAG_NETTUX_FINISH_GAUNTLET_11, NettuxPure_Base_Aqua1
-	goto_if_set FLAG_NETTUX_FINISH_WINSTRATES, NettuxPure_Base_Gauntlet11
+       	goto_if_set FLAG_NETTUX_FINISH_WINSTRATES, NettuxPure_Base_Gauntlet11
         goto_if_set FLAG_NETTUX_FINISH_GAUNTLET_10, NettuxPure_Base_Winstrates
         goto_if_set FLAG_BADGE03_GET, NettuxPure_Base_Gauntlet10
         goto_if_set FLAG_NETTUX_FINISH_WALLY_1, NettuxPure_Base_Wattson
@@ -79,8 +79,8 @@ NettuxPure_Base_SetupNextLevelWarp::
         goto_if_set FLAG_NETTUX_FINISH_GAUNTLET_2, NettuxPure_Base_Leaf1
         goto_if_set FLAG_NETTUX_FINISH_AQUA_FOREST, NettuxPure_Base_Gauntlet2
         goto_if_set FLAG_NETTUX_FINISH_GAUNTLET_1, NettuxPure_Base_AquaForest
-	goto NettuxPure_Base_Gauntlet1
-	end
+	      goto NettuxPure_Base_Gauntlet1
+       	end
 
 NettuxPure_Base_Exit::
         closemessage
