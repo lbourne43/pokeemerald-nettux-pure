@@ -31,6 +31,15 @@ NettuxPure_Gauntlet7_EventScript_Huey::
 
 NettuxPure_Gauntlet7_Complete::
 	addmoney 5000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_SOFT_SAND
+        giveitem ITEM_SHED_SHELL
+        giveitem ITEM_SHELL_BELL
+        giveitem ITEM_DAMP_ROCK
+        giveitem ITEM_PP_MAX
+        giveitem ITEM_LEFTOVERS
+        giveitem ITEM_EVIOLITE
   call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_7

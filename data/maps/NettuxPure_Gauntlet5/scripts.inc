@@ -28,8 +28,18 @@ NettuxPure_EventScript_Rival2_F::
 
 NettuxPure_Gauntlet5_EventScript_Complete::
         addmoney 5000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_MYSTIC_WATER
+        giveitem ITEM_KINGS_ROCK
+        giveitem ITEM_DAWN_STONE
+        giveitem ITEM_CELL_BATTERY
+        giveitem ITEM_PP_MAX
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_MOON_STONE
+        giveitem ITEM_ASPEAR_BERRY
+        giveitem ITEM_CHOPLE_BERRY
         call Nettux_RandomWildMon
-	closemessage
+       	closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_5
         end
 

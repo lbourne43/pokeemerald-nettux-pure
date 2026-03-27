@@ -3,6 +3,11 @@ NettuxPure_Gauntlet12_MapScripts::
 
 NettuxPure_Gauntlet12_Complete::
         addmoney 10000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_CHARCOAL
+        giveitem ITEM_FOCUS_SASH
+        giveitem ITEM_FLAME_ORB
+        giveitem ITEM_EJECT_PACK
         call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_12

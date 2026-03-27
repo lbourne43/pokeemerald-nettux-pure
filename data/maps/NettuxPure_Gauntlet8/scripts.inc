@@ -37,6 +37,17 @@ NettuxPure_Gauntlet8_BikeCheck::
 
 NettuxPure_Gauntlet8_Complete::
         addmoney 5000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_LEAF_STONE
+        giveitem ITEM_FIRE_STONE
+        giveitem ITEM_LAGGING_TAIL
+        giveitem ITEM_ROSELI_BERRY
+        giveitem ITEM_PETAYA_BERRY
+        giveitem ITEM_MICLE_BERRY
+        giveitem ITEM_PASSHO_BERRY
+        giveitem ITEM_MICLE_BERRY
+        giveitem ITEM_PAYAPA_BERRY
+        giveitem ITEM_SALAC_BERRY
         call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_8

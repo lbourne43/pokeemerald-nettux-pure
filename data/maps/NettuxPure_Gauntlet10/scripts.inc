@@ -8,6 +8,13 @@ NettuxPure_Gauntlet10_EventScript_Bryan::
 
 NettuxPure_Gauntlet10_Complete::
         addmoney 10000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_SAFETY_GOGGLES
+        giveitem ITEM_AIR_BALLOON
+        giveitem ITEM_SUN_STONE
+        giveitem ITEM_UTILITY_UMBRELLA
+        giveitem ITEM_HARD_STONE
+        giveitem ITEM_SMOOTH_ROCK
         call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_10

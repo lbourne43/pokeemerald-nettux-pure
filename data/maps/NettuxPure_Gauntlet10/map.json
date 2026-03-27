@@ -15,45 +15,6 @@
   "connections": null,
   "object_events": [
     {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 32,
-      "y": 84,
-      "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
-      "movement_range_x": 0,
-      "movement_range_y": 0,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_HARD_STONE",
-      "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_ROUTE_111_TM_SANDSTORM"
-    },
-    {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 27,
-      "y": 59,
-      "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
-      "movement_range_x": 0,
-      "movement_range_y": 0,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_SMOOTH_ROCK",
-      "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_ROUTE_111_STARDUST"
-    },
-    {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 34,
-      "y": 51,
-      "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
-      "movement_range_x": 0,
-      "movement_range_y": 0,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_UTILITY_UMBRELLA",
-      "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_ROUTE_111_HP_UP"
-    },
-    {
       "graphics_id": "OBJ_EVENT_GFX_MAN_4",
       "x": 16,
       "y": 110,
@@ -78,19 +39,6 @@
       "trainer_sight_or_berry_tree_id": "7",
       "script": "NettuxPure_Gauntlet10_EventScript_Bryan",
       "flag": "0"
-    },
-    {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 4,
-      "y": 65,
-      "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
-      "movement_range_x": 1,
-      "movement_range_y": 1,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_SAFETY_GOGGLES",
-      "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_ROUTE_111_ELIXIR"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_HIKER",
@@ -259,30 +207,5 @@
       "script": "Route111_EventScript_SandstormTrigger"
     }
   ],
-  "bg_events": [
-    {
-      "type": "hidden_item",
-      "x": 35,
-      "y": 66,
-      "elevation": 0,
-      "item": "ITEM_SUN_STONE",
-      "flag": "FLAG_HIDDEN_ITEM_ROUTE_111_STARDUST"
-    },
-    {
-      "type": "hidden_item",
-      "x": 21,
-      "y": 69,
-      "elevation": 0,
-      "item": "ITEM_AIR_BALLOON",
-      "flag": "FLAG_HIDDEN_ITEM_ROUTE_111_RARE_CANDY"
-    },
-    {
-      "type": "hidden_item",
-      "x": 8,
-      "y": 89,
-      "elevation": 3,
-      "item": "ITEM_HEART_SCALE",
-      "flag": "FLAG_HIDDEN_ITEM_ROUTE_115_HEART_SCALE"
-    }
-  ]
+  "bg_events": []
 }

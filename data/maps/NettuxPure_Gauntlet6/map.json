@@ -52,45 +52,6 @@
       "trainer_sight_or_berry_tree_id": "2",
       "script": "NettuxPure_Gauntlet6_EventScript_Lilith",
       "flag": "0"
-    },
-    {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 3,
-      "y": 13,
-      "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
-      "movement_range_x": 0,
-      "movement_range_y": 0,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_HEART_SCALE",
-      "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_GRANITE_CAVE_B1F_POKE_BALL"
-    },
-    {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 28,
-      "y": 8,
-      "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
-      "movement_range_x": 0,
-      "movement_range_y": 0,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_EXPERT_BELT",
-      "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_GRANITE_CAVE_B2F_REPEL"
-    },
-    {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 55,
-      "y": 8,
-      "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
-      "movement_range_x": 0,
-      "movement_range_y": 0,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_BLACK_BELT",
-      "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_GRANITE_CAVE_B2F_RARE_CANDY"
     }
   ],
   "warp_events": [
@@ -110,22 +71,5 @@
     }
   ],
   "coord_events": [],
-  "bg_events": [
-    {
-      "type": "hidden_item",
-      "x": 54,
-      "y": 11,
-      "elevation": 3,
-      "item": "ITEM_MUSCLE_BAND",
-      "flag": "FLAG_HIDDEN_ITEM_GRANITE_CAVE_B2F_EVERSTONE_2"
-    },
-    {
-      "type": "hidden_item",
-      "x": 32,
-      "y": 11,
-      "elevation": 3,
-      "item": "ITEM_LIGHT_CLAY",
-      "flag": "FLAG_HIDDEN_ITEM_GRANITE_CAVE_B2F_EVERSTONE_1"
-    }
-  ]
+  "bg_events": []
 }

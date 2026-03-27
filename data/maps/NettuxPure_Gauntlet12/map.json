@@ -15,19 +15,6 @@
   "connections": null,
   "object_events": [
     {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 23,
-      "y": 27,
-      "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
-      "movement_range_x": 0,
-      "movement_range_y": 0,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_FLAME_ORB",
-      "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_JAGGED_PASS_BURN_HEAL"
-    },
-    {
       "graphics_id": "OBJ_EVENT_GFX_EXPERT_F",
       "x": 15,
       "y": 22,
@@ -52,32 +39,6 @@
       "trainer_sight_or_berry_tree_id": "0",
       "script": "MtChimney_EventScript_LavaCookieLady",
       "flag": "FLAG_HIDE_MT_CHIMNEY_LAVA_COOKIE_LADY"
-    },
-    {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 22,
-      "y": 15,
-      "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
-      "movement_range_x": 1,
-      "movement_range_y": 1,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_CHARCOAL",
-      "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_ROUTE_115_HEAL_POWDER"
-    },
-    {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 8,
-      "y": 21,
-      "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
-      "movement_range_x": 0,
-      "movement_range_y": 0,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_FOCUS_SASH",
-      "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_ROUTE_115_IRON"
     }
   ],
   "warp_events": [
@@ -126,22 +87,5 @@
       "weather": "COORD_EVENT_WEATHER_VOLCANIC_ASH"
     }
   ],
-  "bg_events": [
-    {
-      "type": "hidden_item",
-      "x": 9,
-      "y": 18,
-      "elevation": 3,
-      "item": "ITEM_EJECT_PACK",
-      "flag": "FLAG_HIDDEN_ITEM_JAGGED_PASS_FULL_HEAL"
-    },
-    {
-      "type": "hidden_item",
-      "x": 7,
-      "y": 32,
-      "elevation": 3,
-      "item": "ITEM_HEART_SCALE",
-      "flag": "FLAG_HIDDEN_ITEM_JAGGED_PASS_GREAT_BALL"
-    }
-  ]
+  "bg_events": []
 }

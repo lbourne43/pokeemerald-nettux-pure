@@ -3,6 +3,9 @@ NettuxPure_Gauntlet13_MapScripts::
 
 NettuxPure_Gauntlet13_Complete::
         addmoney 13000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_ASSAULT_VEST
         call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_13

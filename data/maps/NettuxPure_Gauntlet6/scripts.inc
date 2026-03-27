@@ -3,8 +3,13 @@ NettuxPure_Gauntlet6_MapScripts::
 
 NettuxPure_Gauntlet6_EventScript_Complete::
         addmoney 5000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_MUSCLE_BAND
+        giveitem ITEM_LIGHT_CLAY
+        giveitem ITEM_BLACK_BELT
+        giveitem ITEM_EXPERT_BELT
         call Nettux_RandomWildMon
-	closemessage
+       	closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_6
         end
 

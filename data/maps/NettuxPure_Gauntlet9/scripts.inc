@@ -13,6 +13,13 @@ NettuxPure_Gauntlet9_EventScript_Kirk::
 NettuxPure_Gauntlet9_Complete::
 call Nettux_RandomWildMon
         addmoney 7500
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_LIGHT_BALL
+        giveitem ITEM_THUNDER_STONE
+        giveitem ITEM_LOADED_DICE
+        giveitem ITEM_COVERT_CLOAK
+        giveitem ITEM_MAGNET
         setflag FLAG_NETTUX_FINISH_GAUNTLET_9
         call Nettux_RandomWildMon
         closemessage
