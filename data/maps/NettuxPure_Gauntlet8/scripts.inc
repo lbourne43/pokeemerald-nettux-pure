@@ -1,4 +1,4 @@
-.set LOCALID_RIVAL, 15
+.set LOCALID_RIVAL, 12
 
 NettuxPure_Gauntlet8_MapScripts::
         map_script MAP_SCRIPT_ON_TRANSITION, NettuxPure_Gauntlet2_OnTransition
@@ -51,6 +51,9 @@ NettuxPure_Gauntlet8_Complete::
         call Nettux_RandomWildMon
         closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_8
+        applymovement LOCALID_RIVAL, NettuxPure_Gauntlet8_Movement_RivalLeaves
+       	waitmovement LOCALID_RIVAL
+	      removeobject LOCALID_RIVAL
         end
 
 NettuxPure_Gauntlet8_EventScript_Encounters::
@@ -74,3 +77,16 @@ NettuxPure_Gauntlet8_Text_Encounters:
 NettuxPure_Gauntlet8_Text_GoFaster:
         .string "Go faster with this!$"
 
+
+NettuxPure_Gauntlet8_Movement_RivalLeaves:
+        walk_up
+        walk_up
+        walk_up
+        walk_up
+        walk_up
+        walk_up
+        walk_up
+        walk_up
+        walk_up
+        walk_up
+        step_end

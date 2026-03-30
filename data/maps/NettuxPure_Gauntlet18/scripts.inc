@@ -7,8 +7,14 @@ NettuxPure_Gauntlet18_William::
         end
 
 NettuxPure_Gauntlet18_Complete::
+        setflag FLAG_NETTUX_FINISH_GAUNTLET_18
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_SPELL_TAG
+        giveitem ITEM_IRON_BALL
+        giveitem ITEM_BLACK_SLUDGE
+        giveitem ITEM_CHESTO_BERRY
+        giveitem ITEM_RAWST_BERRY
         addmoney 18000
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_GAUNTLET_18
         end

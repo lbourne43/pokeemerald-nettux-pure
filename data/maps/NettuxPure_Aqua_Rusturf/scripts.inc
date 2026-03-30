@@ -7,8 +7,8 @@ NettuxPure_AquaTunnel_Grunt::
         end
 
 NettuxPure_AquaTunnel_Post::
+        setflag FLAG_NETTUX_FINISH_AQUA_TUNNEL
         addmoney 4000
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_AQUA_TUNNEL
         end

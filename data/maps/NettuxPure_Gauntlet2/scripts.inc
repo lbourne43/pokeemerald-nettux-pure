@@ -1,4 +1,4 @@
-.set LOCALID_RIVAL, 15
+.set LOCALID_RIVAL, 8
 
 NettuxPure_Gauntlet2_MapScripts::
         map_script MAP_SCRIPT_ON_TRANSITION, NettuxPure_Gauntlet2_OnTransition
@@ -56,6 +56,9 @@ NettuxPure_Gauntlet2_EventScript_Complete::
         giveitem ITEM_CHESTO_BERRY
        	closemessage
         call Nettux_RandomWildMon
+        applymovement LOCALID_RIVAL, NettuxPure_Gauntlet2_Movement_RivalLeaves
+       	waitmovement LOCALID_RIVAL
+	      removeobject LOCALID_RIVAL
         end
 
 NettuxPure_Gauntlet2_EventScript_Encounters::
@@ -75,3 +78,15 @@ NettuxPure_Gauntlet2_Text_Encounters:
         .string "Taillow\l"
         .string "Spinarak\l"
         .string "Weedle$"
+
+NettuxPure_Gauntlet2_Movement_RivalLeaves:
+        walk_right
+        walk_right
+        walk_right
+        walk_right
+        walk_right
+        walk_right
+        walk_right
+        walk_right
+        walk_right
+	step_end

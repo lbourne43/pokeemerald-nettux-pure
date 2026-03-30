@@ -27,7 +27,7 @@ NettuxPure_Norman_EventScript_GiveTM::
         applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_Norman_Movement_LeaveBattle
         waitmovement 0
         releaseall
-        warp MAP_NETTUX_PURE_NORMAN_ENCOUNTERS, 0
+        warp MAP_NETTUX_PURE_BASE, 1
         end
 
 NettuxPure_Norman::

@@ -11,7 +11,6 @@ NettuxPure_Gauntlet9_EventScript_Kirk::
         msgbox MauvilleCity_Gym_Text_KirkPostBattle, MSGBOX_AUTOCLOSE
 
 NettuxPure_Gauntlet9_Complete::
-call Nettux_RandomWildMon
         addmoney 7500
         giveitem ITEM_HEART_SCALE
         giveitem ITEM_HEART_SCALE

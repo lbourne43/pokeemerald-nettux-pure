@@ -7,8 +7,11 @@ NettuxPure_Aqua3_Grunt3::
         end
 
 NettuxPure_Aqua3_Complete::
+        setflag FLAG_NETTUX_FINISH_AQUA_MTPYRE
         addmoney 18000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_PP_MAX
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_AQUA_MTPYRE
         end

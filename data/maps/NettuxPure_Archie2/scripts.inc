@@ -59,10 +59,10 @@ NettuxPure_Archie2_TeamAquaExitsPart2::
         msgbox MtPyre_Summit_Text_BothOrbsTakenMagmaLeftThis, MSGBOX_DEFAULT
         giveitem ITEM_MAGMA_EMBLEM
         setflag FLAG_RECEIVED_RED_OR_BLUE_ORB
+	      setflag FLAG_NETTUX_FINISH_ARCHIE2
         addmoney 20000
         call Nettux_RandomWildMon
         closemessage
-	setflag FLAG_NETTUX_FINISH_ARCHIE2
         releaseall
         end
 

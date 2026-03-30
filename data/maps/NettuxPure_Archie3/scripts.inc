@@ -118,9 +118,9 @@ NettuxPure_Archie3_ArchieAwakenKyogre::
         setflag FLAG_HIDE_SEAFLOOR_CAVERN_AQUA_GRUNTS
         setflag FLAG_HIDE_MAP_NAME_POPUP
         addmoney 20000
+        setflag FLAG_NETTUX_FINISH_ARCHIE3
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_ARCHIE3
         waitstate
         releaseall
         end

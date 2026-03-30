@@ -14,8 +14,8 @@ NettuxPure_Leaf1_Post::
         giveitem ITEM_SILVER_POWDER
         giveitem ITEM_PERSIM_BERRY
         giveitem ITEM_CHARTI_BERRY
-       	closemessage
         call Nettux_RandomWildMon
+       	closemessage
         end
 
 NettuxPure_Leaf1_Text_LeafIntro:

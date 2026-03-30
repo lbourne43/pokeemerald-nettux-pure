@@ -7,10 +7,10 @@ NettuxPure_Leaf2_Leaf::
         end
 
 NettuxPure_Leaf2_Post::
+        setflag FLAG_NETTUX_FINISH_LEAF_2
         addmoney 14000
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_LEAF_2
         end
 
 NettuxPure_Leaf2_Text_LeafIntro:

@@ -26,7 +26,7 @@ NettuxPure_Winona_EventScript_GiveTM::
         applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_Winona_Movement_LeaveBattle
         waitmovement 0
         releaseall
-        warp MAP_NETTUX_PURE_WINONA_ENCOUNTER, 0
+        warp MAP_NETTUX_PURE_BASE, 1
         end
 
 NettuxPure_Winona::

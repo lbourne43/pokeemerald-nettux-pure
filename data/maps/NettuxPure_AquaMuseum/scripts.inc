@@ -12,8 +12,8 @@ NettuxPure_AquaMuseum_AquaGrunt2::
         end
 
 NettuxPure_AquaMuseum_Complete::
+        setflag FLAG_NETTUX_FINISH_AQUA_MUSEUM
         addmoney 5000
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_AQUA_MUSEUM
         end

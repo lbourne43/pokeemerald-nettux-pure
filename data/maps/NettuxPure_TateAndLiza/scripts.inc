@@ -31,7 +31,7 @@ NettuxPure_TateAndLiza_EventScript_GiveTM::
         applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_TateAndLiza_Movement_LeaveBattle
         waitmovement 0
         releaseall
-        warp MAP_NETTUX_PURE_TATE_AND_LIZA_ENCOUNTER, 0
+        warp MAP_NETTUX_PURE_BASE, 1
         end
 
 NettuxPure_TateAndLiza::

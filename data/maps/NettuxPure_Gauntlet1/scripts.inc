@@ -38,7 +38,7 @@ NettuxPure_Gauntlet1_EventScript_Complete::
         giveitem ITEM_ORAN_BERRY
         giveitem ITEM_PECHA_BERRY
        	closemessage
-        call Nettux_RandomWildMon
+        goto Nettux_RandomWildMon
         end
 
 NettuxPure_Gauntlet1_EventScript_Encounters::

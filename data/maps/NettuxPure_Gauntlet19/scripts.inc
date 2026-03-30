@@ -7,8 +7,8 @@ NettuxPure_Gauntlet19_Auron::
         end
 
 NettuxPure_Gauntlet19_Complete::
+        setflag FLAG_NETTUX_FINISH_GAUNTLET_19
         addmoney 19000
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_GAUNTLET_19
         end

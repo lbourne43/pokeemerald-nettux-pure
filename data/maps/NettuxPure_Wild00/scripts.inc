@@ -5,7 +5,7 @@ NettuxPure_Wild00_MapScripts::
 
 NettuxPure_Wild00_EventScript_Red::
 	setvar VAR_TEMP_0, 1
-        goto_if_unset FLAG_NETTUX_DEFEATED_RED_1, NettuxPure_Wild00_EventScript_RedBattle
+  goto_if_unset FLAG_NETTUX_DEFEATED_RED_1, NettuxPure_Wild00_EventScript_RedBattle
 	end
 
 NettuxPure_Wild00_EventScript_RedBattle::

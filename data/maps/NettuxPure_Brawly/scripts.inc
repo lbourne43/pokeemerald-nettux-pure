@@ -26,7 +26,7 @@ NettuxPure_Brawly_EventScript_GiveTM::
 	applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_Brawly_Movement_LeaveBattle
         waitmovement 0
         releaseall
-	warp MAP_NETTUX_PURE_BRAWLY_ENCOUNTER, 0
+	warp MAP_NETTUX_PURE_BASE, 1
         end
 
 NettuxPure_Brawly::
@@ -37,7 +37,7 @@ NettuxPure_Brawly::
         releaseall
         msgbox DewfordTown_Gym_Text_BrawlyIntro, MSGBOX_DEFAULT
         trainerbattle_no_intro TRAINER_BRAWLY_1, DewfordTown_Gym_Text_BrawlyDefeat
-	goto NettuxPure_BrawlyDefeated
+       	goto NettuxPure_BrawlyDefeated
         end
 
 NettuxPure_Brawly_Movement_ToBattle:

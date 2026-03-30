@@ -31,7 +31,7 @@ NettuxPure_Flannery_EventScript_GiveTM::
         applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_Flannery_Movement_LeaveBattle
         waitmovement 0
         releaseall
-        warp MAP_NETTUX_PURE_FLANNERY_ENCOUNTERS, 0
+        warp MAP_NETTUX_PURE_BASE, 1
         end
 
 NettuxPure_Flannery::

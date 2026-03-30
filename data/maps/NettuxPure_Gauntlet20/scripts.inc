@@ -7,8 +7,8 @@ NettuxPure_Gauntlet20_Olivia::
         end
 
 NettuxPure_Gauntlet20_Complete::
+        setflag FLAG_NETTUX_FINISH_GAUNTLET_20
         addmoney 20000
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_GAUNTLET_20
         end

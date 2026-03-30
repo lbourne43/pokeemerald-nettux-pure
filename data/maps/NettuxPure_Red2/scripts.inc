@@ -7,11 +7,11 @@ NettuxPure_Red2_Red2::
 	end
 
 NettuxPure_Red2_Complete::
-        giveitem ITEM_TERA_ORB
-        call Nettux_RandomWildMon
         addmoney 12000
+        giveitem ITEM_TERA_ORB
         setflag FLAG_NETTUX_FINISH_RED_2
         setflag B_FLAG_TERA_ORB_CHARGED
+        call Nettux_RandomWildMon
         closemessage
         end
 

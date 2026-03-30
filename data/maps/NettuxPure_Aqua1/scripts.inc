@@ -1,8 +1,8 @@
-.set LOCALID_MAGMA_GRUNT_1, 5
-.set LOCALID_MAGMA_GRUNT_2, 6
-.set LOCALID_ARCHIE, 7
-.set LOCALID_AQUA_GRUNT_1, 8
-.set LOCALID_AQUA_GRUNT_2, 9
+.set LOCALID_MAGMA_GRUNT_1, 1
+.set LOCALID_MAGMA_GRUNT_2, 2
+.set LOCALID_ARCHIE, 3
+.set LOCALID_AQUA_GRUNT_1, 4
+.set LOCALID_AQUA_GRUNT_2, 5
 
 NettuxPure_Aqua1_MapScripts::
 	map_script MAP_SCRIPT_ON_LOAD, NettuxPure_Aqua1_OnLoad
@@ -108,6 +108,7 @@ NettuxPure_Aqua1_EventScript_MagmaStealsMeteoriteScenePart2::
 	end
 	
 NettuxPure_Aqua1_Complete::
+        setflag FLAG_NETTUX_FINISH_AQUA1
         addmoney 10000
         giveitem ITEM_HEART_SCALE
         giveitem ITEM_HEART_SCALE
@@ -115,7 +116,6 @@ NettuxPure_Aqua1_Complete::
         giveitem ITEM_MOON_STONE
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_AQUA1
         end
 
 NettuxPure_Aqua1_Movement_MagmaGruntApproachPlayer:

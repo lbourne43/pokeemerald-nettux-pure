@@ -1,5 +1,5 @@
 
-.set LOCALID_RIVAL, 6
+.set LOCALID_RIVAL, 2
 
 NettuxPure_Gauntlet5_MapScripts::
         map_script MAP_SCRIPT_ON_TRANSITION, NettuxPure_Gauntlet5_OnTransition
@@ -41,6 +41,9 @@ NettuxPure_Gauntlet5_EventScript_Complete::
         call Nettux_RandomWildMon
        	closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_5
+        applymovement LOCALID_RIVAL, NettuxPure_Gauntlet5_Movement_RivalLeaves
+       	waitmovement LOCALID_RIVAL
+	      removeobject LOCALID_RIVAL
         end
 
 NettuxPure_Gauntlet5_EventScript_Encounters::
@@ -63,3 +66,15 @@ NettuxPure_Gauntlet5_Text_Encounters:
 
 RustboroCity_Text_OhComeOnBattleMe:
         .string "Oh come on! Lets go!$"
+
+NettuxPure_Gauntlet5_Movement_RivalLeaves:
+        walk_left
+        walk_left
+        walk_left
+        walk_left
+        walk_left
+        walk_left
+        walk_left
+        walk_left
+        walk_left
+        step_end

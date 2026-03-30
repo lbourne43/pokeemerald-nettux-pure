@@ -9,9 +9,9 @@ NettuxPure_Gauntlet11_Complete::
         giveitem ITEM_RINDO_BERRY
         giveitem ITEM_YACHE_BERRY
         giveitem ITEM_CHILAN_BERRY
+        setflag FLAG_NETTUX_FINISH_GAUNTLET_11
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_GAUNTLET_11
         end
 
 NettuxPure_Gauntlet11_EventScript_Bernie::

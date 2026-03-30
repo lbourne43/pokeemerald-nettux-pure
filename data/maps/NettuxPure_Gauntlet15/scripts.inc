@@ -2,10 +2,19 @@ NettuxPure_Gauntlet15_MapScripts::
 	.byte 0
 
 NettuxPure_Gauntlet15_Complete::
+        setflag FLAG_NETTUX_FINISH_GAUNTLET_15
         addmoney 15000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_WIDE_LENS
+        giveitem ITEM_ROOM_SERVICE
+        giveitem ITEM_PAYAPA_BERRY
+        giveitem ITEM_SITRUS_BERRY
+        giveitem ITEM_CUSTAP_BERRY
+        giveitem ITEM_MARANGA_BERRY
+        giveitem ITEM_MICLE_BERRY
+        giveitem ITEM_PASSHO_BERRY
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_GAUNTLET_15
         end
 
 NettuxPure_Gauntlet15_Darius::

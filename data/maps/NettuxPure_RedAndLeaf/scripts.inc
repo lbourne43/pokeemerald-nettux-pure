@@ -12,9 +12,9 @@ NettuxPure_RedAndLeaf_Leaf::
         end
 
 NettuxPure_Red3_Complete::
-call Nettux_RandomWildMon
         addmoney 20000
         setflag FLAG_NETTUX_FINISH_RED_AND_LEAF
+        call Nettux_RandomWildMon
         closemessage
         end
 

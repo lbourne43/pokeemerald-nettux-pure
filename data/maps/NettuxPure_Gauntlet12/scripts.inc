@@ -2,6 +2,7 @@ NettuxPure_Gauntlet12_MapScripts::
 	.byte 0
 
 NettuxPure_Gauntlet12_Complete::
+        setflag FLAG_NETTUX_FINISH_GAUNTLET_12
         addmoney 10000
         giveitem ITEM_HEART_SCALE
         giveitem ITEM_CHARCOAL
@@ -10,7 +11,6 @@ NettuxPure_Gauntlet12_Complete::
         giveitem ITEM_EJECT_PACK
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_GAUNTLET_12
         end
 
 NettuxPure_Gauntlet12_EventScript_Shelby::

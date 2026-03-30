@@ -7,8 +7,8 @@ NettuxPure_Aqua2_Grunt5::
         end
 
 NettuxPure_Aqua2_Complete::
+        setflag FLAG_NETTUX_FINISH_AQUA2
         addmoney 14000
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_AQUA2
         end

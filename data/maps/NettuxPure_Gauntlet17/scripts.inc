@@ -7,8 +7,15 @@ NettuxPure_Gauntlet17_Walter::
         end
 
 NettuxPure_Gauntlet17_Complete::
+        setflag FLAG_NETTUX_FINISH_GAUNTLET_17
         addmoney 17000
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_HEART_SCALE
+        giveitem ITEM_PP_MAX
+        giveitem ITEM_DRAGON_FANG
+        giveitem ITEM_METAL_COAT
+        giveitem ITEM_PERSIM_BERRY
+        giveitem ITEM_ASPEAR_BERRY
         call Nettux_RandomWildMon
         closemessage
-        setflag FLAG_NETTUX_FINISH_GAUNTLET_17
         end
