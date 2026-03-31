@@ -635,3 +635,17 @@ const u16 gObjectEventPic_PidgeyOld[] = INCBIN_U16("graphics/object_events/pics/
 const u16 gObjectEventPic_ClefairyOld[] = INCBIN_U16("graphics/object_events/pics/pokemon_old/clefairy.4bpp");
 
 #endif // IS_FRLG
+       //
+const u16 gObjectEventPic_ProfOak[] = INCBIN_U16("graphics/object_events/pics/people/prof_oak.4bpp");
+
+
+const u16 gObjectEventPal_PlayerFrlg[] = INCBIN_U16("graphics/object_events/palettes/player_frlg.gbapal");
+const u16 gObjectEventPal_PlayerReflectionFrlg[] = INCBIN_U16("graphics/object_events/palettes/player_reflection_frlg.gbapal");
+const u16 gObjectEventPal_NpcBlue[] = INCBIN_U16("graphics/object_events/palettes/npc_blue.gbapal");
+const u16 gObjectEventPal_NpcPink[] = INCBIN_U16("graphics/object_events/palettes/npc_pink.gbapal");
+const u16 gObjectEventPal_NpcGreen[] = INCBIN_U16("graphics/object_events/palettes/npc_green.gbapal");
+const u16 gObjectEventPal_NpcWhite[] = INCBIN_U16("graphics/object_events/palettes/npc_white.gbapal");
+const u16 gObjectEventPal_NpcBlueReflection[] = INCBIN_U16("graphics/object_events/palettes/npc_blue_reflection.gbapal");
+const u16 gObjectEventPal_NpcPinkReflection[] = INCBIN_U16("graphics/object_events/palettes/npc_pink_reflection.gbapal");
+const u16 gObjectEventPal_NpcGreenReflection[] = INCBIN_U16("graphics/object_events/palettes/npc_green_reflection.gbapal");
+const u16 gObjectEventPal_NpcWhiteReflection[] = INCBIN_U16("graphics/object_events/palettes/npc_white_reflection.gbapal");

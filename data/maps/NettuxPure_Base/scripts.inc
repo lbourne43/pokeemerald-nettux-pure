@@ -995,7 +995,7 @@ NettuxPure_ResetAllBerries::
 	return
 
 NettuxPure_Base_Movement_GoToStairs:
-	walk_up
+       	walk_up
         step_end
 
 NettuxPure_Base_Movement_GoDown:

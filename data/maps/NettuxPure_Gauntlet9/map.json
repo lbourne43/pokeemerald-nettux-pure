@@ -30,8 +30,8 @@
   ],
   "warp_events": [
     {
-      "x": 32,
-      "y": 33,
+      "x": 24,
+      "y": 14,
       "elevation": 3,
       "dest_map": "MAP_NETTUX_PURE_GAUNTLET9",
       "dest_warp_id": "0"

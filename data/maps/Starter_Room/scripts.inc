@@ -31,19 +31,23 @@ Starter_Room_MapScripts::
         .byte 0
 
 NettuxPure_StarterRoom_OnTransition:
+        goto_if_unset FLAG_NETTUX_CHOSE_STARTER, NettuxPure_StarterRoom_SetHealLocation
+        end
+
+NettuxPure_StarterRoom_SetHealLocation::
         setrespawn HEAL_LOCATION_STARTER_ROOM
-	end
+        end
 
 NettuxPure_StarterRoom_EventScript_ChosenStarterCheck::
         goto_if_unset FLAG_NETTUX_CHOSE_STARTER NettuxPure_StarterRoom_EventScript_ChooseStarterPrompt
-	end
+        end
 
 NettuxPure_StarterRoom_EventScript_ChooseStarterPrompt::
-	msgbox NettuxPure_StarterRoom_Text_ChooseStarter, MSGBOX_DEFAULT
+        msgbox NettuxPure_StarterRoom_Text_ChooseStarter, MSGBOX_DEFAULT
         closemessage
         applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_StarterRoom_Movement_ToStarterTable
-	waitmovement 0
-	end
+        waitmovement 0
+        end
 
 NettuxPure_StarterRoom_Text_ChooseStarter:
         .string "You haven't chosen a starter!$"
@@ -64,13 +68,13 @@ NettuxPure_StarterRoom_EventScript_AlreadyChoseStarter::
 
 NettuxPure_StarterRoom_EventScript_TakeYourTime::
         hidemonpic
-	closemessage
-	release
+        closemessage
+        release
         end
 
 NettuxPure_StarterRoom_EventScript_TorchicBall::
         goto NettuxPure_StarterRoom_EventScript_Torchic
-	end
+        end
 
 NettuxPure_StarterRoom_EventScript_Torchic::
         release
@@ -79,7 +83,7 @@ NettuxPure_StarterRoom_EventScript_Torchic::
         msgbox NettuxPure_StarterRoom_Text_YoullTakeThisOne, MSGBOX_YESNO
         goto_if_eq VAR_RESULT, NO, NettuxPure_StarterRoom_EventScript_TakeYourTime
         goto NettuxPure_StarterRoom_EventScript_GiveTorchic
-	end
+        end
 
 NettuxPure_StarterRoom_EventScript_GiveTorchic::
         bufferspeciesname STR_VAR_1, SPECIES_TORCHIC
@@ -95,18 +99,18 @@ NettuxPure_StarterRoom_EventScript_SendTorchicToParty::
         goto_if_eq VAR_RESULT, NO, NettuxPure_StarterRoom_EventScript_ReceivedTorchic
         call Common_EventScript_GetGiftMonPartySlot
         call Common_EventScript_NameReceivedPartyMon
-	goto NettuxPure_StarterRoom_EventScript_ReceivedTorchic
+        goto NettuxPure_StarterRoom_EventScript_ReceivedTorchic
         end
 
 NettuxPure_StarterRoom_EventScript_ReceivedTorchic::
-	hidemonpic
-	releaseall
-	goto NettuxPure_StarterRoom_InitialiseGame
-	end
+        hidemonpic
+        releaseall
+        goto NettuxPure_StarterRoom_InitialiseGame
+        end
 
 NettuxPure_StarterRoom_EventScript_MudkipBall::
         goto NettuxPure_StarterRoom_EventScript_Mudkip
-	end
+        end
 
 NettuxPure_StarterRoom_EventScript_Mudkip::
         release
@@ -115,7 +119,7 @@ NettuxPure_StarterRoom_EventScript_Mudkip::
         msgbox NettuxPure_StarterRoom_Text_YoullTakeThisOne, MSGBOX_YESNO
         goto_if_eq VAR_RESULT, NO, NettuxPure_StarterRoom_EventScript_TakeYourTime
         goto NettuxPure_StarterRoom_EventScript_GiveMudkip
-	end
+        end
 
 NettuxPure_StarterRoom_EventScript_GiveMudkip::
         bufferspeciesname STR_VAR_1, SPECIES_MUDKIP
@@ -131,14 +135,14 @@ NettuxPure_StarterRoom_EventScript_SendMudkipToParty::
         goto_if_eq VAR_RESULT, NO, NettuxPure_StarterRoom_EventScript_ReceivedMudkip
         call Common_EventScript_GetGiftMonPartySlot
         call Common_EventScript_NameReceivedPartyMon
-	goto NettuxPure_StarterRoom_EventScript_ReceivedMudkip
+        goto NettuxPure_StarterRoom_EventScript_ReceivedMudkip
         end
 
 NettuxPure_StarterRoom_EventScript_ReceivedMudkip::
-	hidemonpic
-	releaseall
-	goto NettuxPure_StarterRoom_InitialiseGame
-	end
+        hidemonpic
+        releaseall
+        goto NettuxPure_StarterRoom_InitialiseGame
+        end
 
 NettuxPure_StarterRoom_EventScript_TreeckoBall::
         goto NettuxPure_StarterRoom_EventScript_Treecko
@@ -150,7 +154,7 @@ NettuxPure_StarterRoom_EventScript_Treecko::
         msgbox NettuxPure_StarterRoom_Text_YoullTakeThisOne, MSGBOX_YESNO
         goto_if_eq VAR_RESULT, NO, NettuxPure_StarterRoom_EventScript_TakeYourTime
         goto NettuxPure_StarterRoom_EventScript_GiveTreecko
-	end
+        end
 
 NettuxPure_StarterRoom_EventScript_GiveTreecko::
         bufferspeciesname STR_VAR_1, SPECIES_TREECKO
@@ -166,14 +170,14 @@ NettuxPure_StarterRoom_EventScript_SendTreeckoToParty::
         goto_if_eq VAR_RESULT, NO, NettuxPure_StarterRoom_EventScript_ReceivedTreecko
         call Common_EventScript_GetGiftMonPartySlot
         call Common_EventScript_NameReceivedPartyMon
-	goto NettuxPure_StarterRoom_EventScript_ReceivedTreecko
+        goto NettuxPure_StarterRoom_EventScript_ReceivedTreecko
         end
 
 NettuxPure_StarterRoom_EventScript_ReceivedTreecko::
-	hidemonpic
-	releaseall
-	goto NettuxPure_StarterRoom_InitialiseGame
-	end
+        hidemonpic
+        releaseall
+        goto NettuxPure_StarterRoom_InitialiseGame
+        end
 
 NettuxPure_StarterRoom_InitialiseGame::
         setflag FLAG_NETTUX_CHOSE_STARTER
@@ -182,13 +186,14 @@ NettuxPure_StarterRoom_InitialiseGame::
         setflag FLAG_RECEIVED_RUNNING_SHOES
         setflag FLAG_NETTUX_HARD
         setflag FLAG_SYS_B_DASH
-	setflag FLAG_NETTUX_HIDE_RED_1
-	setflag FLAG_NETTUX_HIDE_WALLY_1
-	giveitem ITEM_INFINITE_RARE_CANDY
-	giveitem ITEM_INFINITE_EXP_CANDY
-	giveitem ITEM_POKE_BALL
+        setflag FLAG_NETTUX_HIDE_RED_1
+        setflag FLAG_NETTUX_HIDE_WALLY_1
+        giveitem ITEM_INFINITE_RARE_CANDY
+        giveitem ITEM_INFINITE_EXP_CANDY
         closemessage
-	end
+        trainerbattle_no_intro TRAINER_NETTUX_PROF_OAK, NettuxPure_Wild00_Text_RedDefeat
+        goto Nettux_RandomWildMon
+        end
 
 NettuxPure_StarterRoom_Text_YoullTakeThisOne:
         .string "You know how to pick a good one.\p"

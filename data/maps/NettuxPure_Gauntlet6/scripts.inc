@@ -8,6 +8,7 @@ NettuxPure_Gauntlet6_EventScript_Complete::
         giveitem ITEM_LIGHT_CLAY
         giveitem ITEM_BLACK_BELT
         giveitem ITEM_EXPERT_BELT
+        giveitem ITEM_ROCKY_HELMET
         call Nettux_RandomWildMon
        	closemessage
         setflag FLAG_NETTUX_FINISH_GAUNTLET_6

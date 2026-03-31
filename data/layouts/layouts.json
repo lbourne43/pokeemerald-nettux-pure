@@ -9338,7 +9338,7 @@
     {
       "id": "LAYOUT_NETTUX_PURE_WILD00",
       "name": "NettuxPure_Wild00_Layout",
-      "width": 21,
+      "width": 22,
       "height": 36,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Petalburg",

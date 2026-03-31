@@ -17,7 +17,7 @@ NettuxPure_PlayerBedroom_Gen4::
 NettuxPure_PlayerBedroom_GoDownstairs::
         applymovement OBJ_EVENT_ID_PLAYER, NettuxPure_Base_Movement_GoToStairs
         waitmovement 0
-        warp MAP_STARTER_ROOM, 0
+        warp MAP_NETTUX_PURE_WILD00, 2
         end
 
 NettuxPure_PlayerHouse_EventScript_WallClock::
@@ -33,7 +33,7 @@ NettuxPure_PlayerHouse_EventScript_WallClock::
 
 NettuxPure_Movement_GoDownstairs:
         walk_up
-	step_end
+	      step_end
 
 NettuxPure_PlayerBedroom_Text_StarterRegion:
         .string "Which region would you like your\n"

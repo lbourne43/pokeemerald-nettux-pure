@@ -15,6 +15,7 @@ NettuxPure_Gauntlet14_Complete::
         giveitem ITEM_WISE_GLASSES
         giveitem ITEM_THROAT_SPRAY
         giveitem ITEM_WEAKNESS_POLICY
+        giveitem ITEM_RED_CARD
         giveitem ITEM_LEAF_STONE
         giveitem ITEM_COLBUR_BERRY
         giveitem ITEM_BABIRI_BERRY

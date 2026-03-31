@@ -28,6 +28,23 @@ NettuxPure_Wild00_EventScript_RedBattle::
 	closemessage
         end
 
+NettuxPure_WildArea00_EventScript_Encounters::
+        msgbox NettuxPure_Wild00_Text_Encounters, MSGBOX_DEFAULT
+        closemessage
+        end
+
+NettuxPure_WildArea00_EventScript_ChosenStarterCheck::
+        goto_if_unset FLAG_NETTUX_CHOSE_STARTER NettuxPure_WildArea00_EventScript_ChooseStarterPrompt
+	      end
+
+NettuxPure_WildArea00_EventScript_ChooseStarterPrompt::
+       	msgbox NettuxPure_WildArea00_Text_ChooseStarter, MSGBOX_DEFAULT
+        closemessage
+        applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkDown
+       	waitmovement 0
+      	end
+
+
 NettuxPure_Wild00_Text_RedIntro:
         .string "...................$"
 
@@ -45,11 +62,9 @@ NettuxPure_Wild00_Movement_RedApproaches:
         walk_right
         walk_right
         walk_up
-        walk_up
-	step_end
+      	step_end
 
 NettuxPure_Wild00_Movement_RedLeaves:
-        walk_down
         walk_down
         walk_left
         walk_left
@@ -62,10 +77,8 @@ NettuxPure_Wild00_Movement_RedLeaves:
         walk_left
         step_end
 
-NettuxPure_WildArea00_EventScript_Encounters::
-        msgbox NettuxPure_Wild00_Text_Encounters, MSGBOX_DEFAULT
-        closemessage
-        end
+NettuxPure_WildArea00_Text_ChooseStarter:
+        .string "Head to the lab and get a POKéMON!$"
 
 NettuxPure_Wild00_Text_Encounters:
         .string "POKéMON observed in this area:\l"
