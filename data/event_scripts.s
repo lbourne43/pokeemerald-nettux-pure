@@ -1918,3 +1918,5 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/NettuxPure_Archie3_Encounter/scripts.inc"
 
 	.include "data/maps/NettuxPure_GabbyAndTy/scripts.inc"
+
+	.include "data/maps/NettuxPure_Challenge/scripts.inc"

@@ -149,7 +149,7 @@ NettuxPure_EventScript_Mart::
         pokemart NettuxPure_Pokemart_Basic
         msgbox gText_PleaseComeAgain, MSGBOX_DEFAULT
         release
-	end
+	      end
 
         .align 2
 NettuxPure_Pokemart_Basic:

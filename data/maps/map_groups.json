@@ -1168,7 +1168,8 @@
   ],
   "gMapGroup_Pure": [
     "Starter_Room",
-    "NettuxPure_PlayerBedroom"
+    "NettuxPure_PlayerBedroom",
+    "NettuxPure_Challenge"
   ],
   "gMapGroup_NettuxPure_Wild": [
     "NettuxPure_Wild00",

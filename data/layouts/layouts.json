@@ -10324,6 +10324,16 @@
       "border_filepath": "data/layouts/NettuxPure_GabbyAndTy/border.bin",
       "blockdata_filepath": "data/layouts/NettuxPure_GabbyAndTy/map.bin",
       "layout_version": "emerald"
+    },
+    {
+      "id": "LAYOUT_NETTUX_PURE_CHALLENGE",
+      "name": "NettuxPure_Challenge_Layout",
+      "width": 25,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BattleFrontier",
+      "border_filepath": "data/layouts/NettuxPure_Challenge/border.bin",
+      "blockdata_filepath": "data/layouts/NettuxPure_Challenge/map.bin"
     }
   ]
 }

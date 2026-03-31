@@ -49,6 +49,13 @@
       "elevation": 0,
       "dest_map": "MAP_NETTUX_PURE_PLAYER_BEDROOM",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_NETTUX_PURE_CHALLENGE",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [
@@ -78,15 +85,6 @@
       "var": "VAR_TEMP_0",
       "var_value": "0",
       "script": "NettuxPure_WildArea00_EventScript_ChosenStarterCheck"
-    },
-    {
-      "type": "trigger",
-      "x": 9,
-      "y": 7,
-      "elevation": 0,
-      "var": "VAR_TEMP_0",
-      "var_value": "0",
-      "script": "NULL"
     }
   ],
   "bg_events": [
