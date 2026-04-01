@@ -243,7 +243,7 @@ static void SetNettuxFlagDefaults(void)
 {
     FlagSet(FLAG_RECEIVED_RUNNING_SHOES);
     FlagSet(FLAG_NETTUX_ALWAYS_OBEY);
-    FlagSet(FLAG_NETTUX_NO_CAP);
+    //FlagSet(FLAG_NETTUX_NO_CAP);
 }
 
 static void ResetMiniGamesRecords(void)

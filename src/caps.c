@@ -9,7 +9,7 @@ u32 GetCurrentLevelCap(void)
 {
     static const u32 sLevelCapFlagMap[][2] =
     {
-        {FLAG_NETTUX_DEFEATED_RED_1, 10},          // 8  RED
+        {FLAG_NETTUX_DEFEATED_RED_1, 10},          // 8 RED
         {FLAG_NETTUX_FINISH_GAUNTLET_1, 10},       // 9 BLUE
         {FLAG_NETTUX_FINISH_AQUA_FOREST, 15},      // 13 GRUNT
         {FLAG_NETTUX_FINISH_GAUNTLET_2, 15},       // 14 MAY
@@ -64,7 +64,7 @@ u32 GetCurrentLevelCap(void)
         {FLAG_NETTUX_FINISH_RED_AND_LEAF, 93},     // 93 RED&LEAF
         {FLAG_BADGE08_GET, 96},                    // 96 JUAN
                                                    // 96 OAK
-                                                   // 96 WALLY
+        {FLAG_NETTUX_FINISH_WALLY_3, 96},          // 96 WALLY
         {FLAG_IS_CHAMPION, 100},                   // 100 LEAGUE
     };
 
