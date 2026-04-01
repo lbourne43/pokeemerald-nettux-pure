@@ -132,7 +132,7 @@ Mugshot: Green
 /* Location: Wild Area 0 */
 
 Eevee
-Level: 7
+Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Tackle
 - Sand Attack
@@ -140,7 +140,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Growl
 
 Pikachu
-Level: 7
+Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Thunder Shock
 - Growl
@@ -148,33 +148,42 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Quick Attack
 
 === TRAINER_TIANA ===
-Name: TIANA
-Class: Lass
-Pic: Lass
-Gender: Female
-Music: Female
+Name: BLUE
+Class: Rival
+Pic: Rival Early Frlg
+Gender: Male
+Music: Male
 Double Battle: No
 AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 1 */
 
-Skitty
-Ability: Cute Charm
-Level: 8
+Rattata
+Ability: Guts
+Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Fake Out
-- Disarming Voice
-- Tackle
-- Growl
+- Quick Attack
+- Tail Whip
+- Work Up
+- Bite
 
-Shroomish
-Ability: Effect Spore
-Level: 8
+Abra
+Ability: Inner Focus
+Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Absorb
-- Stun Spore
-- Leech Seed
+- Confusion
+- Thunder Wave
+- Encore
+- Taunt
+
+Pidgey
+Ability: Big Pecks
+Level: 9
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Tackle
+- Sand Attack
+- Gust
+- Work Up
 
 /*
 Encounters: weedle, poochyena, wingull, zigzagoon, taillow, ralts, rattata, shroomish, sentret, mankey
@@ -344,9 +353,9 @@ Encounters: spinarak, pikachu, eevee, weedle, rattata, cyndaquil, pidgey, ralts,
 */
 
 === TRAINER_JOSE ===
-Name: JOSE
-Class: Bug Catcher
-Pic: Bug Catcher
+Name: WALLY
+Class: Rival
+Pic: Wally
 Gender: Male
 Music: Male
 Double Battle: No
@@ -354,32 +363,35 @@ AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 3 */
 
-Venonat
-Ability: Compound Eyes
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Confusion
-- Poison Powder
-- Stun Spore
-- Leech Life
+Swablu @ Wacan Berry
+Level: 20
+Ability: Mold Breaker
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Nature: Jolly
+- Tailwind
+- Round
+- Dragon Breath
+- Peck
 
-Butterfree
-Ability: Compound Eyes
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Confusion
-- Sleep Powder
-- Poison Powder
-- Gust
+Roselia @ Big Root
+Level: 20
+Ability: Natural Cure
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Nature: Timid
+- Toxic Spikes
+- Leech Seed
+- Mega Drain
+- Protect
 
-Beedrill
-Ability: Swarm
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Pin Missile
-- Fury Attack
-- Focus Energy
-- Poison Sting
+Kirlia @ Wide Lens
+Level: 20
+Ability: Synchronize
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Nature: Timid
+- Draining Kiss
+- Psybeam
+- Hypnosis
+- Charm
 
 /*
 Encounters: marill, lotad, wingull, ekans, mankey, whismur, bulbasaur, purrloin, stunky, nidoran
@@ -439,9 +451,9 @@ Encounters: tyrunt, larvitar, nacli, shieldon
 */
 
 === TRAINER_MIKE_1 ===
-Name: MIKE
-Class: Hiker
-Pic: Hiker
+Name: KOGA
+Class: Leader
+Pic: Leader Koga Frlg
 Gender: Male
 Music: Hiker
 Double Battle: No
@@ -449,32 +461,41 @@ AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 4 */
 
-Geodude
-Ability: Rock Head
-Level: 23
+Drowzee @ Oran Berry
+Ability: Insomnia
+Level: 25
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rock Throw
-- Bulldoze
-- Magnitude
-- Defense Curl
-
-Machop
-Ability: Guts
-Level: 23
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Low Kick
-- Rock Tomb
-- Bulk Up
-- Knock Off
-
-Aron
-Ability: Rock Head
-Level: 23
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Confusion
+- Hypnosis
+- Disable
 - Headbutt
-- Metal Claw
-- Rock Tomb
-- Protect
+
+Arbok @ Poison Barb
+Ability: Intimidate
+Level: 25
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Bite
+- Glare
+- Acid
+- Wrap
+
+Koffing @ Kasib Berry
+Ability: Levitate
+Level: 25
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Sludge
+- Smog
+- Tackle
+- Smokescreen
+
+Grimer @ Black Sludge
+Ability: Stench
+Level: 25
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Sludge
+- Disable
+- Minimize
+- Harden
 
 /*
 Encounters: hatenna, zubat, makuhita, fennekin, mimikyu, fletchling, stunky, doduo, weedle, ekans
@@ -534,7 +555,7 @@ Difficulty: Hard
 /* Location: Gauntlet 5 */
 
 Swellow @ Flame Orb
-Level: 24
+Level: 25
 Ability: Natural Cure
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Facade
@@ -543,7 +564,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Roost
 
 Marshtomp @ Soft Sand
-Level: 24
+Level: 25
 Ability: Torrent
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Mud Shot
@@ -552,7 +573,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Growl
 
 Grovyle @ Miracle Seed
-Level: 24
+Level: 25
 Ability: Overgrow
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Leaf Blade
@@ -561,7 +582,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Fury Cutter
 
 Combusken @ Charcoal
-Level: 24
+Level: 25
 Ability: Blaze
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Flame Charge
@@ -581,7 +602,7 @@ Difficulty: Hard
 /* Location: Gauntlet 5 */
 
 Swellow @ Flame Orb
-Level: 24
+Level: 25
 Ability: Natural Cure
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Facade
@@ -590,7 +611,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Roost
 
 Marshtomp @ Soft Sand
-Level: 24
+Level: 25
 Ability: Torrent
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Mud Shot
@@ -599,7 +620,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Growl
 
 Grovyle @ Miracle Seed
-Level: 24
+Level: 25
 Ability: Overgrow
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Leaf Blade
@@ -608,7 +629,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Fury Cutter
 
 Combusken @ Charcoal
-Level: 24
+Level: 25
 Ability: Blaze
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Flame Charge
@@ -622,51 +643,60 @@ Water Encounters: magikarp, tentacool, staryu, feebas, omanyte
 */
 
 === TRAINER_LILITH ===
-Name: LILITH
-Class: Battle Girl
-Pic: Battle Girl
+Name: LORELEI
+Class: Rival
+Pic: Elite Four Lorelei Frlg
 Gender: Female
-Music: Intense
+Music: Elite Four
 Double Battle: No
 AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 6 */
 
-Croagunk
-Ability: Anticipation
-Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Fake Out
-- Low Kick
-- Poison Fang
-- Taunt
+Ninetales-Alola @ Icy Rock
+Ability: Snow Warning
+Level: 30
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Aurora Veil
+- Icy Wind
+- Confuse Ray
+- Draining Kiss
 
-Hawlucha
-Ability: Limber
-Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Wing Attack
-- Karate Chop
-- Low Kick
-- Hone Claws
-
-Meditite
-Ability: Pure Power
-Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Force Palm
+Jynx @ Never Melt Ice
+Ability: Oblivious
+Level: 30
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Ice Punch
 - Confusion
-- Calm Mind
-- Psybeam
+- Lovely Kiss
+- Fake Tears
 
-Zangoose
-Ability: Immunity
-Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Slash
-- Quick Attack
-- Swords Dance
-- Leer
+Lapras @ Mystic Water
+Ability: Water Absorb
+Level: 30
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Water Pulse
+- Ice Beam
+- Body Slam
+- Sing
+
+Dewgong @ Chesto Berry
+Ability: Thick Fat
+Level: 30
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Aurora Beam
+- Surf
+- Rest
+- Growl
+
+Mr Mime-Galar @ Light Clay
+Ability: Screen Cleaner
+Level: 30
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Reflect
+- Light Screen
+- Confusion
+- Icy Wind
 
 /*
 Encounters: gastly, aron, mawile, makuhita, meditite, swinub, sableye, geodude, zubat, fuecoco
@@ -736,51 +766,60 @@ Encounters: tyrogue, riolu, sneasel-hisui, flamigo
 */
 
 === TRAINER_HUEY ===
-Name: HUEY
-Class: Sailor
-Pic: Sailor
-Gender: Male
-Music: Male
+Name: MISTY
+Class: Leader
+Pic: Leader Misty Frlg
+Gender: Female
+Music: Female
 Double Battle: No
 AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 7 */
 
-Machoke
-Ability: Guts
-Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Low Kick
-- Rock Tomb
-- Revenge
-- Leer
+Politoed @ Damp Rock
+Ability: Drizzle
+Level: 36
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Surf
+- Rain Dance
+- Hypnosis
+- Perish Song
 
-Magneton
-Ability: Sturdy
-Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Spark
-- Sonic Boom
-- Thunder Wave
-- Supersonic
-
-Pelipper
-Ability: Keen Eye
-Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Wing Attack
-- Water Pulse
+Ludicolo @ Mystic Water
+Ability: Swift Swim
+Level: 36
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Surf
+- Giga Drain
 - Ice Beam
+- Rain Dance
+
+Starmie @ Twisted Spoon
+Ability: Natural Cure
+Level: 36
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Surf
+- Psychic
+- Recover
+- Ice Beam
+
+Togekiss @ Wacan Berry
+Ability: Serene Grace
+Level: 36
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Air Slash
+- Water Pulse
+- Thunder Wave
 - Roost
 
-Poliwhirl
-Ability: Water Absorb
-Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Water Pulse
-- Brick Break
-- Hypnosis
-- Body Slam
+Toxicroak @ Black Sludge
+Ability: Dry Skin
+Level: 36
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Drain Punch
+- Poison Jab
+- Sucker Punch
+- Bulk Up
 
 /*
 Encounters: mudbray, phanpy, swinub, diglett, cubone, numel, wooper-paldea, trapinch, sandshrew, drilbur
@@ -882,7 +921,7 @@ Difficulty: Hard
 /* Location: Gauntlet 8 */
 
 Swellow @ Flame Orb
-Level: 39
+Level: 40
 Ability: Guts
 Nature: Jolly
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
@@ -892,7 +931,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Roost
 
 Swampert @ Soft Sand
-Level: 39
+Level: 40
 Ability: Torrent
 Nature: Adamant
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
@@ -902,7 +941,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rock Tomb
 
 Sceptile @ Miracle Seed
-Level: 39
+Level: 40
 Ability: Overgrow
 Nature: Jolly
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
@@ -912,7 +951,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Pursuit
 
 Blaziken @ Charcoal
-Level: 39
+Level: 40
 Ability: Blaze
 Nature: Adamant
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
@@ -922,7 +961,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Bulk Up
 
 Manectric @ Magnet
-Level: 39
+Level: 40
 Ability: Static
 Nature: Timid
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
@@ -943,7 +982,7 @@ Difficulty: Hard
 /* Location: Gauntlet 8 */
 
 Swellow @ Flame Orb
-Level: 39
+Level: 40
 Ability: Guts
 Nature: Jolly
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
@@ -953,7 +992,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Roost
 
 Swampert @ Soft Sand
-Level: 39
+Level: 40
 Ability: Torrent
 Nature: Adamant
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
@@ -963,7 +1002,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rock Tomb
 
 Sceptile @ Miracle Seed
-Level: 39
+Level: 40
 Ability: Overgrow
 Nature: Jolly
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
@@ -973,7 +1012,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Pursuit
 
 Blaziken @ Charcoal
-Level: 39
+Level: 40
 Ability: Blaze
 Nature: Adamant
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
@@ -983,7 +1022,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Bulk Up
 
 Manectric @ Magnet
-Level: 39
+Level: 40
 Ability: Static
 Nature: Timid
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
@@ -998,55 +1037,60 @@ Water Encounters: chinchou, - staryu, magikarp, - carvanha, shellder
 */
 
 === TRAINER_KIRK ===
-Name: KIRK
-Class: Guitarist
-Pic: Guitarist
+Name: GIOVANNI
+Class: Leader
+Pic: Leader Giovanni Frlg
 Gender: Male
-Music: Intense
+Music: Aqua
 Double Battle: No
 AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 9 */
 
-Exploud @ Throat Spray
-Ability: Scrappy
-Level: 39
-Nature: Adamant
+Kangaskhan @ Silk Scarf
+Ability: Early Bird
+Level: 44
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Boomburst
-- Hyper Voice
-- Bite
-- Bulldoze
+- Body Slam
+- Crunch
+- Fake Out
+- Double-Edge
 
-Ampharos @ Leftovers
-Ability: Static
-Level: 39
-Nature: Modest
+Nidoking @ Life Orb
+Ability: Sheer Force
+Level: 44
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Earth Power
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+
+Persian @ Kings Rock
+Ability: Technician
+Level: 44
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Fake Out
+- Bite
+- U-turn
+- Screech
+
+Tauros Paldea Blaze @ Charcoal
+Ability: Intimidate
+Level: 44
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Flame Charge
+- Close Combat
+- Raging Bull
+- Work Up
+
+Jolteon @ Magnet
+Ability: Volt Absorb
+Level: 44
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Thunderbolt
-- Power Gem
+- Shadow Ball
+- Quick Attack
 - Thunder Wave
-- Cotton Guard
-
-Toxtricity-Amped @ Choice Specs
-Ability: Punk Rock
-Level: 39
-Nature: Modest
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overdrive
-- Sludge Bomb
-- Boomburst
-- Volt Switch
-
-Noivern @ Heavy-Duty Boots
-Ability: Infiltrator
-Level: 39
-Nature: Timid
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Air Slash
-- Dragon Pulse
-- Uproar
-- Roost
 
 /*
 Encounters: voltorb, mareep, pikachu, eevee, magnemite, scorbunny, shinx, electabuzz, koffing, scyther
@@ -1066,7 +1110,7 @@ Difficulty: Hard
 /* Location: Wally 1 */
 
 Altaria @ Focus Sash
-Level: 42
+Level: 44
 Ability: Natural Cure
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Modest
@@ -1076,7 +1120,7 @@ Nature: Modest
 - Cotton Guard
 
 Roserade @ Miracle Seed
-Level: 42
+Level: 44
 Ability: Natural Cure
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Timid
@@ -1086,7 +1130,7 @@ Nature: Timid
 - Protect
 
 Excadrill @ Life Orb
-Level: 42
+Level: 44
 Ability: Mold Breaker
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Jolly
@@ -1096,7 +1140,7 @@ Nature: Jolly
 - Rapid Spin
 
 Gardevoir @ Wise Glasses
-Level: 42
+Level: 44
 Ability: Synchronize
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Timid
@@ -1186,45 +1230,60 @@ AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 10 */
 
-Machamp @ Flame Orb
-Ability: Guts
-Level: 41
-Nature: Adamant
+Crobat @ Black Sludge
+Ability: Inner Focus
+Level: 44
+Tera Type: Steel
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Cross Chop
-- Rock Tomb
-- Knock Off
-- Bulk Up
+- Cross Poison
+- Air Slash
+- Roost
+- U-turn
+
+Steelix @ Steelixite
+Ability: Sturdy
+Level: 44
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Iron Tail
+- Earthquake
+- Rock Slide
+- Curse
+
+Excadrill @ Soft Sand
+Ability: Sand Rush
+Level: 44
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Earthquake
+- Rock Slide
+- Swords Dance
+- Rapid Spin
+
+Ninetales @ Safety Goggles
+Ability: Flash Fire
+Level: 44
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Flamethrower
+- Will-O-Wisp
+- Confuse Ray
+- Hex
 
 Golem @ Hard Stone
 Ability: Sturdy
-Level: 41
-Nature: Adamant
+Level: 44
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rock Blast
+- Stone Edge
 - Earthquake
-- Steamroller
 - Explosion
+- Stealth Rock
 
-Camerupt @ Charcoal
-Ability: Solid Rock
-Level: 41
-Nature: Modest
+Aerodactyl @ Sharp Beak
+Ability: Pressure
+Level: 44
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Earth Power
-- Lava Plume
 - Rock Slide
-- Yawn
-
-Donphan @ Passho Berry
-Ability: Sturdy
-Level: 41
-Nature: Impish
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Earthquake
-- Rollout
-- Ice Shard
-- Defense Curl
+- Aerial Ace
+- Crunch
+- Roost
 
 /*
 Encounters: trapinch, karrablast, sandile, numel, cubone, cacnea, onix, geodude, sudowoodo, nidoran
@@ -1361,11 +1420,11 @@ Encounters: abra, karrablast, diglett, numel, ponyta, treecko, rhyhorn, geodude,
 */
 
 === TRAINER_BERNIE_1 ===
-Name: BERNIE
-Class: Kindler
-Pic: Kindler
+Name: BLAINE
+Class: Leader
+Pic: Leader Blaine Frlg
 Gender: Male
-Music: Hiker
+Music: Intense
 Double Battle: No
 AI: nettux
 Difficulty: Hard
@@ -1373,43 +1432,48 @@ Difficulty: Hard
 
 Ninetales @ Heat Rock
 Ability: Drought
-Level: 45
-Nature: Timid
+Level: 46
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Flamethrower
 - Will-O-Wisp
 - Confuse Ray
-- Extrasensory
+- Solar Beam
 
-Arcanine @ Charcoal
-Ability: Intimidate
-Level: 45
-Nature: Adamant
+Arcanine-Hisui @ Charcoal
+Ability: Rock Head
+Level: 46
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Flare Blitz
-- Crunch
+- Rock Slide
 - Extreme Speed
-- Bulldoze
+- Crunch
 
-Heliolisk @ Life Orb
+Rapidash-Galar @ Leftovers
+Ability: Pastel Veil
+Level: 46
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Play Rough
+- Mystical Fire
+- Psycho Cut
+- Hypnosis
+
+Heliolisk @ Wise Glasses
 Ability: Solar Power
-Level: 45
-Nature: Timid
+Level: 46
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Thunderbolt
 - Hyper Voice
 - Surf
 - Volt Switch
 
-Scovillain @ Miracle Seed
+Scovillain @ Life Orb
 Ability: Chlorophyll
-Level: 45
-Nature: Modest
+Level: 46
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Flamethrower
-- Giga Drain
-- Crunch
+- Solar Beam
 - Growth
+- Stun Spore
 
 /*
 Encounters: bronzor, pidgey, grookey, beldum, swablu, klink, lileep, anorith, ferroseed, wimpod
@@ -1429,7 +1493,7 @@ Difficulty: Hard
 /* Weather: Permanent Rain */
 
 Crobat @ Poison Barb
-Level: 47
+Level: 46
 Ability: Infiltrator
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Jolly
@@ -1439,7 +1503,7 @@ Nature: Jolly
 - Rain Dance
 
 Pelipper @ Mystic Water
-Level: 47
+Level: 46
 Ability: Drizzle
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Timid
@@ -1449,7 +1513,7 @@ Nature: Timid
 - Roost
 
 Gyarados @ Focus Sash
-Level: 47
+Level: 46
 Ability: Intimidate
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Jolly
@@ -1459,7 +1523,7 @@ Nature: Jolly
 - Dragon Dance
 
 Raichu @ Leftovers
-Level: 47
+Level: 46
 Ability: Lightning Rod
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Timid
@@ -1470,7 +1534,7 @@ Tera Type: Flying
 - Thunder Wave
 
 Sharpedo @ Sharpedonite
-Level: 47
+Level: 46
 Ability: Speed Boost
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Jolly
@@ -1608,55 +1672,70 @@ Encounters: aerodactyl, carkol, archen, litwick, rhyhorn, torkoal, magmar, tepig
 */
 
 === TRAINER_SHELBY_1 ===
-Name: SHELBY
-Class: Expert
-Pic: Expert F
+Name: AGATHA
+Class: Elite Four
+Pic: Elite Four Agatha Frlg
 Gender: Female
-Music: Intense
+Music: Elite Four
 Double Battle: No
 AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 12 */
 
-Garchomp @ Yache Berry
-Ability: Rough Skin
-Level: 49
-Nature: Jolly
+Froslass @ Focus Sash
+Ability: Snow Cloak
+Level: 55
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Dragon Claw
-- Earthquake
-- Rock Slide
-- Swords Dance
-
-Milotic @ Leftovers
-Ability: Marvel Scale
-Level: 49
-Nature: Bold
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Surf
 - Ice Beam
-- Recover
+- Shadow Ball
+- Destiny Bond
+- Thunder Wave
+
+Gengar @ Spell Tag
+Ability: Cursed Body
+Level: 55
+Tera Type: Ghost
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Shadow Ball
+- Sludge Bomb
 - Hypnosis
+- Dream Eater
 
-Magnezone @ Air Balloon
-Ability: Magnet Pull
-Level: 49
-Nature: Modest
+Banette @ Banettite
+Ability: Frisk
+Level: 55
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Thunderbolt
-- Flash Cannon
-- Volt Switch
-- Tri Attack
+- Shadow Claw
+- Sucker Punch
+- Will-O-Wisp
+- Destiny Bond
 
-Infernape @ Life Orb
-Ability: Blaze
-Level: 49
-Nature: Naive
+Mimikyu @ Life Orb
+Ability: Disguise
+Level: 55
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Close Combat
-- Flamethrower
-- Grass Knot
-- Mach Punch
+- Play Rough
+- Shadow Claw
+- Swords Dance
+- Shadow Sneak
+
+Aegislash @ Leftovers
+Ability: Stance Change
+Level: 55
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- King's Shield
+- Shadow Ball
+- Sacred Sword
+- Iron Head
+
+Arbok @ Black Sludge
+Ability: Intimidate
+Level: 55
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Poison Jab
+- Crunch
+- Glare
+- Coil
 
 /*
 Encounters: deino, vulpix, houndour, charmander, numel, drowzee, trapinch, rhyhorn, aerodactyl, pinsir
@@ -1675,7 +1754,7 @@ Mugshot: Green
 /* Location: Red 2 */
 
 Espeon @ Choice Specs
-Level: 53
+Level: 55
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psychic
 - Dazzling Gleam
@@ -1683,7 +1762,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Magical Leaf
 
 Pikachu @ Light Ball
-Level: 53
+Level: 55
 Ability: Lightning Rod
 Tera Type: Water
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -1693,7 +1772,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Surf
 
 Charizard @ Charizardite X
-Level: 53
+Level: 55
 Ability: Solar Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Swords Dance
@@ -1702,7 +1781,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flare Blitz
 
 Blastoise @ Rindo Berry
-Level: 53
+Level: 55
 Ability: Torrent
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shell Smash
@@ -1711,7 +1790,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ice Beam
 
 Venusaur @ Wide Lens
-Level: 53
+Level: 55
 Ability: Chlorophyll
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leaf Storm
@@ -1791,55 +1870,61 @@ Encounters: growlite-hisui, larvesta, charcadet, sizzlipede
 */
 
 === TRAINER_JODY ===
-Name: JODY
-Class: Cooltrainer
-Pic: Cooltrainer F
-Gender: Female
-Music: Cool
+Name: LT. SURGE
+Class: Leader
+Pic: Leader Lt Surge Frlg
+Gender: Male
+Music: Male
 Double Battle: No
 AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 13 */
 
-Tyranitar @ Lum Berry
-Ability: Sand Stream
+Pincurchin @ Terrain Extender
+Ability: Electric Surge
 Level: 55
-Nature: Adamant
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Crunch
-- Stone Edge
-- Earthquake
-- Dragon Dance
-
-Gastrodon @ Leftovers
-Ability: Storm Drain
-Level: 55
-Nature: Calm
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Thunderbolt
 - Scald
-- Earth Power
+- Toxic Spikes
 - Recover
-- Ice Beam
 
-Scizor @ Metal Coat
-Ability: Technician
+Raichu-Alola @ Magnet
+Ability: Surge Surfer
 Level: 55
-Nature: Adamant
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bullet Punch
+Tera Type: Electric
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Thunderbolt
+- Psychic
+- Nasty Plot
+- Volt Switch
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+Level: 55
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Hydro Pump
+- Volt Switch
+- Will-O-Wisp
+- Protect
+
+Flygon @ Soft Sand
+Ability: Levitate
+Level: 55
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Earthquake
+- Dragon Claw
 - U-turn
-- Close Combat
-- Swords Dance
+- Rock Slide
 
-Skarmory @ Rocky Helmet
-Ability: Sturdy
+Ampharos @ Ampharosite
+Ability: Static
 Level: 55
-Nature: Impish
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Brave Bird
-- Roost
-- Spikes
-- Iron Defense
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Thunderbolt
+- Dragon Pulse
+- Focus Blast
+- Volt Switch
 
 /*
 Encounters: machop, meditite, ralts, shuppet, mankey, makuhita, pawmi, shroomish, torchic, heracross
@@ -1857,7 +1942,7 @@ Difficulty: Hard
 /* Location: Wally 2 */
 
 Magnezone @ Light Clay
-Level: 56
+Level: 60
 Ability: Sturdy
 Tera Type: Flying
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -1868,7 +1953,7 @@ Nature: Timid
 - Reflect
 
 Altaria @ Focus Sash
-Level: 56
+Level: 60
 Ability: Natural Cure
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
@@ -1878,7 +1963,7 @@ Nature: Modest
 - Cotton Guard
 
 Roserade @ Miracle Seed
-Level: 56
+Level: 60
 Ability: Natural Cure
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Timid
@@ -1888,7 +1973,7 @@ Nature: Timid
 - Protect
 
 Excadrill @ Life Orb
-Level: 56
+Level: 60
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Jolly
@@ -1898,7 +1983,7 @@ Nature: Jolly
 - Rapid Spin
 
 Gardevoir @ Gardevoirite
-Level: 56
+Level: 60
 Ability: Synchronize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Timid
@@ -2125,7 +2210,7 @@ Difficulty: Hard
 
 Pelipper @ Damp Rock
 Ability: Drizzle
-Level: 60
+Level: 63
 Nature: Bold
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hurricane
@@ -2135,7 +2220,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kingdra @ Life Orb
 Ability: Swift Swim
-Level: 60
+Level: 63
 Nature: Modest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Muddy Water
@@ -2157,7 +2242,7 @@ Difficulty: Hard
 
 Sharpedo @ Focus Sash
 Ability: Speed Boost
-Level: 60
+Level: 63
 Nature: Jolly
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Crunch
@@ -2167,7 +2252,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Muk-Alola @ Assault Vest
 Ability: Poison Touch
-Level: 60
+Level: 63
 Nature: Careful
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Knock Off
@@ -2192,7 +2277,7 @@ Difficulty: Hard
 
 Pelipper @ Damp Rock
 Ability: Drizzle
-Level: 62
+Level: 65
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Modest
 - Hurricane
@@ -2202,7 +2287,7 @@ Nature: Modest
 
 Kingdra @ Life Orb
 Ability: Swift Swim
-Level: 62
+Level: 65
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Modest
 - Hydro Pump
@@ -2212,7 +2297,7 @@ Nature: Modest
 
 Blastoise @ Blastoisinite
 Ability: Mega Launcher
-Level: 62
+Level: 65
 Nature: Modest
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Water Pulse
@@ -2223,7 +2308,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Ludicolo @ Leftovers
 Ability: Swift Swim
 Tera Type: Grass
-Level: 62
+Level: 65
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Modest
 - Giga Drain
@@ -2233,7 +2318,7 @@ Nature: Modest
 
 Kabutops @ Focus Sash
 Ability: Swift Swim
-Level: 62
+Level: 65
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Nature: Adamant
 - Liquidation
@@ -2257,7 +2342,7 @@ Mugshot: Pink
 /* Location: Leaf 2 */
 
 Azumarill @ Assault Vest
-Level: 64
+Level: 66
 Ability: Huge Power
 Nature: Adamant
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -2267,7 +2352,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Knock Off
 
 Luxray @ Choice Band
-Level: 64
+Level: 66
 Ability: Intimidate
 Nature: Jolly
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -2277,7 +2362,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Volt Switch
 
 Ninetales @ Leftovers
-Level: 64
+Level: 66
 Ability: Flash Fire
 Nature: Timid
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -2287,7 +2372,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Energy Ball
 
 Lilligant @ Miracle Seed
-Level: 64
+Level: 66
 Ability: Own Tempo
 Nature: Modest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -2297,7 +2382,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Petal Dance
 
 Medicham @ Medichamite
-Level: 64
+Level: 66
 Ability: Pure Power
 Nature: Jolly
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -2311,65 +2396,71 @@ Encounters: grookey, magnemite, nymble, snorunt, spheal, pikachu, electrike, cas
 */
 
 === TRAINER_DARIUS ===
-Name: DARIUS
-Class: Bird Keeper
-Pic: Bird Keeper
+Name: ERIKA
+Class: Leader
+Pic: Leader Erika Frlg
 Gender: Male
-Music: Cool
+Music: Female
 Double Battle: No
 AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 15 */
 
-Staraptor @ Choice Band
-Ability: Intimidate
-Level: 65
-Nature: Jolly
+Rillaboom @ Grassy Seed
+Ability: Grassy Surge
+Level: 66
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Brave Bird
-- Close Combat
+- Grassy Glide
+- Wood Hammer
 - U-turn
-- Quick Attack
+- Knock Off
 
-Corviknight @ Leftovers
-Ability: Mirror Armor
-Level: 65
-Nature: Impish
+Venusaur @ Venusaurite
+Ability: Overgrow
+Level: 66
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Brave Bird
-- Iron Head
-- Roost
-- Defog
+- Giga Drain
+- Sludge Bomb
+- Leech Seed
+- Synthesis
 
-Talonflame @ Heavy-Duty Boots
-Ability: Gale Wings
-Level: 65
-Nature: Adamant
+Vileplume @ Black Sludge
+Ability: Effect Spore
+Level: 66
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Brave Bird
-- Flare Blitz
-- Roost
-- Will-O-Wisp
+- Giga Drain
+- Sludge Bomb
+- Sleep Powder
+- Strength Sap
 
-Decidueye @ Life Orb
-Ability: Long Reach
-Level: 65
-Nature: Adamant
+Lilligant @ Lum Berry
+Ability: Chlorophyll
+Level: 66
+Tera Type: Grass
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Spirit Shackle
-- Leaf Blade
-- Brave Bird
-- Sucker Punch
+- Quiver Dance
+- Giga Drain
+- Sleep Powder
+- Petal Dance
 
-Empoleon @ Assault Vest
-Ability: Torrent
-Level: 65
-Nature: Modest
+Florges @ Leftovers
+Ability: Flower Veil
+Level: 66
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Wish
+- Protect
+- Aromatherapy
+
+Milotic @ Rocky Helmet
+Tera Type: Fairy
+Ability: Marvel Scale
+Level: 66
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Scald
-- Flash Cannon
+- Recover
 - Ice Beam
-- Grass Knot
+- Toxic
 
 /*
 Encounters: absol, heracross, sycther, pinsir, geodude-alola, aerodactyl, archen, togedemaru, mareep, poochyena
@@ -2452,195 +2543,210 @@ Encounters: skarmory, hawlucha, rufflet, togetic
 */
 
 === TRAINER_JEFFREY_1 ===
-Name: JEFFREY
-Class: Bug Maniac
-Pic: Bug Maniac
+Name: LANCE
+Class: Elite Four
+Pic: Elite Four Lance Frlg
 Gender: Male
-Music: Suspicious
+Music: Elite Four
 Double Battle: No
 AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 16 */
 
-Volcarona @ Lum Berry
-Ability: Flame Body
+Aerodactyl @ Focus Sash
+Ability: Pressure
 Level: 70
-Nature: Timid
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Quiver Dance
-- Fiery Dance
-- Bug Buzz
+- Stone Edge
+- Dual Wingbeat
+- Stealth Rock
+- Taunt
+
+Gyarados @ Wacan Berry
+Ability: Intimidate
+Level: 70
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Waterfall
+- Crunch
+- Ice Fang
+
+Dragapult @ Choice Specs
+Ability: Infiltrator
+Level: 70
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Shadow Ball
+- Flamethrower
+- U-turn
+
+Kingdra @ Scope Lens
+Ability: Sniper
+Level: 70
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Focus Energy
+- Draco Meteor
+- Surf
+- Ice Beam
+
+Sceptile @ Sceptilite
+Ability: Unburden
+Level: 70
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leaf Storm
+- Dragon Pulse
+- Focus Blast
 - Giga Drain
 
-Scizor @ Choice Band
-Ability: Technician
+Dragonite @ Weakness Policy
+Ability: Multiscale
 Level: 70
-Nature: Adamant
+Tera Type: Flying
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bullet Punch
-- U-turn
-- Knock Off
-- Close Combat
-
-Galvantula @ Focus Sash
-Ability: Compound Eyes
-Level: 70
-Nature: Timid
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder
-- Bug Buzz
-- Sticky Web
-- Volt Switch
-
-Araquanid @ Assault Vest
-Ability: Water Bubble
-Level: 70
-Nature: Adamant
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Liquidation
-- Leech Life
-- Ice Fang
-- Mirror Coat
-
-Heracross @ Flame Orb
-Ability: Guts
-Level: 70
-Nature: Jolly
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Close Combat
-- Megahorn
-- Knock Off
-- Facade
+- Dragon Dance
+- Dual Wingbeat
+- Earthquake
+- Extreme Speed
 
 /*
 Encounters: pinsir, heracross, kecleon, absol, roselia, ferroseed, pawniard, impidimp, poochyena, deino
 */
 
 === TRAINER_WALTER_1 ===
-Name: WALTER
-Class: Gentleman
-Pic: Gentleman
+Name: BLUE
+Class: Rival
+Pic: Champion Rival Frlg
 Gender: Male
-Music: Rich
+Music: Male
 Double Battle: No
 AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 17 */
 
-Gallade @ Expert Belt
-Ability: Sharpness
-Level: 72
-Nature: Jolly
+Pidgeot @ Pidgeotite
+Ability: Big Pecks
+Level: 70
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sacred Sword
-- Psycho Cut
-- Night Slash
-- Leaf Blade
-
-Milotic @ Leftovers
-Ability: Competitive
-Level: 72
-Nature: Bold
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Scald
-- Ice Beam
-- Recover
-- Haze
-
-Chandelure @ Choice Scarf
-Ability: Flash Fire
-Level: 72
-Nature: Timid
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Shadow Ball
-- Flamethrower
-- Energy Ball
-- Trick
-
-Umbreon @ Rocky Helmet
-Ability: Inner Focus
-Level: 72
-Nature: Careful
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Foul Play
-- Wish
-- Protect
-- Taunt
-
-Togekiss @ Lum Berry
-Ability: Serene Grace
-Level: 72
-Nature: Timid
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Air Slash
-- Aura Sphere
-- Thunder Wave
+- Hurricane
+- Heat Wave
+- U-turn
 - Roost
+
+Exeggutor @ Sitrus Berry
+Ability: Chlorophyll
+Level: 70
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Giga Drain
+- Sleep Powder
+- Sunny Day
+
+Alakazam @ Focus Sash
+Ability: Magic Guard
+Level: 70
+Tera Type: Psychic
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Shadow Ball
+- Focus Blast
+- Calm Mind
+
+Rhyperior @ Weakness Policy
+Ability: Solid Rock
+Level: 70
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Rock Slide
+- Megahorn
+- Swords Dance
+
+Arcanine @ Leftovers
+Ability: Intimidate
+Level: 70
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Extreme Speed
+- Will-O-Wisp
+- Morning Sun
+
+Gyarados @ Lum Berry
+Ability: Intimidate
+Level: 70
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Waterfall
+- Crunch
+- Ice Fang
 
 /*
 Encounters: chewtle, starly, gastly, absol, scolvillain, foongus, pawniard, wimpod, nidoran, deino
 */
 
 === TRAINER_WILLIAM ===
-Name: WILLIAM
-Class: Psychic
-Pic: Psychic M
-Gender: Male
-Music: Intense
+Name: SABRINA
+Class: Leader
+Pic: Leader Sabrina Frlg
+Gender: Female
+Music: Female
 Double Battle: No
 AI: nettux
 Difficulty: Hard
 /* Location: Gauntlet 18 */
 
-Gengar @ Focus Sash
-Ability: Cursed Body
-Level: 74
-Nature: Timid
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 76
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Shadow Ball
-- Sludge Bomb
-- Focus Blast
-- Destiny Bond
+- Psychic
+- Reflect
+- Light Screen
+- Healing Wish
 
-Hatterene @ Leftovers
+Alakazam @ Alakazite
+Ability: Trace
+Level: 76
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Shadow Ball
+- Focus Blast
+- Calm Mind
+
+Espeon @ Life Orb
 Ability: Magic Bounce
-Level: 74
-Nature: Modest
+Level: 76
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psychic
 - Dazzling Gleam
+- Shadow Ball
 - Calm Mind
-- Draining Kiss
 
-Froslass @ Spell Tag
+Gengar @ Black Sludge
 Ability: Cursed Body
-Level: 74
-Nature: Timid
+Level: 76
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
-- Ice Beam
+- Sludge Bomb
 - Will-O-Wisp
-- Spikes
+- Destiny Bond
 
-Alakazam @ Life Orb
-Ability: Magic Guard
-Level: 74
-Nature: Timid
+Houndoom @ Focus Sash
+Ability: Flash Fire
+Level: 76
+Tera Type: Dark
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Psychic
-- Focus Blast
-- Shadow Ball
-- Encore
+- Flamethrower
+- Dark Pulse
+- Nasty Plot
+- Destiny Bond
 
-Mimikyu @ Lum Berry
-Ability: Disguise
-Level: 74
-Nature: Jolly
+Magnezone @ Assault Vest
+Ability: Magnet Pull
+Level: 76
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Play Rough
-- Shadow Claw
-- Swords Dance
-- Shadow Sneak
+- Thunderbolt
+- Flash Cannon
+- Volt Switch
+- Tri Attack
 
 /*
 Encounters: abra, grimer-alola, shuppet, duskull, litwick, gastly, mimikyu, impidimp, deino, houndour
@@ -2660,7 +2766,7 @@ Difficulty: Hard
 
 Dragalge @ Assault Vest
 Ability: Adaptability
-Level: 76
+Level: 74
 Nature: Modest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sludge Bomb
@@ -2670,7 +2776,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Crawdaunt @ Life Orb
 Ability: Adaptability
-Level: 76
+Level: 74
 Nature: Adamant
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Knock Off
@@ -2692,7 +2798,7 @@ Difficulty: Hard
 
 Whimsicott @ Focus Sash
 Ability: Prankster
-Level: 76
+Level: 74
 Nature: Timid
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tailwind
@@ -2702,7 +2808,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Overqwil @ Black Sludge
 Ability: Intimidate
-Level: 76
+Level: 74
 Nature: Careful
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Barb Barrage
@@ -2727,7 +2833,7 @@ Difficulty: Hard
 
 Zapdos @ Focus Sash
 Ability: Pressure
-Level: 77
+Level: 76
 Tera Type: Electric
 Nature: Timid
 IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -2738,7 +2844,7 @@ IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kingdra @ Choice Specs
 Ability: Swift Swim
-Level: 77
+Level: 76
 Nature: Modest
 IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hurricane
@@ -2748,7 +2854,7 @@ IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Swampert @ Swampertite
 Ability: Damp
-Level: 77
+Level: 76
 Nature: Adamant
 IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe
 - Liquidation
@@ -2758,7 +2864,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe
 
 Basculegion @ Choice Band
 Ability: Adaptability
-Level: 77
+Level: 76
 Nature: Adamant
 IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe
 - Wave Crash
@@ -2768,7 +2874,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe
 
 Empoleon @ Assault Vest
 Ability: Torrent
-Level: 77
+Level: 76
 Nature: Calm
 IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Scald
@@ -2778,7 +2884,7 @@ IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Toxicroak @ Life Orb
 Ability: Dry Skin
-Level: 77
+Level: 76
 Nature: Adamant
 IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe
 - Drain Punch
@@ -2804,7 +2910,7 @@ Difficulty: Hard
 
 Luxray @ Shuca Berry
 Tera Type: Fire
-Level: 78
+Level: 82
 Ability: Intimidate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Jolly
@@ -2814,7 +2920,7 @@ Nature: Jolly
 - Thunder Wave
 
 Arcanine Hisui @ Shell Bell
-Level: 78
+Level: 82
 Ability: Intimidate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flare Blitz
@@ -2823,7 +2929,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Head Smash
 
 Claydol @ Utility Umbrella
-Level: 78
+Level: 82
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Calm
@@ -2833,7 +2939,7 @@ Nature: Calm
 - Solar Beam
 
 Torkoal @ Eject Pack
-Level: 78
+Level: 82
 Ability: Drought
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
@@ -2843,7 +2949,7 @@ Nature: Modest
 - Solar Beam
 
 Houndoom @ Houndoominite
-Level: 78
+Level: 82
 Ability: Flash Fire
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
@@ -2869,7 +2975,7 @@ Difficulty: Hard
 /* Weather: Permanent Primal Sun */
 
 Groudon @ Red Orb
-Level: 80
+Level: 83
 Ability: Drought
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
@@ -2879,7 +2985,7 @@ Nature: Adamant
 - Solar Beam
 
 Crobat @ Focus Sash
-Level: 80
+Level: 83
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Jolly
@@ -2889,7 +2995,7 @@ Nature: Jolly
 - Tailwind
 
 Conkeldurr @ Flame Orb
-Level: 80
+Level: 83
 Ability: Guts
 Tera Type: Fire
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -2900,7 +3006,7 @@ Nature: Modest
 - Ice Punch
 
 Aerodactyl @ Charti Berry
-Level: 80
+Level: 83
 Ability: Pressure
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
@@ -2910,7 +3016,7 @@ Nature: Adamant
 - Dual Wingbeat
 
 Houndoom @ Chople Berry
-Level: 80
+Level: 83
 Ability: Flash Fire
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Timid
@@ -2920,7 +3026,7 @@ Nature: Timid
 - Thunder Fang
 
 Camerupt @ Cameruptite
-Level: 80
+Level: 83
 Ability: Solid Rock
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Quiet
@@ -2947,7 +3053,7 @@ Difficulty: Hard
 
 Tentacruel @ Black Sludge
 Ability: Clear Body
-Level: 78
+Level: 81
 Nature: Timid
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sludge Bomb
@@ -2957,7 +3063,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Sharpedo @ Life Orb
 Ability: Speed Boost
-Level: 78
+Level: 81
 Nature: Adamant
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Crunch
@@ -2979,7 +3085,7 @@ Difficulty: Hard
 
 Grimmsnarl @ Light Clay
 Ability: Prankster
-Level: 78
+Level: 81
 Nature: Careful
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Reflect
@@ -2989,7 +3095,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Dhelmise @ Assault Vest
 Ability: Steelworker
-Level: 78
+Level: 81
 Nature: Adamant
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Power Whip
@@ -3078,64 +3184,69 @@ Water Encounters: shellder, spheal, wimpod, palpitoad, lapras
 */
 
 === TRAINER_AURON ===
-Name: AURON
-Class: Expert
-Pic: Expert M
+Name: BRUNO
+Class: Elite Four
+Pic: Elite Four Bruno Frlg
 Gender: Male
-Music: Intense
+Music: Elite Four
 Double Battle: No
 AI: nettux
 Difficulty: Hard
 
-Garchomp @ Yache Berry
-Ability: Rough Skin
+Hitmonlee @ Focus Sash
+Ability: Unburden
 Level: 83
-Nature: Jolly
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Close Combat
+- Knock Off
+- Stone Edge
+
+Machamp @ Choice Band
+Ability: No Guard
+Level: 83
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dynamic Punch
+- Knock Off
+- Ice Punch
+- Bullet Punch
+
+Steelix @ Steelixite
+Ability: Sturdy
+Level: 83
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
-- Dragon Claw
-- Rock Slide
+- Iron Head
+- Stealth Rock
+- Roar
+
+Conkeldurr @ Flame Orb
+Ability: Guts
+Level: 83
+Tera Type: Fighting
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Drain Punch
+- Facade
+- Mach Punch
+- Bulk Up
+
+Hawlucha @ Sitrus Berry
+Ability: Unburden
+Level: 83
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- Close Combat
 - Swords Dance
+- Roost
 
-Aegislash @ Leftovers
-Ability: Stance Change
+Lucario @ Life Orb
+Ability: Inner Focus
 Level: 83
-Nature: Quiet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Kings Shield
-- Shadow Ball
-- Flash Cannon
-- Shadow Sneak
-
-Greninja @ Life Orb
-Ability: Protean
-Level: 83
-Nature: Timid
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Hydro Pump
-- Dark Pulse
-- Ice Beam
-- U-turn
-
-Clefable @ Lum Berry
-Ability: Unaware
-Level: 83
-Nature: Bold
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Moonblast
-- Flamethrower
-- Calm Mind
-- Soft-Boiled
-
-Volcarona @ Heavy-Duty Boots
-Ability: Flame Body
-Level: 83
-Nature: Timid
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Quiver Dance
-- Fiery Dance
-- Bug Buzz
-- Giga Drain
+- Close Combat
+- Meteor Mash
+- Extreme Speed
+- Swords Dance
 
 /*
 Encounters: flutter mane, great tusk, brute bonnet, scream tail, iron moth, iron jugulis, iron hands, roaring moon, iron valiant
@@ -3297,7 +3408,7 @@ Difficulty: Hard
 
 Torkoal @ White Herb
 Ability: Drought
-Level: 87
+Level: 88
 Nature: Quiet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
 - Eruption
@@ -3307,7 +3418,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
 
 Luxray @ Assault Vest
 Ability: Intimidate
-Level: 87
+Level: 88
 Nature: Adamant
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Wild Charge
@@ -3317,7 +3428,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Houndoom @ Houndoominite
 Ability: Flash Fire
-Level: 87
+Level: 88
 Nature: Timid
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Heat Wave
@@ -3339,7 +3450,7 @@ Difficulty: Hard
 
 Aerodactyl @ Aerodactylite
 Ability: Rock Head
-Level: 87
+Level: 88
 Nature: Jolly
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tailwind
@@ -3349,7 +3460,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Nidoking @ Life Orb
 Ability: Sheer Force
-Level: 87
+Level: 88
 Nature: Timid
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sludge Wave
@@ -3359,7 +3470,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Iron Moth @ Booster Energy
 Ability: Quark Drive
-Level: 87
+Level: 88
 Nature: Timid
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Heat Wave
@@ -3385,7 +3496,7 @@ Difficulty: Hard
 
 Pelipper @ Damp Rock
 Ability: Drizzle
-Level: 88
+Level: 87
 Nature: Modest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hurricane
@@ -3395,7 +3506,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Blastoise @ Blastoisinite
 Ability: Torrent
-Level: 88
+Level: 87
 Nature: Modest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
@@ -3405,7 +3516,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kabutops @ Life Orb
 Ability: Swift Swim
-Level: 88
+Level: 87
 Nature: Adamant
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Waterfall
@@ -3415,7 +3526,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Ludicolo @ Assault Vest
 Ability: Swift Swim
-Level: 88
+Level: 87
 Nature: Modest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hydro Pump
@@ -3425,7 +3536,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Raichu @ Focus Sash
 Ability: Lightning Rod
-Level: 88
+Level: 87
 Nature: Timid
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder
@@ -3435,7 +3546,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Seismitoad @ Life Orb
 Ability: Swift Swim
-Level: 88
+Level: 87
 Nature: Modest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hydro Pump
@@ -3766,65 +3877,71 @@ Encounters: cottonee, tinkatink, impidimp, hatenna
 */
 
 === TRAINER_OLIVIA ===
-Name: OLIVIA
-Class: Beauty
-Pic: Beauty
-Gender: Female
-Music: Female
+Name: PROF. OAK
+Class: Rival
+Pic: Professor Oak Frlg
+Gender: Male
+Music: Male
 Double Battle: No
-AI: nettux
 Difficulty: Hard
+AI: nettux
+Mugshot: Green
 /* Location: Gauntlet 20 */
 
-Milotic @ Leftovers
-Ability: Competitive
-Level: 97
-Nature: Bold
+Tauros-Paldea Combat @ Choice Scarf
+Ability: Intimidate
+Level: 96
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Scald
-- Ice Beam
-- Recover
-- Haze
+- Close Combat
+- Double Edge
+- Stone Edge
+- Zen Headbutt
 
-Gardevoir @ Choice Specs
-Ability: Trace
-Level: 97
-Nature: Timid
+Nidoking @ Life Orb
+Ability: Sheer Force
+Level: 96
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Moonblast
-- Psychic
-- Thunderbolt
-- Shadow Ball
-
-Ribombee @ Focus Sash
-Ability: Shield Dust
-Level: 97
-Nature: Timid
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sticky Web
-- Moonblast
-- Bug Buzz
-- Quiver Dance
-
-Primarina @ Throat Spray
-Ability: Liquid Voice
-Level: 97
-Nature: Modest
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sparkling Aria
-- Moonblast
-- Ice Beam
-- Calm Mind
-
-Salazzle @ Heavy-Duty Boots
-Ability: Corrosion
-Level: 97
-Nature: Timid
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
+- Earth Power
 - Sludge Wave
-- Toxic
-- Encore
+- Ice Beam
+- Thunderbolt
+
+Mew @ Leftovers
+Ability: Synchronize
+Level: 96
+Tera Type: Fairy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Aura Sphere
+- Will-O-Wisp
+- Soft-Boiled
+
+Venusaur @ Venusaurite
+Ability: Overgrow
+Level: 96
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Giga Drain
+- Sludge Bomb
+- Leech Seed
+- Synthesis
+
+Arcanine @ Leftovers
+Ability: Intimidate
+Level: 96
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Extreme Speed
+- Will-O-Wisp
+- Morning Sun
+
+Starmie @ Expert Belt
+Ability: Natural Cure
+Level: 96
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Psychic
+- Ice Beam
+- Thunderbolt
 
 /*
 Encounters: flutter mane, great tusk, brute bonnet, scream tail, iron moth, iron jugulis, iron hands, roaring moon, iron valiant
@@ -3842,7 +3959,7 @@ Difficulty: Hard
 /* Location: Wally 3 */
 
 Magnezone @ Light Clay
-Level: 98
+Level: 96
 Ability: Sturdy
 Tera Type: Flying
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -3853,7 +3970,7 @@ Nature: Timid
 - Reflect
 
 Altaria @ Focus Sash
-Level: 98
+Level: 96
 Ability: Natural Cure
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
@@ -3863,7 +3980,7 @@ Nature: Modest
 - Cotton Guard
 
 Roserade @ Miracle Seed
-Level: 98
+Level: 96
 Ability: Natural Cure
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Timid
@@ -3873,7 +3990,7 @@ Nature: Timid
 - Protect
 
 Excadrill @ Life Orb
-Level: 98
+Level: 96
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Jolly
@@ -3883,7 +4000,7 @@ Nature: Jolly
 - Rapid Spin
 
 Gardevoir @ Gardevoirite
-Level: 98
+Level: 96
 Ability: Synchronize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Timid
@@ -3893,7 +4010,7 @@ Nature: Timid
 - Calm Mind
 
 Rotom-Wash @ Leftovers
-Level: 98
+Level: 96
 Ability: Levitate
 IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Calm

@@ -792,6 +792,22 @@ const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM
     [OBJ_EVENT_GFX_SS_ANNE]                  = &gObjectEventGraphicsInfo_SSAnne,
 #endif // IS_FRLG
     [OBJ_EVENT_GFX_PROF_OAK]                 = &gObjectEventGraphicsInfo_ProfOak,
+    [OBJ_EVENT_GFX_BLUE]                     = &gObjectEventGraphicsInfo_Blue,
+    [OBJ_EVENT_GFX_LANCE]                    = &gObjectEventGraphicsInfo_Lance,
+    [OBJ_EVENT_GFX_AGATHA]                   = &gObjectEventGraphicsInfo_Agatha,
+    [OBJ_EVENT_GFX_LORELEI]                  = &gObjectEventGraphicsInfo_Lorelei,
+    [OBJ_EVENT_GFX_BRUNO]                    = &gObjectEventGraphicsInfo_Bruno,
+    [OBJ_EVENT_GFX_BROCK]                    = &gObjectEventGraphicsInfo_Brock,
+    [OBJ_EVENT_GFX_MISTY]                    = &gObjectEventGraphicsInfo_Misty,
+    [OBJ_EVENT_GFX_LT_SURGE]                 = &gObjectEventGraphicsInfo_LtSurge,
+    [OBJ_EVENT_GFX_ERIKA]                    = &gObjectEventGraphicsInfo_Erika,
+    [OBJ_EVENT_GFX_KOGA]                     = &gObjectEventGraphicsInfo_Koga,
+    [OBJ_EVENT_GFX_SABRINA]                  = &gObjectEventGraphicsInfo_Sabrina,
+    [OBJ_EVENT_GFX_BLAINE]                   = &gObjectEventGraphicsInfo_Blaine,
+    [OBJ_EVENT_GFX_GIOVANNI]                 = &gObjectEventGraphicsInfo_Giovanni,
+    [OBJ_EVENT_GFX_ROCKET_M]                 = &gObjectEventGraphicsInfo_RocketM,
+    [OBJ_EVENT_GFX_ROCKET_F]                 = &gObjectEventGraphicsInfo_RocketF,
+
 };
 
 const struct ObjectEventGraphicsInfo *const gMauvilleOldManGraphicsInfoPointers[] = {

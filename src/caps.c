@@ -9,48 +9,63 @@ u32 GetCurrentLevelCap(void)
 {
     static const u32 sLevelCapFlagMap[][2] =
     {
-        {FLAG_NETTUX_DEFEATED_RED_1, 10},
-        {FLAG_NETTUX_FINISH_GAUNTLET_1, 10},
-        {FLAG_NETTUX_FINISH_AQUA_FOREST, 15},
-        {FLAG_NETTUX_FINISH_GAUNTLET_2, 15},
-        {FLAG_NETTUX_FINISH_LEAF_1, 20},
-        {FLAG_NETTUX_FINISH_GAUNTLET_3, 20},
-        {FLAG_BADGE01_GET, 20},
-        {FLAG_NETTUX_FINISH_GAUNTLET_4, 26},
-        {FLAG_NETTUX_FINISH_AQUA_TUNNEL, 26},
-        {FLAG_NETTUX_FINISH_GAUNTLET_5, 26},
-        {FLAG_NETTUX_FINISH_GAUNTLET_6, 30},
-        {FLAG_BADGE02_GET, 30},
-        {FLAG_NETTUX_FINISH_GAUNTLET_7, 36},
-        {FLAG_NETTUX_FINISH_AQUA_MUSEUM, 36},
-        {FLAG_NETTUX_FINISH_GAUNTLET_8, 40},
-        {FLAG_NETTUX_FINISH_GAUNTLET_9, 44},
-        {FLAG_BADGE03_GET, 44},
-        {FLAG_NETTUX_FINISH_WINSTRATES, 45},
-        {FLAG_NETTUX_FINISH_GAUNTLET_11, 47},
-        {FLAG_NETTUX_FINISH_AQUA1, 49},
-        {FLAG_NETTUX_FINISH_MAXIE1, 51},
-        {FLAG_NETTUX_FINISH_GAUNTLET_12, 53},
-        {FLAG_BADGE04_GET, 55},
-        {FLAG_NETTUX_FINISH_WALLY_2, 57},
-        {FLAG_BADGE05_GET, 60},
-        {FLAG_NETTUX_FINISH_GAUNTLET_14, 62},
-        {FLAG_NETTUX_FINISH_SHELLY_1, 64},
-        {FLAG_NETTUX_FINISH_GAUNTLET_15, 66},
-        {FLAG_BADGE06_GET, 70},
-        {FLAG_NETTUX_FINISH_GAUNTLET_16, 72},
-        {FLAG_NETTUX_FINISH_GAUNTLET_17, 74},
-        {FLAG_NETTUX_FINISH_GAUNTLET_18, 76},
-        {FLAG_NETTUX_FINISH_ARCHIE2, 78},
-        {FLAG_NETTUX_FINISH_MAXIE2, 81},
-        {FLAG_NETTUX_FINISH_MATT, 83},
-        {FLAG_NETTUX_FINISH_GAUNTLET_19, 84},
-        {FLAG_BADGE07_GET, 86},
-        {FLAG_NETTUX_FINISH_MAXIE3, 88},
-        {FLAG_KYOGRE_ESCAPED_SEAFLOOR_CAVERN, 90},
-        {FLAG_NETTUX_FINISH_RED_AND_LEAF, 93},
-        {FLAG_BADGE08_GET, 96},
-        {FLAG_IS_CHAMPION, 100},
+        {FLAG_NETTUX_DEFEATED_RED_1, 10},          // 8  RED
+        {FLAG_NETTUX_FINISH_GAUNTLET_1, 10},       // 9 BLUE
+        {FLAG_NETTUX_FINISH_AQUA_FOREST, 15},      // 13 GRUNT
+        {FLAG_NETTUX_FINISH_GAUNTLET_2, 15},       // 14 MAY
+        {FLAG_NETTUX_FINISH_LEAF_1, 20},           // 18 LEAF
+        {FLAG_NETTUX_FINISH_GAUNTLET_3, 20},       // 20 WALLY
+        {FLAG_BADGE01_GET, 20},                    // 20 ROXANNE
+        {FLAG_NETTUX_FINISH_GAUNTLET_4, 25},       // 25 KOGA
+        {FLAG_NETTUX_FINISH_AQUA_TUNNEL, 25},      // 24 GRUNT
+        {FLAG_NETTUX_FINISH_GAUNTLET_5, 25},       // 25 MAY
+        {FLAG_NETTUX_FINISH_GAUNTLET_6, 30},       // 30 LORELEI
+        {FLAG_BADGE02_GET, 30},                    // 30 BRAWLY
+        {FLAG_NETTUX_FINISH_GAUNTLET_7, 36},       // 36 MISTY
+        {FLAG_NETTUX_FINISH_AQUA_MUSEUM, 36},      // 35 GRUNTS
+        {FLAG_NETTUX_FINISH_GAUNTLET_8, 40},       // 40 MAY
+        {FLAG_NETTUX_FINISH_GAUNTLET_9, 44},       // 44 GIOVANNI
+                                                   // 44 WALLY
+        {FLAG_BADGE03_GET, 44},                    // 44 WATTSON
+                                                   // 44 BROCK
+        {FLAG_NETTUX_FINISH_WINSTRATES, 46},       // 40+2 WINSTRATES
+        {FLAG_NETTUX_FINISH_GAUNTLET_11, 46},      // 46 BLAINE
+        {FLAG_NETTUX_FINISH_AQUA1, 46},            // 47 ARCHIE
+                                                   // 48 TABITHA
+        {FLAG_NETTUX_FINISH_MAXIE1, 50},           // 50 MAXIE
+        {FLAG_NETTUX_FINISH_GAUNTLET_12, 55},      // 55 AGATHA
+                                                   // 53 RED
+        {FLAG_BADGE04_GET, 55},                    // 55 FLANNERY
+                                                   // 55 LT SURGE
+        {FLAG_NETTUX_FINISH_WALLY_2, 60},          // 60 WALLY
+        {FLAG_BADGE05_GET, 60},                    // 60 NORMAN
+        {FLAG_NETTUX_FINISH_GAUNTLET_14, 66},      // 66 BRENDAN
+                                                   // 63 GRUNTS
+        {FLAG_NETTUX_FINISH_SHELLY_1, 66},         // 65 SHELLY
+                                                   // 66 LEAF
+        {FLAG_NETTUX_FINISH_GAUNTLET_15, 66},      // 66 ERIKA
+        {FLAG_BADGE06_GET, 70},                    // 70 WINONA
+        {FLAG_NETTUX_FINISH_GAUNTLET_16, 70},      // 70 LANCE
+        {FLAG_NETTUX_FINISH_GAUNTLET_17, 70},      // 70 BLUE
+        {FLAG_NETTUX_FINISH_GAUNTLET_18, 76},      // 76 SABRINA
+                                                   // 74 GRUNTS
+        {FLAG_NETTUX_FINISH_ARCHIE2, 76},          // 76 ARCHIE
+                                                   // 82 TABITHA
+        {FLAG_NETTUX_FINISH_MAXIE2, 83},           // 83 MAXIE
+                                                   // 81 GRUNTS
+        {FLAG_NETTUX_FINISH_MATT, 83},             // 82 MATT
+        {FLAG_NETTUX_FINISH_GAUNTLET_19, 83},      // 83 BRUNO
+        {FLAG_BADGE07_GET, 86},                    // 86 TATE&LIZA
+                                                   // 86 GRUNTS
+        {FLAG_NETTUX_FINISH_MAXIE3, 88},           // 87 MAXIE&TABITHA
+                                                   // 88 SHELLY
+        {FLAG_KYOGRE_ESCAPED_SEAFLOOR_CAVERN, 88}, // 88 ARCHIE
+                                                   // 92 GABBY&TY
+        {FLAG_NETTUX_FINISH_RED_AND_LEAF, 93},     // 93 RED&LEAF
+        {FLAG_BADGE08_GET, 96},                    // 96 JUAN
+                                                   // 96 OAK
+                                                   // 96 WALLY
+        {FLAG_IS_CHAMPION, 100},                   // 100 LEAGUE
     };
 
     u32 i;
